@@ -1,10 +1,10 @@
 /* Change this file to get your personal Porfolio */
 
-import { UniqueInputFieldNamesRule } from "graphql";
+// import { UniqueInputFieldNamesRule } from "graphql";
 
 // Website related settings
 const settings = {
-  isSplash: UniqueInputFieldNamesRule, // Change this to false if you don't want Splash screen.
+  isSplash: false, // Change this to false if you don't want Splash screen.
 };
 
 //SEO Related settings
