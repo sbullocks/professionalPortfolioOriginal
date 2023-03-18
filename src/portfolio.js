@@ -387,7 +387,7 @@ const skills = {
         },
         {
           skillName: "Zoom",
-          fontAwesomeClassname: "simple-icons:zoom",
+          fontAwesomeClassname: "simple-icons:manager",
           style: {
             color: "##2D8CFF",
           },
@@ -401,84 +401,89 @@ const skills = {
 const competitiveSites = {
   competitiveSites: [
     {
-      siteName: "LeetCode",
-      iconifyClassname: "simple-icons:leetcode",
+      siteName: "Graduate",
+      iconifyClassname: "simple-icons:googlescholar",
       style: {
-        color: "#F79F1B",
+        color: "#4285F4",
       },
-      profileLink: "https://leetcode.com/layman_brother/",
+      profileLink: "https://www.linkedin.com/in/stephen-bullocks-899559141/",
     },
-    {
-      siteName: "HackerRank",
-      iconifyClassname: "simple-icons:hackerrank",
-      style: {
-        color: "#2EC866",
-      },
-      profileLink: "https://www.hackerrank.com/layman_brother",
-    },
-    {
-      siteName: "Codechef",
-      iconifyClassname: "simple-icons:codechef",
-      style: {
-        color: "#5B4638",
-      },
-      profileLink: "https://www.codechef.com/users/ashutosh_1919",
-    },
-    {
-      siteName: "Codeforces",
-      iconifyClassname: "simple-icons:codeforces",
-      style: {
-        color: "#1F8ACB",
-      },
-      profileLink: "http://codeforces.com/profile/layman_brother",
-    },
-    {
-      siteName: "Hackerearth",
-      iconifyClassname: "simple-icons:hackerearth",
-      style: {
-        color: "#323754",
-      },
-      profileLink: "https://www.hackerearth.com/@ashutosh391",
-    },
-    {
-      siteName: "Kaggle",
-      iconifyClassname: "simple-icons:kaggle",
-      style: {
-        color: "#20BEFF",
-      },
-      profileLink: "https://www.kaggle.com/laymanbrother",
-    },
+    // {
+    //   siteName: "HackerRank",
+    //   iconifyClassname: "simple-icons:hackerrank",
+    //   style: {
+    //     color: "#2EC866",
+    //   },
+    //   profileLink: "https://www.hackerrank.com/layman_brother",
+    // },
+    // {
+    //   siteName: "Codechef",
+    //   iconifyClassname: "simple-icons:codechef",
+    //   style: {
+    //     color: "#5B4638",
+    //   },
+    //   profileLink: "https://www.codechef.com/users/ashutosh_1919",
+    // },
+    // {
+    //   siteName: "Codeforces",
+    //   iconifyClassname: "simple-icons:codeforces",
+    //   style: {
+    //     color: "#1F8ACB",
+    //   },
+    //   profileLink: "http://codeforces.com/profile/layman_brother",
+    // },
+    // {
+    //   siteName: "Hackerearth",
+    //   iconifyClassname: "simple-icons:hackerearth",
+    //   style: {
+    //     color: "#323754",
+    //   },
+    //   profileLink: "https://www.hackerearth.com/@ashutosh391",
+    // },
+    // {
+    //   siteName: "Kaggle",
+    //   iconifyClassname: "simple-icons:kaggle",
+    //   style: {
+    //     color: "#20BEFF",
+    //   },
+    //   profileLink: "https://www.kaggle.com/laymanbrother",
+    // },
   ],
 };
 
 const degrees = {
   degrees: [
     {
-      title: "Indian Institute of Information Technology Kurnool",
-      subtitle: "B.Tech. in Computer Engineering",
+      title: "University of Central Florida",
+      subtitle: "Full Stack Web Developer",
       logo_path: "iiitk_logo.png",
       alt_name: "IIITDM Kurnool",
-      duration: "2016 - 2020",
+      duration: "OCT 2022 - DEC 2022",
       descriptions: [
-        "⚡ I have studied basic software engineering subjects like DS, Algorithms, DBMS, OS, CA, AI etc.",
-        "⚡ Apart from this, I have done courses on Deep Learning, Data Science, Cloud Computing and Full Stack Development.",
-        "⚡ I was selected for Merit cum Means Scholarship which is given to top 10% of students in college. I have received award from respected director for consistently best performance in academics.",
+        "⚡ Studied the fundamental skills needed to become proficient in web development.",
+        "⚡ Experience in a wide range of topics, including HTML, CSS, JavaScript, Node.js, React, and more.",
+        "⚡ HTML/CSS: Learned how to create static web pages using HTML (Hypertext Markup Language) and CSS (Cascading Style Sheets). Also learned how to create and structure web pages, apply styles and layouts, and use multimedia elements like images and videos.",
+        "⚡ JavaScript: Learned the basics of JavaScript, a programming language used to create dynamic and interactive web pages. Including how to manipulate the Document Object Model (DOM), handle events, create functions, and work with data types and structures.",
+        "⚡ Node.js: Experience with how to use Node.js, a JavaScript runtime environment that allows them to build server-side applications using JavaScript. Practiced how to use Node.js to handle requests, interact with databases, and create APIs (Application Programming Interfaces).",
+        "⚡ React: Studied how to use React, a JavaScript library for building user interfaces. Also learn how to create reusable components, handle state and props, and use JSX (a syntax extension for JavaScript) to create dynamic and responsive UIs.",
+        "⚡ Databases: Practiced how to work with databases, including SQL (Structured Query Language) and NoSQL databases like MongoDB. Learned how to create and manipulate tables, perform CRUD (Create, Read, Update, Delete) operations, and use ORMs (Object-Relational Mappers) to interact with databases.",
+        "⚡ Other tools and technologies: I also gained experience with other tools and technologies used in web development, such as Git (a version control system), APIs, JSON (JavaScript Object Notation), AJAX (Asynchronous JavaScript and XML), and more.",
       ],
-      website_link: "http://iiitk.ac.in",
+      website_link: "https://bootcamp.ce.ucf.edu/coding/",
     },
-    {
-      title: "Indiana University Bloomington",
-      subtitle: "M.S. in Computer Science",
-      logo_path: "iu_logo.png",
-      alt_name: "Indiana University Bloomington",
-      duration: "2021 - 2023",
-      descriptions: [
-        "⚡ I have taken varity of courses related to Artificial Intelligence which correspond to Explainable AI, Graph Machine Learning, Computer Vision etc.",
-        "⚡ Apart from this, I have also done research assistantship. As part of it, I have worked on creating new algorithms in Graph ML and Network Science.",
-        "⚡ During my time at university, I was also associated with multimedia department. As part of it, I have worked on some documentry films and interviews.",
-      ],
-      website_link: "https://www.indiana.edu/",
-    },
+    // {
+    //   title: "Indiana University Bloomington",
+    //   subtitle: "M.S. in Computer Science",
+    //   logo_path: "iu_logo.png",
+    //   alt_name: "Indiana University Bloomington",
+    //   duration: "2021 - 2023",
+    //   descriptions: [
+    //     "⚡ I have taken varity of courses related to Artificial Intelligence which correspond to Explainable AI, Graph Machine Learning, Computer Vision etc.",
+    //     "⚡ Apart from this, I have also done research assistantship. As part of it, I have worked on creating new algorithms in Graph ML and Network Science.",
+    //     "⚡ During my time at university, I was also associated with multimedia department. As part of it, I have worked on some documentry films and interviews.",
+    //   ],
+    //   website_link: "https://www.indiana.edu/",
+    // },
   ],
 };
 
