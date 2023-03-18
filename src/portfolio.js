@@ -146,17 +146,10 @@ const skills = {
           },
         },
         {
-          skillName: "CSS3",
-          fontAwesomeClassname: "fa-css3",
+          skillName: "CSS",
+          fontAwesomeClassname: "simple-icons:css3",
           style: {
             color: "#1572B6",
-          },
-        },
-        {
-          skillName: "Sass",
-          fontAwesomeClassname: "simple-icons:sass",
-          style: {
-            color: "#CC6699",
           },
         },
         {
@@ -195,65 +188,32 @@ const skills = {
             color: "#2C8EBB",
           },
         },
-        // {
-        //   skillName: "Gatsby",
-        //   fontAwesomeClassname: "simple-icons:gatsby",
-        //   style: {
-        //     color: "#663399",
-        //   },
-        // },
-        // {
-        //   skillName: "Flutter",
-        //   fontAwesomeClassname: "simple-icons:flutter",
-        //   style: {
-        //     color: "#02569B",
-        //   },
-        // },
-      ],
-    },
-    {
-      title: "Cloud Infra-Architecture",
-      fileName: "CloudInfraImg",
-      skills: [
-        "⚡ Experience working on multiple cloud platforms",
-        "⚡ Hosting and maintaining websites on virtual machine instances along with integration of databases",
-        "⚡ Deploying deep learning models on cloud to use on mobile devices",
-        "⚡ Setting up streaming jobs from DB to Server or vice-versa on GCP and AWS",
-      ],
-      softwareSkills: [
         {
-          skillName: "GCP",
-          fontAwesomeClassname: "simple-icons:googlecloud",
+          skillName: "Visual Studio Code",
+          fontAwesomeClassname: "simple-icons:visualstudiocode",
           style: {
-            color: "#4285F4",
+            color: "#007ACC",
           },
         },
         {
-          skillName: "AWS",
-          fontAwesomeClassname: "simple-icons:amazonaws",
+          skillName: "jQuery",
+          fontAwesomeClassname: "simple-icons:jquery",
           style: {
-            color: "#FF9900",
+            color: "#0769AD",
           },
         },
         {
-          skillName: "Azure",
-          fontAwesomeClassname: "simple-icons:microsoftazure",
+          skillName: "PWA",
+          fontAwesomeClassname: "simple-icons:pwa",
           style: {
-            color: "#0089D6",
+            color: "#5A0FC8",
           },
         },
         {
-          skillName: "Firebase",
-          fontAwesomeClassname: "simple-icons:firebase",
+          skillName: "BootStrap",
+          fontAwesomeClassname: "simple-icons:bootstrap",
           style: {
-            color: "#FFCA28",
-          },
-        },
-        {
-          skillName: "PostgreSQL",
-          fontAwesomeClassname: "simple-icons:postgresql",
-          style: {
-            color: "#336791",
+            color: "#7952B3",
           },
         },
         {
@@ -264,56 +224,172 @@ const skills = {
           },
         },
         {
-          skillName: "Docker",
-          fontAwesomeClassname: "simple-icons:docker",
+          skillName: "MySQL",
+          fontAwesomeClassname: "simple-icons:mysql",
           style: {
-            color: "#1488C6",
+            color: "#4479A1",
           },
         },
         {
-          skillName: "Kubernetes",
-          fontAwesomeClassname: "simple-icons:kubernetes",
+          skillName: "Github",
+          fontAwesomeClassname: "simple-icons:github",
           style: {
-            color: "#326CE5",
+            color: "#181717",
+          },
+        },
+        {
+          skillName: "Heroku",
+          fontAwesomeClassname: "simple-icons:heroku",
+          style: {
+            color: "#430098",
           },
         },
       ],
     },
     {
-      title: "UI/UX Design",
+      title: "edX TA/Grader",
       fileName: "DesignImg",
       skills: [
-        "⚡ Designing highly attractive user interface for mobile and web applications",
-        "⚡ Customizing logo designs and building logos from scratch",
-        "⚡ Creating the flow of application functionalities to optimize user experience",
+        "⚡ Deliver a faster turnaround for homework grades and consistently high-quality feedback.",
+        "⚡ Prepare and stay up to date with specific curriculum expectations and core concepts.",
+        "⚡ Grade student homework submissions within 24-48 hours of submission.",
+        "⚡ Articulate clear and thorough feedback that supports the specific grade assigned.",
+        "⚡ Identify student errors and communicate explicitly for visibility to local instructional team.",
+        "⚡ Check submissions for plagiarism prior to grading and notify the team as needed.",
+        "⚡ Encourage students' progression of learning according to our pedagogy.",
+        "⚡ Communicate to the student in a way that also keeps the instructional staff in mind.",
+      ],
+
+      softwareSkills: [
+        {
+          skillName: "Visual Studio Code",
+          fontAwesomeClassname: "simple-icons:visualstudiocode",
+          style: {
+            color: "#007ACC",
+          },
+        },
+        {
+          skillName: "HTML5",
+          fontAwesomeClassname: "simple-icons:html5",
+          style: {
+            color: "#E34F26",
+          },
+        },
+        {
+          skillName: "CSS",
+          fontAwesomeClassname: "simple-icons:css3",
+          style: {
+            color: "#1572B6",
+          },
+        },
+        {
+          skillName: "JavaScript",
+          fontAwesomeClassname: "simple-icons:javascript",
+          style: {
+            backgroundColor: "#000000",
+            color: "#F7DF1E",
+          },
+        },
+        {
+          skillName: "jQuery",
+          fontAwesomeClassname: "simple-icons:jquery",
+          style: {
+            color: "#0769AD",
+          },
+        },
+        {
+          skillName: "PWA",
+          fontAwesomeClassname: "simple-icons:pwa",
+          style: {
+            color: "#5A0FC8",
+          },
+        },
+        {
+          skillName: "BootStrap",
+          fontAwesomeClassname: "simple-icons:bootstrap",
+          style: {
+            color: "#7952B3",
+          },
+        },
+        // {
+        //   skillName: "Handlebars.js",
+        //   fontAwesomeClassname: "simple-icons:handlebars",
+        //   style: {
+        //     color: "#7952B3",
+        //   },
+        // },
+        {
+          skillName: "React.js",
+          fontAwesomeClassname: "simple-icons:react",
+          style: {
+            color: "#61DAFB",
+          },
+        },
+        {
+          skillName: "MongoDB",
+          fontAwesomeClassname: "simple-icons:mongodb",
+          style: {
+            color: "#47A248",
+          },
+        },
+        {
+          skillName: "MySQL",
+          fontAwesomeClassname: "simple-icons:mysql",
+          style: {
+            color: "#4479A1",
+          },
+        },
+        {
+          skillName: "Github",
+          fontAwesomeClassname: "simple-icons:github",
+          style: {
+            color: "#181717",
+          },
+        },
+        {
+          skillName: "Heroku",
+          fontAwesomeClassname: "simple-icons:heroku",
+          style: {
+            color: "#430098",
+          },
+        },
+      ],
+    },
+    {
+      title: "Contact Center Manager",
+      fileName: "CloudInfraImg",
+      skills: [
+        "⚡ Manage and supervise CSRs to ensure excellent customer service delivery.",
+        "⚡ Develop and sustain a culture of training, professional development, and employee engagement to prepare, grow, and retain employees.",
+        "⚡ Monitor operational performance to meet KPIs and Service Level Agreements and implement solutions to improve business performance.",
+        "⚡ Analyze reports and statistical data to identify root causes for underperforming areas.",
+        "⚡ Use critical thinking to develop solutions to improve business performance and partner success.",
+        "⚡ Motivate teams through relationship building, coaching, and incentive programs to achieve desired outcomes.",
+        "⚡ Collaborate with other departments within the organization to resolve issues.",
+        "⚡ Gain expert-level knowledge on all partner products and promotions.",
+        "⚡ Demonstrate a positive work ethic and commitment to achieving the best possible outcomes.",
+        "⚡ Act as a role model and exemplify the company's cultural values.",
       ],
       softwareSkills: [
         {
-          skillName: "Adobe XD",
-          fontAwesomeClassname: "simple-icons:adobexd",
+          skillName: "WorkSpace",
+          fontAwesomeClassname: "simple-icons:privateinternetaccess",
           style: {
-            color: "#FF2BC2",
+            color: "#4BB749",
           },
         },
         {
-          skillName: "Figma",
-          fontAwesomeClassname: "simple-icons:figma",
+          skillName: "Slack",
+          fontAwesomeClassname: "simple-icons:slack",
           style: {
-            color: "#F24E1E",
+            color: "#4A154B",
           },
         },
         {
-          skillName: "Adobe Illustrator",
-          fontAwesomeClassname: "simple-icons:adobeillustrator",
+          skillName: "Zoom",
+          fontAwesomeClassname: "simple-icons:zoom",
           style: {
-            color: "#FF7C00",
-          },
-        },
-        {
-          skillName: "Inkscape",
-          fontAwesomeClassname: "simple-icons:inkscape",
-          style: {
-            color: "#000000",
+            color: "##2D8CFF",
           },
         },
       ],
