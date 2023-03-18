@@ -131,9 +131,11 @@ const skills = {
       title: "Full Stack Development",
       fileName: "FullStackImg",
       skills: [
-        "⚡ Experience with server-side frameworks for example Node.js and Express.js",
+        "⚡ Server-side frameworks for example Node.js and Express.js",
         "⚡ Experience with SQL or NoSQL databases such as MySQL and MongoDB",
         "⚡ Experience with version control systems including Git and GitHub",
+        "⚡ Testing & Debugging - Experience with writing automated tests and debugging issues in web applications such as Jest.",
+        "⚡ Development & Server Management - Experience deploying web applications to production environments and managing servers.",
       ],
       softwareSkills: [
         {
@@ -193,20 +195,20 @@ const skills = {
             color: "#2C8EBB",
           },
         },
-        {
-          skillName: "Gatsby",
-          fontAwesomeClassname: "simple-icons:gatsby",
-          style: {
-            color: "#663399",
-          },
-        },
-        {
-          skillName: "Flutter",
-          fontAwesomeClassname: "simple-icons:flutter",
-          style: {
-            color: "#02569B",
-          },
-        },
+        // {
+        //   skillName: "Gatsby",
+        //   fontAwesomeClassname: "simple-icons:gatsby",
+        //   style: {
+        //     color: "#663399",
+        //   },
+        // },
+        // {
+        //   skillName: "Flutter",
+        //   fontAwesomeClassname: "simple-icons:flutter",
+        //   style: {
+        //     color: "#02569B",
+        //   },
+        // },
       ],
     },
     {
