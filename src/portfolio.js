@@ -19,15 +19,15 @@ const seo = {
 
 //Home Page
 const greeting = {
-  title: "Ashutosh Hathidara",
-  logo_name: "AshutoshHathidara",
-  nickname: "layman_brother",
+  title: "Stephen Bullocks",
+  logo_name: "StephenBullocks",
+  nickname: "Stephen",
   subTitle:
-    "A passionate individual who always thrives to work on end to end products which develop sustainable and scalable social and technical systems to create impact.",
+    "Hello, my name is Stephen Bullocks, and I recently graduated from the University of Central Florida with a degree in Full-Stack Web Development. As a web developer, I am passionate about creating innovative and user-friendly websites that meet the needs of both clients and end-users. I am dedicated to continuing my education and learning new technologies daily to improve my skills and stay up-to-date with the latest trends in web development.",
   resumeLink:
-    "https://drive.google.com/file/d/1FL_wydnPF2SWCdw2goYAgZ1KKBx8TpcD/view?usp=sharing",
-  portfolio_repository: "https://github.com/ashutosh1919/masterPortfolio",
-  githubProfile: "https://github.com/ashutosh1919",
+    "https://onedrive.live.com/view.aspx?resid=528410233463101B!6654&ithint=file%2cdocx&authkey=!AN9lxkvPlXdGodY",
+  portfolio_repository: "https://github.com/sbullocks/professionalPortfolio",
+  githubProfile: "https://github.com/sbullocks",
 };
 
 const socialMediaLinks = [
