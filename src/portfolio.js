@@ -7,13 +7,13 @@ const settings = {
 
 //SEO Related settings
 const seo = {
-  title: "Ashutosh's Portfolio",
+  title: "Stephen's Portfolio",
   description:
-    "A passionate individual who always thrives to work on end to end products which develop sustainable and scalable social and technical systems to create impact.",
+    "Hello, my name is Stephen Bullocks, and I recently graduated from the University of Central Florida with a degree in Full-Stack Web Development. As a web developer, I am passionate about creating innovative and user-friendly websites that meet the needs of both clients and end-users. I am dedicated to continuing my education and learning new technologies daily to improve my skills and stay up-to-date with the latest trends in web development.",
   og: {
-    title: "Ashutosh Hathidara Portfolio",
+    title: "Stephen Bullocks Portfolio",
     type: "website",
-    url: "http://ashutoshhathidara.com/",
+    url: "http://sbullocks.com/",
   },
 };
 
@@ -21,7 +21,7 @@ const seo = {
 const greeting = {
   title: "Stephen Bullocks",
   logo_name: "StephenBullocks",
-  nickname: "Stephen",
+  nickname: "STEE-vən",
   subTitle:
     "Hello, my name is Stephen Bullocks, and I recently graduated from the University of Central Florida with a degree in Full-Stack Web Development. As a web developer, I am passionate about creating innovative and user-friendly websites that meet the needs of both clients and end-users. I am dedicated to continuing my education and learning new technologies daily to improve my skills and stay up-to-date with the latest trends in web development.",
   resumeLink:
@@ -53,10 +53,10 @@ const socialMediaLinks = [
     backgroundColor: "#0077B5", // Reference https://simpleicons.org/?q=linkedin
   },
   {
-    name: "YouTube",
-    link: "https://youtube.com/c/DevSense19",
-    fontAwesomeIcon: "fa-youtube", // Reference https://fontawesome.com/icons/youtube?style=brands
-    backgroundColor: "#FF0000", // Reference https://simpleicons.org/?q=youtube
+    name: "Twitch",
+    link: "https://www.twitch.tv/paid4hire",
+    fontAwesomeIcon: "fa-twitch", // Reference https://fontawesome.com/icons/twitch?style=brands
+    backgroundColor: "#6441A4", // Reference https://simpleicons.org/?q=twitch
   },
   {
     name: "Gmail",
@@ -86,54 +86,54 @@ const socialMediaLinks = [
 
 const skills = {
   data: [
-    {
-      title: "Data Science & AI",
-      fileName: "DataScienceImg",
-      skills: [
-        "⚡ Developing highly scalable production ready models for various deeplearning and statistical use cases",
-        "⚡ Experience of working with Computer Vision and NLP projects",
-        "⚡ Complex quantitative modelling for dynamic forecasting and time series analysis",
-      ],
-      softwareSkills: [
-        {
-          skillName: "Tensorflow",
-          fontAwesomeClassname: "logos-tensorflow",
-          style: {
-            backgroundColor: "transparent",
-          },
-        },
-        {
-          skillName: "Keras",
-          fontAwesomeClassname: "simple-icons:keras",
-          style: {
-            backgroundColor: "white",
-            color: "#D00000",
-          },
-        },
-        {
-          skillName: "PyTorch",
-          fontAwesomeClassname: "logos-pytorch",
-          style: {
-            backgroundColor: "transparent",
-          },
-        },
-        {
-          skillName: "Python",
-          fontAwesomeClassname: "ion-logo-python",
-          style: {
-            backgroundColor: "transparent",
-            color: "#3776AB",
-          },
-        },
-      ],
-    },
+    // {
+    //   title: "Data Science & AI",
+    //   fileName: "DataScienceImg",
+    //   skills: [
+    //     "⚡ Developing highly scalable production ready models for various deeplearning and statistical use cases",
+    //     "⚡ Experience of working with Computer Vision and NLP projects",
+    //     "⚡ Complex quantitative modelling for dynamic forecasting and time series analysis",
+    //   ],
+    //   softwareSkills: [
+    //     {
+    //       skillName: "Tensorflow",
+    //       fontAwesomeClassname: "logos-tensorflow",
+    //       style: {
+    //         backgroundColor: "transparent",
+    //       },
+    //     },
+    //     {
+    //       skillName: "Keras",
+    //       fontAwesomeClassname: "simple-icons:keras",
+    //       style: {
+    //         backgroundColor: "white",
+    //         color: "#D00000",
+    //       },
+    //     },
+    //     {
+    //       skillName: "PyTorch",
+    //       fontAwesomeClassname: "logos-pytorch",
+    //       style: {
+    //         backgroundColor: "transparent",
+    //       },
+    //     },
+    //     {
+    //       skillName: "Python",
+    //       fontAwesomeClassname: "ion-logo-python",
+    //       style: {
+    //         backgroundColor: "transparent",
+    //         color: "#3776AB",
+    //       },
+    //     },
+    //   ],
+    // },
     {
       title: "Full Stack Development",
       fileName: "FullStackImg",
       skills: [
-        "⚡ Building responsive website front end using React-Redux",
-        "⚡ Developing mobile applications using Flutter, React Native and solo android apps using Kotlin",
-        "⚡ Creating application backend in Node, Express & Flask",
+        "⚡ Experience with server-side frameworks for example Node.js and Express.js",
+        "⚡ Experience with SQL or NoSQL databases such as MySQL and MongoDB",
+        "⚡ Experience with version control systems including Git and GitHub",
       ],
       softwareSkills: [
         {
