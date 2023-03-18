@@ -389,9 +389,9 @@ const skills = {
         },
         {
           skillName: "Zoom",
-          fontAwesomeClassname: "simple-icons:manager",
+          fontAwesomeClassname: "simple-icons:zoom",
           style: {
-            color: "##2D8CFF",
+            color: "#2D8CFF",
           },
         },
       ],
@@ -458,8 +458,8 @@ const degrees = {
     {
       title: "University of Central Florida",
       subtitle: "Full Stack Web Developer",
-      logo_path: "iiitk_logo.png",
-      alt_name: "IIITDM Kurnool",
+      logo_path: "ucf-horizontal-clear.png",
+      alt_name: "UCF Logo",
       duration: "OCT 2022 - DEC 2022",
       descriptions: [
         "⚡ Studied the fundamental skills needed to become proficient in web development.",
@@ -492,9 +492,9 @@ const degrees = {
 const certifications = {
   certifications: [
     {
-      title: "Fullstack Development",
+      title: "FullStack Development",
       subtitle: "- University of Central Florida",
-      logo_path: "coursera_logo.png",
+      logo_path: "fullstack_logo.png",
       certificate_link:
         "https://drive.google.com/drive/u/0/folders/1yYPF4AmYCP3GfCZB2GqaaE7cGvpT8RuM",
       alt_name: "Coursera",
@@ -515,146 +515,223 @@ const certifications = {
 // Experience Page
 const experience = {
   title: "Experience",
-  subtitle: "Work, Internship and Volunteership",
+  subtitle: "My Work History",
   description:
-    "I have worked with many evolving startups as ML and DL Developer, Designer and Software Architect. I have also worked with some well established companies mostly as AI Developer. I love organising events and that is why I am also involved with many opensource communities as a representative.",
+    "Background in managing teams and overseeing operations in various industries, including plumbing, maintenance, and customer service. I have also provided technical support, coached and trained employees, and built and maintained client relationships. I recently graduated from Full Stack Web Development and I am excited about this new career path and eager to learn and grow in the field.",
   header_image_path: "experience.svg",
   sections: [
     {
-      title: "Work",
+      title: "Service Side Mechanical",
       experiences: [
         {
-          title: "Associate AI Engineer",
-          company: "Legato Health Technology",
+          title: "Florida Office Manager",
+          company: "HVAC",
           company_url: "https://legatohealthtech.com/",
-          logo_path: "legato_logo.png",
-          duration: "June 2020 - Aug 2021",
-          location: "Hyderabad, Telangana",
+          logo_path: "ssm_logo.png",
+          duration: "May 2021 - July 2022",
+          location: "Orlando, Florida",
           description:
-            "I am working on automating healthcare products. The projects involve automation for process improvements and for significantly enhancing the profits. I am currently working on Cancer Survival and Reoccurence Prediction. Our goal is to make AI system which scales and removes doctor dependency as much as possible.",
+            "Led and managed a team of technicians across Florida and Georgia to ensure exceptional customer service and satisfaction. Provided technical support in the field and resolved escalated customer complaints while ensuring compliance with company values. Coached and trained technicians on customer service, sales, technical and mechanical knowledge, and company products and services to improve overall performance and productivity. Developed and managed new client onboarding procedures and documents to streamline processes and increase efficiency. Provided consistent feedback, encouragement, and professional development opportunities to service technicians to enhance their skills and knowledge.",
           color: "#0879bf",
         },
-        {
-          title: "Android and ML Developer",
-          company: "Muffito Incorporation",
-          company_url: "https://www.linkedin.com/company/muffito-inc/about/",
-          logo_path: "muffito_logo.png",
-          duration: "May 2018 - Oct 2018",
-          location: "Pune, Maharashtra",
-          description:
-            "I have created complete Android Application for locating Pub, Bar and beverage shops around you. I have also worked on implementation of algorithms for Face Detection, Text extraction from Image. I was involved in a team for creating complete software architecure of mobile and web application as well as admin panel for company.",
-          color: "#9b1578",
-        },
-        {
-          title: "Android Developer",
-          company: "FreeCopy Pvt. Ltd.",
-          company_url: "https://www.linkedin.com/company/freecopy/about/",
-          logo_path: "freecopy_logo.png",
-          duration: "Nov 2017 - Dec 2017",
-          location: "Ahmedabad, Gujarat",
-          description:
-            "FreeCopy is the Start up from Indian Institute of Management, Ahmedabad. I have changed the integration of the whole app from Google to Firebase. I learnt the efﬁcient ways of Data communications like Retroﬁt, Eventbus etc. I experienced the real time start up. I learnt the Design thinking of UI on perspective of People.",
-          color: "#fc1f20",
-        },
+        // {
+        //   title: "Advanced Plumbing Technology",
+        //   company: "Plumbing Contractor",
+        //   company_url: "https://www.linkedin.com/company/muffito-inc/about/",
+        //   logo_path: "muffito_logo.png",
+        //   duration: "May 2018 - Oct 2018",
+        //   location: "Pune, Maharashtra",
+        //   description:
+        //     "I have created complete Android Application for locating Pub, Bar and beverage shops around you. I have also worked on implementation of algorithms for Face Detection, Text extraction from Image. I was involved in a team for creating complete software architecure of mobile and web application as well as admin panel for company.",
+        //   color: "#9b1578",
+        // },
+        // {
+        //   title: "CD Maintenance Company",
+        //   company: "FreeCopy Pvt. Ltd.",
+        //   company_url: "https://www.linkedin.com/company/freecopy/about/",
+        //   logo_path: "freecopy_logo.png",
+        //   duration: "Nov 2017 - Dec 2017",
+        //   location: "Ahmedabad, Gujarat",
+        //   description:
+        //     "FreeCopy is the Start up from Indian Institute of Management, Ahmedabad. I have changed the integration of the whole app from Google to Firebase. I learnt the efﬁcient ways of Data communications like Retroﬁt, Eventbus etc. I experienced the real time start up. I learnt the Design thinking of UI on perspective of People.",
+        //   color: "#fc1f20",
+        // },
       ],
     },
     {
-      title: "Internships",
+      title: "Advanced Plumbing Technology",
       experiences: [
         {
-          title: "Machine Learning Intern",
-          company: "TikTok Inc.",
+          title: "Plumbing Contractor",
+          company: "Plumber",
           company_url: "https://www.tiktok.com/en/",
-          logo_path: "tiktok_logo.png",
-          duration: "May 2022 - Aug 2022",
-          location: "San Francisco, USA",
+          logo_path: "apt_logo.png",
+          duration: "Nov 2020 - May 2021",
+          location: "Casselberry, Florida",
           description:
-            "Building new features on the backend recommendation system, specifically ranking algorithms for Ads that touch hundreds of millions of people around the world. Improving online and offline content ranking algorithms by performing hard sample data replays for training steps.",
+            "Specialized in cast iron pipe replacement and utilized advanced equipment to diagnose and address pipe issues while offering affordable solutions to homeowners. Provided end-to-end plumbing services, including initial inspection, assessment, consultation, mitigation/replacement, system testing, and clean-up.",
           color: "#000000",
         },
-        {
-          title: "Data Science Research Intern",
-          company: "Delhivery Pvt. Ltd.",
-          company_url: "https://www.delhivery.com/",
-          logo_path: "delhivery_logo.png",
-          duration: "May 2019 - Sept 2019",
-          location: "Gurgaon, Haryana",
-          description:
-            "I have worked on project of predicting freight rates based on previous data. There were two objectives: (1) To build a forecasting engine to predict daily freight rates. (2) To embed feature in the model which can explain the seasonal major changes in freight rate based on regions and locations. I have closely worked with deep learning models in combination with statistical methods to create solution for this. At the end of internship, I had created model deployed on AWS EC2 with the use of Kafka stream jobs, ElasticSearch and PostgreSQL.",
-          color: "#ee3c26",
-        },
-        {
-          title: "Data Science Intern",
-          company: "Intel Indexer LLC",
-          company_url:
-            "https://opencorporates.com/companies/us_dc/EXTUID_4170286",
-          logo_path: "intel_logo.jpg",
-          duration: "Nov 2018 - Dec 2018",
-          location: "Work From Home",
-          description:
-            "This is financial Solution Company. I have made Supervised Learning model for the company which can perform time series analysis on Stock price data for 32 companies. I have built LSTM Neural Networks Model and trained the data of 32 companies for last 2 years. This model is also used for forecasting.",
-          color: "#0071C5",
-        },
+        // {
+        //   title: "Data Science Research Intern",
+        //   company: "Delhivery Pvt. Ltd.",
+        //   company_url: "https://www.delhivery.com/",
+        //   logo_path: "delhivery_logo.png",
+        //   duration: "May 2019 - Sept 2019",
+        //   location: "Gurgaon, Haryana",
+        //   description:
+        //     "I have worked on project of predicting freight rates based on previous data. There were two objectives: (1) To build a forecasting engine to predict daily freight rates. (2) To embed feature in the model which can explain the seasonal major changes in freight rate based on regions and locations. I have closely worked with deep learning models in combination with statistical methods to create solution for this. At the end of internship, I had created model deployed on AWS EC2 with the use of Kafka stream jobs, ElasticSearch and PostgreSQL.",
+        //   color: "#ee3c26",
+        // },
+        // {
+        //   title: "Data Science Intern",
+        //   company: "Intel Indexer LLC",
+        //   company_url:
+        //     "https://opencorporates.com/companies/us_dc/EXTUID_4170286",
+        //   logo_path: "intel_logo.jpg",
+        //   duration: "Nov 2018 - Dec 2018",
+        //   location: "Work From Home",
+        //   description:
+        //     "This is financial Solution Company. I have made Supervised Learning model for the company which can perform time series analysis on Stock price data for 32 companies. I have built LSTM Neural Networks Model and trained the data of 32 companies for last 2 years. This model is also used for forecasting.",
+        //   color: "#0071C5",
+        // },
       ],
     },
     {
-      title: "Volunteerships",
+      title: "CD Maintenance Company",
       experiences: [
         {
-          title: "Google Explore ML Facilitator",
-          company: "Google",
+          title: "Senior Team Leader",
+          company: "Maintenance",
           company_url: "https://about.google/",
-          logo_path: "google_logo.png",
-          duration: "June 2019 - April 2020",
-          location: "Hyderabad, Telangana",
+          logo_path: "cdmc_logo.png",
+          duration: "Aug 2018 - Oct 2021",
+          location: "Lake Mary, Florida",
           description:
-            "Explore Machine Learning (ML) is a Google-sponsored program for university students to get started with Machine Learning. The curriculum offers 3 tracks of ML Content (Beginner, Intermediate, Advanced) and relies on university student facilitators to train other students on campus and to build opensource projects under this program.",
+            "Managed vendor relationships and ensured that all work orders were completed efficiently and effectively while adhering to company policies and procedures. Coached and developed team members to maximize their growth and productivity, resulting in increased overall team performance. Created and managed quotes to complete work orders and maintained client relationships by communicating regularly and resolving issues in a timely manner. Recruited new vendors in underrepresented areas and established long-term relationships to ensure smooth operations and customer satisfaction.",
           color: "#4285F4",
         },
+        // {
+        //   title: "Microsoft Student Partner",
+        //   company: "Microsoft",
+        //   company_url: "https://www.microsoft.com/",
+        //   logo_path: "microsoft_logo.png",
+        //   duration: "Aug 2019 - May 2020",
+        //   location: "Hyderabad, Telangana",
+        //   description:
+        //     "Microsoft Student Partner is a program for university students to lead the awareness and use of Cloud especially Azure tools in the development of their projects and startups. Under this program, I have organised hands on workshops and seminars to teach Cloud Computing concepts to students.",
+        //   color: "#D83B01",
+        // },
+        // {
+        //   title: "Mozilla Campus Captain",
+        //   company: "Mozilla",
+        //   company_url: "https://www.mozilla.org/",
+        //   logo_path: "mozilla_logo.png",
+        //   duration: "Oct 2019 - May 2020",
+        //   location: "Kurnool, Andhra Pradesh",
+        //   description:
+        //     "My responsibility for this program was to create opensource environment in college and in the city. We have organised multiple hackathons on the problems collected by ordinary people from Kurnool city. We have build opensource community of our own college. The community is available at dsc_iiitdmk on github.",
+        //   color: "#000000",
+        // },
+        // {
+        //   title: "Developer Students Club Member",
+        //   company: "DSC IIITDM Kurnool",
+        //   company_url:
+        //     "https://www.linkedin.com/company/developer-students-club-iiitdm-kurnool",
+        //   logo_path: "dsc_logo.png",
+        //   duration: "Jan 2018 - May 2020",
+        //   location: "Kurnool, Andhra Pradesh",
+        //   description:
+        //     "We have well established developer club in college which is directly associated with Google Developers. We have developed many interdisciplinary projects under the membership of this club. We have organised workshops and activities on Android Application Development, Flutter and React JS.",
+        //   color: "#0C9D58",
+        // },
+        // {
+        //   title: "Developer Program Member",
+        //   company: "Github",
+        //   company_url: "https://github.com/",
+        //   logo_path: "github_logo.png",
+        //   duration: "July 2019 - PRESENT",
+        //   location: "Work From Home",
+        //   description:
+        //     "I am actively contributing to many opensource projects. I have contributed to projects of organisations like Tensorflow, Uber, Facebook, Google, Scikit-learn, Kiwix, Sympy, Python, NVLabs, Fossasia, Netrack, Keras etc. These contributions include bug fixes, feature requests and formulating proper documentation for project.",
+        //   color: "#181717",
+        // },
+      ],
+    },
+    {
+      title: "IntouchCX",
+      experiences: [
         {
-          title: "Microsoft Student Partner",
-          company: "Microsoft",
-          company_url: "https://www.microsoft.com/",
-          logo_path: "microsoft_logo.png",
-          duration: "Aug 2019 - May 2020",
-          location: "Hyderabad, Telangana",
+          title: "Operations Manager in Training",
+          company: "Credit Karma",
+          company_url: "https://www.tiktok.com/en/",
+          logo_path: "intouchcx_logo.png",
+          duration: "Nov 2016 - Apr 2018",
+          location: "Altamonnte Springs, Florida",
           description:
-            "Microsoft Student Partner is a program for university students to lead the awareness and use of Cloud especially Azure tools in the development of their projects and startups. Under this program, I have organised hands on workshops and seminars to teach Cloud Computing concepts to students.",
-          color: "#D83B01",
-        },
-        {
-          title: "Mozilla Campus Captain",
-          company: "Mozilla",
-          company_url: "https://www.mozilla.org/",
-          logo_path: "mozilla_logo.png",
-          duration: "Oct 2019 - May 2020",
-          location: "Kurnool, Andhra Pradesh",
-          description:
-            "My responsibility for this program was to create opensource environment in college and in the city. We have organised multiple hackathons on the problems collected by ordinary people from Kurnool city. We have build opensource community of our own college. The community is available at dsc_iiitdmk on github.",
+            "Directed and managed all operational activities during shift and away from work. Contributed to the site’s overall strategic direction. Directly managed Team Managers, Team Leaders, and Customer Service Representatives.",
           color: "#000000",
         },
         {
-          title: "Developer Students Club Member",
-          company: "DSC IIITDM Kurnool",
-          company_url:
-            "https://www.linkedin.com/company/developer-students-club-iiitdm-kurnool",
-          logo_path: "dsc_logo.png",
-          duration: "Jan 2018 - May 2020",
-          location: "Kurnool, Andhra Pradesh",
+          title: "Team Leader",
+          company: "SHOWTIME",
+          company_url: "https://www.tiktok.com/en/",
+          logo_path: "intouchcx_logo.png",
+          duration: "May 2016 - Nov 2016",
+          location: "Altamonnte Springs, Florida",
           description:
-            "We have well established developer club in college which is directly associated with Google Developers. We have developed many interdisciplinary projects under the membership of this club. We have organised workshops and activities on Android Application Development, Flutter and React JS.",
-          color: "#0C9D58",
+            "Providing guidance and support to customer service representatives, ensuring high-quality service is delivered to customers. Representing clients and maintaining knowledge of their brand and products. Coaching and advocating for team members, and administering performance evaluations and training programs to promote professional and personal development.",
+          color: "#000000",
+        },
+        // {
+        //   title: "Data Science Intern",
+        //   company: "Intel Indexer LLC",
+        //   company_url:
+        //     "https://opencorporates.com/companies/us_dc/EXTUID_4170286",
+        //   logo_path: "intel_logo.jpg",
+        //   duration: "Nov 2018 - Dec 2018",
+        //   location: "Work From Home",
+        //   description:
+        //     "This is financial Solution Company. I have made Supervised Learning model for the company which can perform time series analysis on Stock price data for 32 companies. I have built LSTM Neural Networks Model and trained the data of 32 companies for last 2 years. This model is also used for forecasting.",
+        //   color: "#0071C5",
+        // },
+      ],
+    },
+    {
+      title: "Concentrix",
+      experiences: [
+        {
+          title: "Team Leader",
+          company: "AT&T",
+          company_url: "https://www.tiktok.com/en/",
+          logo_path: "concentrix_logo.png",
+          duration: "Nov 2014 - May 2016",
+          location: "Heathrow, Florida",
+          description:
+            "Effectively interact with team members from diverse backgrounds and personalities. Demonstrate genuine interest in team members and maintain open lines of communication. Advocate for team members and coach them on performance. Write and deliver bi-annual performance appraisals and provide positive and negative feedback. Develop adaptive coaching strategies to help team members achieve their goals. Build relationships with team members to ensure metrics are achieved. Take end-to-end ownership of projects and meet or exceed deadlines for reporting. Create action plans to address issues and improve team performance. Support other leaders in achieving their goals. Attend calibration sessions, conference calls, and other meetings as required. Monitor attendance and provide input for training and development opportunities.",
+          color: "#000000",
         },
         {
-          title: "Developer Program Member",
-          company: "Github",
-          company_url: "https://github.com/",
-          logo_path: "github_logo.png",
-          duration: "July 2019 - PRESENT",
-          location: "Work From Home",
+          title: "Team Support Specialist",
+          company: "AT&T",
+          company_url: "https://www.tiktok.com/en/",
+          logo_path: "concentrix_logo.png",
+          duration: "Feb 2014 - May 2014",
+          location: "Heathrow, Florida",
           description:
-            "I am actively contributing to many opensource projects. I have contributed to projects of organisations like Tensorflow, Uber, Facebook, Google, Scikit-learn, Kiwix, Sympy, Python, NVLabs, Fossasia, Netrack, Keras etc. These contributions include bug fixes, feature requests and formulating proper documentation for project.",
-          color: "#181717",
+            "Customer service and sales experience with a focus on group interactions. Skilled in goal setting, problem-solving, and building stronger relationships with customers. Ability to acquire new customers and provide fast, efficient support. Experienced in multitasking and using chat and other technical support tools. Provide floor support through walking and chat to assist team members with customer issues. Live call listening and coaching to improve customer interactions and sales outcomes. Able to handle escalation calls and record and document customer interactions. Enforce company policies and procedures to ensure high-quality service and compliance. Up-train agents on best practices for customer service and sales. Skilled in managing phone time effectively while maintaining high customer satisfaction.",
+          color: "#000000",
+        },
+        {
+          title: "Technical Support Sales Rep II",
+          company: "AT&T",
+          company_url: "https://www.tiktok.com/en/",
+          logo_path: "concentrix_logo.png",
+          duration: "Dec 2013 - Feb 2014",
+          location: "Heathrow, Florida",
+          description:
+            "Experienced in customer service, sales, and group interactions. Skilled in goal setting, problem-solving, and building stronger relationships with customers. Proven ability to acquire new customers and provide fast, efficient support. Experienced in multitasking and using chat and other technical support tools.",
+          color: "#000000",
         },
       ],
     },
