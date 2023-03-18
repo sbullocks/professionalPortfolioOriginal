@@ -1,8 +1,10 @@
 /* Change this file to get your personal Porfolio */
 
+import { UniqueInputFieldNamesRule } from "graphql";
+
 // Website related settings
 const settings = {
-  isSplash: true, // Change this to false if you don't want Splash screen.
+  isSplash: UniqueInputFieldNamesRule, // Change this to false if you don't want Splash screen.
 };
 
 //SEO Related settings
@@ -723,7 +725,7 @@ const publications = {
 const contactPageData = {
   contactSection: {
     title: "Contact Me",
-    profile_image_path: "animated_ashutosh.png",
+    profile_image_path: "selfie.png",
     description:
       "I am available via LinkedIn as I do not have social media. You can message me, I will reply within 24-48 hours.",
   },
