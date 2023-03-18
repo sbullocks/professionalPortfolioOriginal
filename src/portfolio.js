@@ -521,6 +521,38 @@ const experience = {
   header_image_path: "experience.svg",
   sections: [
     {
+      title: "Intouch CX",
+      experiences: [
+        {
+          title: "Team Leader",
+          company: "L'Oreal",
+          company_url: "https://legatohealthtech.com/",
+          logo_path: "intouchcx_logo.png",
+          duration: "March 2023 - Present",
+          location: "Remote",
+          description:
+            "As a customer service supervisor, I oversee a team of CSRs to ensure the delivery of excellent customer service. I have developed and sustained a culture of training, professional development, and employee engagement to prepare, grow, and retain employees. To ensure that we meet KPIs and Service Level Agreements, I monitor operational performance and implement solutions to improve business performance. This involves analyzing reports and statistical data to identify root causes for underperforming areas and using critical thinking to develop solutions. I motivate teams through relationship building, coaching, and incentive programs to achieve desired outcomes while collaborating with other departments within the organization to resolve issues. I have gained expert-level knowledge on all partner products and promotions and demonstrate a positive work ethic and commitment to achieving the best possible outcomes. As a role model, I exemplify the company's cultural values.",
+          color: "#0879bf",
+        },
+      ],
+    },
+    {
+      title: "edX",
+      experiences: [
+        {
+          title: "Teaching Assistance & Grader",
+          company: "Online Education",
+          company_url: "https://legatohealthtech.com/",
+          logo_path: "edx_logo.png",
+          duration: "March 2023 - Present",
+          location: "Remote",
+          description:
+            "As an educator, I am committed to delivering fast and high-quality feedback to my students. This involves preparing and staying up to date with curriculum expectations and core concepts, grading student homework submissions within 24-48 hours of submission, and providing clear and thorough feedback that supports the assigned grade. I take care to identify student errors and communicate them explicitly to the local instructional team while checking submissions for plagiarism prior to grading and notifying the team as needed. Additionally, I encourage students' learning progression according to our pedagogy and communicate with them in a way that also keeps the instructional staff in mind.",
+          color: "#0879bf",
+        },
+      ],
+    },
+    {
       title: "Service Side Mechanical",
       experiences: [
         {
@@ -534,28 +566,6 @@ const experience = {
             "Led and managed a team of technicians across Florida and Georgia to ensure exceptional customer service and satisfaction. Provided technical support in the field and resolved escalated customer complaints while ensuring compliance with company values. Coached and trained technicians on customer service, sales, technical and mechanical knowledge, and company products and services to improve overall performance and productivity. Developed and managed new client onboarding procedures and documents to streamline processes and increase efficiency. Provided consistent feedback, encouragement, and professional development opportunities to service technicians to enhance their skills and knowledge.",
           color: "#0879bf",
         },
-        // {
-        //   title: "Advanced Plumbing Technology",
-        //   company: "Plumbing Contractor",
-        //   company_url: "https://www.linkedin.com/company/muffito-inc/about/",
-        //   logo_path: "muffito_logo.png",
-        //   duration: "May 2018 - Oct 2018",
-        //   location: "Pune, Maharashtra",
-        //   description:
-        //     "I have created complete Android Application for locating Pub, Bar and beverage shops around you. I have also worked on implementation of algorithms for Face Detection, Text extraction from Image. I was involved in a team for creating complete software architecure of mobile and web application as well as admin panel for company.",
-        //   color: "#9b1578",
-        // },
-        // {
-        //   title: "CD Maintenance Company",
-        //   company: "FreeCopy Pvt. Ltd.",
-        //   company_url: "https://www.linkedin.com/company/freecopy/about/",
-        //   logo_path: "freecopy_logo.png",
-        //   duration: "Nov 2017 - Dec 2017",
-        //   location: "Ahmedabad, Gujarat",
-        //   description:
-        //     "FreeCopy is the Start up from Indian Institute of Management, Ahmedabad. I have changed the integration of the whole app from Google to Firebase. I learnt the efﬁcient ways of Data communications like Retroﬁt, Eventbus etc. I experienced the real time start up. I learnt the Design thinking of UI on perspective of People.",
-        //   color: "#fc1f20",
-        // },
       ],
     },
     {
@@ -572,29 +582,6 @@ const experience = {
             "Specialized in cast iron pipe replacement and utilized advanced equipment to diagnose and address pipe issues while offering affordable solutions to homeowners. Provided end-to-end plumbing services, including initial inspection, assessment, consultation, mitigation/replacement, system testing, and clean-up.",
           color: "#000000",
         },
-        // {
-        //   title: "Data Science Research Intern",
-        //   company: "Delhivery Pvt. Ltd.",
-        //   company_url: "https://www.delhivery.com/",
-        //   logo_path: "delhivery_logo.png",
-        //   duration: "May 2019 - Sept 2019",
-        //   location: "Gurgaon, Haryana",
-        //   description:
-        //     "I have worked on project of predicting freight rates based on previous data. There were two objectives: (1) To build a forecasting engine to predict daily freight rates. (2) To embed feature in the model which can explain the seasonal major changes in freight rate based on regions and locations. I have closely worked with deep learning models in combination with statistical methods to create solution for this. At the end of internship, I had created model deployed on AWS EC2 with the use of Kafka stream jobs, ElasticSearch and PostgreSQL.",
-        //   color: "#ee3c26",
-        // },
-        // {
-        //   title: "Data Science Intern",
-        //   company: "Intel Indexer LLC",
-        //   company_url:
-        //     "https://opencorporates.com/companies/us_dc/EXTUID_4170286",
-        //   logo_path: "intel_logo.jpg",
-        //   duration: "Nov 2018 - Dec 2018",
-        //   location: "Work From Home",
-        //   description:
-        //     "This is financial Solution Company. I have made Supervised Learning model for the company which can perform time series analysis on Stock price data for 32 companies. I have built LSTM Neural Networks Model and trained the data of 32 companies for last 2 years. This model is also used for forecasting.",
-        //   color: "#0071C5",
-        // },
       ],
     },
     {
@@ -611,61 +598,16 @@ const experience = {
             "Managed vendor relationships and ensured that all work orders were completed efficiently and effectively while adhering to company policies and procedures. Coached and developed team members to maximize their growth and productivity, resulting in increased overall team performance. Created and managed quotes to complete work orders and maintained client relationships by communicating regularly and resolving issues in a timely manner. Recruited new vendors in underrepresented areas and established long-term relationships to ensure smooth operations and customer satisfaction.",
           color: "#4285F4",
         },
-        // {
-        //   title: "Microsoft Student Partner",
-        //   company: "Microsoft",
-        //   company_url: "https://www.microsoft.com/",
-        //   logo_path: "microsoft_logo.png",
-        //   duration: "Aug 2019 - May 2020",
-        //   location: "Hyderabad, Telangana",
-        //   description:
-        //     "Microsoft Student Partner is a program for university students to lead the awareness and use of Cloud especially Azure tools in the development of their projects and startups. Under this program, I have organised hands on workshops and seminars to teach Cloud Computing concepts to students.",
-        //   color: "#D83B01",
-        // },
-        // {
-        //   title: "Mozilla Campus Captain",
-        //   company: "Mozilla",
-        //   company_url: "https://www.mozilla.org/",
-        //   logo_path: "mozilla_logo.png",
-        //   duration: "Oct 2019 - May 2020",
-        //   location: "Kurnool, Andhra Pradesh",
-        //   description:
-        //     "My responsibility for this program was to create opensource environment in college and in the city. We have organised multiple hackathons on the problems collected by ordinary people from Kurnool city. We have build opensource community of our own college. The community is available at dsc_iiitdmk on github.",
-        //   color: "#000000",
-        // },
-        // {
-        //   title: "Developer Students Club Member",
-        //   company: "DSC IIITDM Kurnool",
-        //   company_url:
-        //     "https://www.linkedin.com/company/developer-students-club-iiitdm-kurnool",
-        //   logo_path: "dsc_logo.png",
-        //   duration: "Jan 2018 - May 2020",
-        //   location: "Kurnool, Andhra Pradesh",
-        //   description:
-        //     "We have well established developer club in college which is directly associated with Google Developers. We have developed many interdisciplinary projects under the membership of this club. We have organised workshops and activities on Android Application Development, Flutter and React JS.",
-        //   color: "#0C9D58",
-        // },
-        // {
-        //   title: "Developer Program Member",
-        //   company: "Github",
-        //   company_url: "https://github.com/",
-        //   logo_path: "github_logo.png",
-        //   duration: "July 2019 - PRESENT",
-        //   location: "Work From Home",
-        //   description:
-        //     "I am actively contributing to many opensource projects. I have contributed to projects of organisations like Tensorflow, Uber, Facebook, Google, Scikit-learn, Kiwix, Sympy, Python, NVLabs, Fossasia, Netrack, Keras etc. These contributions include bug fixes, feature requests and formulating proper documentation for project.",
-        //   color: "#181717",
-        // },
       ],
     },
     {
-      title: "IntouchCX",
+      title: "24-7 Intouch",
       experiences: [
         {
           title: "Operations Manager in Training",
           company: "Credit Karma",
           company_url: "https://www.tiktok.com/en/",
-          logo_path: "intouchcx_logo.png",
+          logo_path: "247_logo.png",
           duration: "Nov 2016 - Apr 2018",
           location: "Altamonnte Springs, Florida",
           description:
@@ -676,25 +618,13 @@ const experience = {
           title: "Team Leader",
           company: "SHOWTIME",
           company_url: "https://www.tiktok.com/en/",
-          logo_path: "intouchcx_logo.png",
+          logo_path: "247_logo.png",
           duration: "May 2016 - Nov 2016",
           location: "Altamonnte Springs, Florida",
           description:
             "Providing guidance and support to customer service representatives, ensuring high-quality service is delivered to customers. Representing clients and maintaining knowledge of their brand and products. Coaching and advocating for team members, and administering performance evaluations and training programs to promote professional and personal development.",
           color: "#000000",
         },
-        // {
-        //   title: "Data Science Intern",
-        //   company: "Intel Indexer LLC",
-        //   company_url:
-        //     "https://opencorporates.com/companies/us_dc/EXTUID_4170286",
-        //   logo_path: "intel_logo.jpg",
-        //   duration: "Nov 2018 - Dec 2018",
-        //   location: "Work From Home",
-        //   description:
-        //     "This is financial Solution Company. I have made Supervised Learning model for the company which can perform time series analysis on Stock price data for 32 companies. I have built LSTM Neural Networks Model and trained the data of 32 companies for last 2 years. This model is also used for forecasting.",
-        //   color: "#0071C5",
-        // },
       ],
     },
     {
@@ -755,46 +685,46 @@ const publicationsHeader = {
 
 const publications = {
   data: [
-    {
-      id: "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzQ=",
-      name: "Artificial Intelligence Paper",
-      createdAt: "2020-03-06T16:26:54Z",
-      description: "Paper Written on Artificial Intelligence published in xyz ",
-      url:
-        "https://www.andrewng.org/publications/building-high-level-features-using-large-scale-unsupervised-learning/",
-    },
-    {
-      id: "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzi=",
-      name: "Artificial Intelligence Paper",
-      createdAt: "2020-03-06T16:26:54Z",
-      description: "Paper Written on Artificial Intelligence published in xyz ",
-      url:
-        "https://www.andrewng.org/publications/building-high-level-features-using-large-scale-unsupervised-learning/",
-    },
-    {
-      id: "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNze=",
-      name: "Artificial Intelligence Paper",
-      createdAt: "2020-03-06T16:26:54Z",
-      description: "Paper Written on Artificial Intelligence published in xyz ",
-      url:
-        "https://www.andrewng.org/publications/building-high-level-features-using-large-scale-unsupervised-learning/",
-    },
-    {
-      id: "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzt=",
-      name: "Artificial Intelligence Paper",
-      createdAt: "2020-03-06T16:26:54Z",
-      description: "Paper Written on Artificial Intelligence published in xyz ",
-      url:
-        "https://www.andrewng.org/publications/building-high-level-features-using-large-scale-unsupervised-learning/",
-    },
-    {
-      id: "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzb=",
-      name: "Artificial Intelligence Paper",
-      createdAt: "2020-03-06T16:26:54Z",
-      description: "Paper Written on Artificial Intelligence published in xyz ",
-      url:
-        "https://www.andrewng.org/publications/building-high-level-features-using-large-scale-unsupervised-learning/",
-    },
+    // {
+    //   id: "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzQ=",
+    //   name: "Artificial Intelligence Paper",
+    //   createdAt: "2020-03-06T16:26:54Z",
+    //   description: "Paper Written on Artificial Intelligence published in xyz ",
+    //   url:
+    //     "https://www.andrewng.org/publications/building-high-level-features-using-large-scale-unsupervised-learning/",
+    // },
+    // {
+    //   id: "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzi=",
+    //   name: "Artificial Intelligence Paper",
+    //   createdAt: "2020-03-06T16:26:54Z",
+    //   description: "Paper Written on Artificial Intelligence published in xyz ",
+    //   url:
+    //     "https://www.andrewng.org/publications/building-high-level-features-using-large-scale-unsupervised-learning/",
+    // },
+    // {
+    //   id: "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNze=",
+    //   name: "Artificial Intelligence Paper",
+    //   createdAt: "2020-03-06T16:26:54Z",
+    //   description: "Paper Written on Artificial Intelligence published in xyz ",
+    //   url:
+    //     "https://www.andrewng.org/publications/building-high-level-features-using-large-scale-unsupervised-learning/",
+    // },
+    // {
+    //   id: "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzt=",
+    //   name: "Artificial Intelligence Paper",
+    //   createdAt: "2020-03-06T16:26:54Z",
+    //   description: "Paper Written on Artificial Intelligence published in xyz ",
+    //   url:
+    //     "https://www.andrewng.org/publications/building-high-level-features-using-large-scale-unsupervised-learning/",
+    // },
+    // {
+    //   id: "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzb=",
+    //   name: "Artificial Intelligence Paper",
+    //   createdAt: "2020-03-06T16:26:54Z",
+    //   description: "Paper Written on Artificial Intelligence published in xyz ",
+    //   url:
+    //     "https://www.andrewng.org/publications/building-high-level-features-using-large-scale-unsupervised-learning/",
+    // },
   ],
 };
 
@@ -807,9 +737,9 @@ const contactPageData = {
       "I am available via LinkedIn as I do not have social media. You can message me, I will reply within 24-48 hours.",
   },
   blogSection: {
-    title: "Blogs",
+    title: "Under Construction",
     subtitle:
-      "For individual fundamental empowerment, I like to write powerful lessons that create impact on each of the reader individually to change the core of their character.",
+      "We apologize for the inconvenience, but this part of the page is currently under construction. Stephen is working hard to bring you the latest and greatest features, and we appreciate your patience as we work to improve your experience. Please check back soon for updates. Thank you for your understanding!",
     link: "https://blogs.ashutoshhathidara.com/",
     avatar_image_path: "blogs_image.svg",
   },
