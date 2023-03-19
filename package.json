@@ -1,8 +1,19 @@
 {
   "private": true,
-  "name": "professionalPortfolio",
+  "name": "professionalportfolio",
+  "description": "<p align=\"center\">      <img src=\"images/masterportfolio-banner-light.png\" align=\"center\" height=\"150\"></img> </p>",
+  "license": "ISC",
+  "author": "",
   "homepage": "https://sbullocks.github.io",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sbullocks/professionalPortfolio.git"
+  },
+  "bugs": {
+    "url": "https://github.com/sbullocks/professionalPortfolio/issues"
+  },
   "version": "0.1.0",
+  "main": "index.js",
   "scripts": {
     "build": "react-scripts build",
     "predeploy": "npm run build",
