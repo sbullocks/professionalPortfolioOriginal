@@ -1,0 +1,2268 @@
+{
+  "closed": 61,
+  "data": [
+    {
+      "id": "I_kwDOIlmlS85ZUtir",
+      "closed": true,
+      "title": "Models",
+      "createdAt": "2022-12-15T15:06:51Z",
+      "url": "https://github.com/JonSpircoff7/BuiltRight/issues/36",
+      "number": 36,
+      "assignees": {
+        "nodes": [
+          {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/67667801?u=6b74320b184a865445fd3e4e971dc9f8ed35ccea&v=4",
+            "name": "Jose Plasencia",
+            "url": "https://github.com/Josejpd3"
+          },
+          {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/111467879?u=20634e897b35a7bc017b67da23d7714802d265cc&v=4",
+            "name": "Stephen Bullocks",
+            "url": "https://github.com/sbullocks"
+          }
+        ]
+      },
+      "repository": {
+        "name": "BuiltRight",
+        "url": "https://github.com/JonSpircoff7/BuiltRight",
+        "owner": {
+          "login": "JonSpircoff7",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/111098928?u=1738b2bf2ff68182b206f0f7d32fda2ffdfab31a&v=4",
+          "url": "https://github.com/JonSpircoff7"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOIlmlS85ZFRLb",
+      "closed": true,
+      "title": "Notes",
+      "createdAt": "2022-12-13T15:54:12Z",
+      "url": "https://github.com/JonSpircoff7/BuiltRight/issues/29",
+      "number": 29,
+      "assignees": {
+        "nodes": [
+          {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/111467879?u=20634e897b35a7bc017b67da23d7714802d265cc&v=4",
+            "name": "Stephen Bullocks",
+            "url": "https://github.com/sbullocks"
+          }
+        ]
+      },
+      "repository": {
+        "name": "BuiltRight",
+        "url": "https://github.com/JonSpircoff7/BuiltRight",
+        "owner": {
+          "login": "JonSpircoff7",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/111098928?u=1738b2bf2ff68182b206f0f7d32fda2ffdfab31a&v=4",
+          "url": "https://github.com/JonSpircoff7"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOIlmlS85Y8dr8",
+      "closed": true,
+      "title": "Wireframe",
+      "createdAt": "2022-12-12T16:14:21Z",
+      "url": "https://github.com/JonSpircoff7/BuiltRight/issues/20",
+      "number": 20,
+      "assignees": {
+        "nodes": [
+          {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/111098928?u=1738b2bf2ff68182b206f0f7d32fda2ffdfab31a&v=4",
+            "name": "Jonathan",
+            "url": "https://github.com/JonSpircoff7"
+          }
+        ]
+      },
+      "repository": {
+        "name": "BuiltRight",
+        "url": "https://github.com/JonSpircoff7/BuiltRight",
+        "owner": {
+          "login": "JonSpircoff7",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/111098928?u=1738b2bf2ff68182b206f0f7d32fda2ffdfab31a&v=4",
+          "url": "https://github.com/JonSpircoff7"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOIlmlS85Y8QZ_",
+      "closed": false,
+      "title": "App Overview",
+      "createdAt": "2022-12-12T15:47:59Z",
+      "url": "https://github.com/JonSpircoff7/BuiltRight/issues/19",
+      "number": 19,
+      "assignees": {
+        "nodes": [
+          {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/67667801?u=6b74320b184a865445fd3e4e971dc9f8ed35ccea&v=4",
+            "name": "Jose Plasencia",
+            "url": "https://github.com/Josejpd3"
+          },
+          {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/111098928?u=1738b2bf2ff68182b206f0f7d32fda2ffdfab31a&v=4",
+            "name": "Jonathan",
+            "url": "https://github.com/JonSpircoff7"
+          },
+          {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/111467879?u=20634e897b35a7bc017b67da23d7714802d265cc&v=4",
+            "name": "Stephen Bullocks",
+            "url": "https://github.com/sbullocks"
+          }
+        ]
+      },
+      "repository": {
+        "name": "BuiltRight",
+        "url": "https://github.com/JonSpircoff7/BuiltRight",
+        "owner": {
+          "login": "JonSpircoff7",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/111098928?u=1738b2bf2ff68182b206f0f7d32fda2ffdfab31a&v=4",
+          "url": "https://github.com/JonSpircoff7"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOIlmlS85Y8JW5",
+      "closed": false,
+      "title": "Submission",
+      "createdAt": "2022-12-12T15:35:22Z",
+      "url": "https://github.com/JonSpircoff7/BuiltRight/issues/18",
+      "number": 18,
+      "assignees": {
+        "nodes": [
+          {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/67667801?u=6b74320b184a865445fd3e4e971dc9f8ed35ccea&v=4",
+            "name": "Jose Plasencia",
+            "url": "https://github.com/Josejpd3"
+          },
+          {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/96126247?v=4",
+            "name": null,
+            "url": "https://github.com/chrisy272"
+          },
+          {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/111098928?u=1738b2bf2ff68182b206f0f7d32fda2ffdfab31a&v=4",
+            "name": "Jonathan",
+            "url": "https://github.com/JonSpircoff7"
+          },
+          {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/111467879?u=20634e897b35a7bc017b67da23d7714802d265cc&v=4",
+            "name": "Stephen Bullocks",
+            "url": "https://github.com/sbullocks"
+          }
+        ]
+      },
+      "repository": {
+        "name": "BuiltRight",
+        "url": "https://github.com/JonSpircoff7/BuiltRight",
+        "owner": {
+          "login": "JonSpircoff7",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/111098928?u=1738b2bf2ff68182b206f0f7d32fda2ffdfab31a&v=4",
+          "url": "https://github.com/JonSpircoff7"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOIlmlS85Y8IVk",
+      "closed": false,
+      "title": "SLIDESHOW",
+      "createdAt": "2022-12-12T15:33:56Z",
+      "url": "https://github.com/JonSpircoff7/BuiltRight/issues/17",
+      "number": 17,
+      "assignees": {
+        "nodes": [
+          {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/67667801?u=6b74320b184a865445fd3e4e971dc9f8ed35ccea&v=4",
+            "name": "Jose Plasencia",
+            "url": "https://github.com/Josejpd3"
+          },
+          {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/96126247?v=4",
+            "name": null,
+            "url": "https://github.com/chrisy272"
+          },
+          {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/111098928?u=1738b2bf2ff68182b206f0f7d32fda2ffdfab31a&v=4",
+            "name": "Jonathan",
+            "url": "https://github.com/JonSpircoff7"
+          },
+          {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/111467879?u=20634e897b35a7bc017b67da23d7714802d265cc&v=4",
+            "name": "Stephen Bullocks",
+            "url": "https://github.com/sbullocks"
+          }
+        ]
+      },
+      "repository": {
+        "name": "BuiltRight",
+        "url": "https://github.com/JonSpircoff7/BuiltRight",
+        "owner": {
+          "login": "JonSpircoff7",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/111098928?u=1738b2bf2ff68182b206f0f7d32fda2ffdfab31a&v=4",
+          "url": "https://github.com/JonSpircoff7"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOIlmlS85Y8HDw",
+      "closed": false,
+      "title": "Bonus: Make project a PWA",
+      "createdAt": "2022-12-12T15:32:07Z",
+      "url": "https://github.com/JonSpircoff7/BuiltRight/issues/16",
+      "number": 16,
+      "assignees": {
+        "nodes": [
+          {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/67667801?u=6b74320b184a865445fd3e4e971dc9f8ed35ccea&v=4",
+            "name": "Jose Plasencia",
+            "url": "https://github.com/Josejpd3"
+          },
+          {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/111098928?u=1738b2bf2ff68182b206f0f7d32fda2ffdfab31a&v=4",
+            "name": "Jonathan",
+            "url": "https://github.com/JonSpircoff7"
+          },
+          {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/111467879?u=20634e897b35a7bc017b67da23d7714802d265cc&v=4",
+            "name": "Stephen Bullocks",
+            "url": "https://github.com/sbullocks"
+          }
+        ]
+      },
+      "repository": {
+        "name": "BuiltRight",
+        "url": "https://github.com/JonSpircoff7/BuiltRight",
+        "owner": {
+          "login": "JonSpircoff7",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/111098928?u=1738b2bf2ff68182b206f0f7d32fda2ffdfab31a&v=4",
+          "url": "https://github.com/JonSpircoff7"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOIlmlS85Y8GrG",
+      "closed": false,
+      "title": "Payment Platform",
+      "createdAt": "2022-12-12T15:31:25Z",
+      "url": "https://github.com/JonSpircoff7/BuiltRight/issues/15",
+      "number": 15,
+      "assignees": {
+        "nodes": [
+          {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/67667801?u=6b74320b184a865445fd3e4e971dc9f8ed35ccea&v=4",
+            "name": "Jose Plasencia",
+            "url": "https://github.com/Josejpd3"
+          },
+          {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/111467879?u=20634e897b35a7bc017b67da23d7714802d265cc&v=4",
+            "name": "Stephen Bullocks",
+            "url": "https://github.com/sbullocks"
+          }
+        ]
+      },
+      "repository": {
+        "name": "BuiltRight",
+        "url": "https://github.com/JonSpircoff7/BuiltRight",
+        "owner": {
+          "login": "JonSpircoff7",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/111098928?u=1738b2bf2ff68182b206f0f7d32fda2ffdfab31a&v=4",
+          "url": "https://github.com/JonSpircoff7"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOIlmlS85Y8GRI",
+      "closed": false,
+      "title": "CSS Styling",
+      "createdAt": "2022-12-12T15:30:36Z",
+      "url": "https://github.com/JonSpircoff7/BuiltRight/issues/14",
+      "number": 14,
+      "assignees": {
+        "nodes": [
+          {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/96126247?v=4",
+            "name": null,
+            "url": "https://github.com/chrisy272"
+          },
+          {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/111098928?u=1738b2bf2ff68182b206f0f7d32fda2ffdfab31a&v=4",
+            "name": "Jonathan",
+            "url": "https://github.com/JonSpircoff7"
+          }
+        ]
+      },
+      "repository": {
+        "name": "BuiltRight",
+        "url": "https://github.com/JonSpircoff7/BuiltRight",
+        "owner": {
+          "login": "JonSpircoff7",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/111098928?u=1738b2bf2ff68182b206f0f7d32fda2ffdfab31a&v=4",
+          "url": "https://github.com/JonSpircoff7"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOIlmlS85Y8FaB",
+      "closed": false,
+      "title": "Portfolio",
+      "createdAt": "2022-12-12T15:28:56Z",
+      "url": "https://github.com/JonSpircoff7/BuiltRight/issues/13",
+      "number": 13,
+      "assignees": {
+        "nodes": [
+          {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/67667801?u=6b74320b184a865445fd3e4e971dc9f8ed35ccea&v=4",
+            "name": "Jose Plasencia",
+            "url": "https://github.com/Josejpd3"
+          },
+          {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/96126247?v=4",
+            "name": null,
+            "url": "https://github.com/chrisy272"
+          },
+          {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/111098928?u=1738b2bf2ff68182b206f0f7d32fda2ffdfab31a&v=4",
+            "name": "Jonathan",
+            "url": "https://github.com/JonSpircoff7"
+          },
+          {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/111467879?u=20634e897b35a7bc017b67da23d7714802d265cc&v=4",
+            "name": "Stephen Bullocks",
+            "url": "https://github.com/sbullocks"
+          }
+        ]
+      },
+      "repository": {
+        "name": "BuiltRight",
+        "url": "https://github.com/JonSpircoff7/BuiltRight",
+        "owner": {
+          "login": "JonSpircoff7",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/111098928?u=1738b2bf2ff68182b206f0f7d32fda2ffdfab31a&v=4",
+          "url": "https://github.com/JonSpircoff7"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOIlmlS85Y8FDi",
+      "closed": false,
+      "title": "README",
+      "createdAt": "2022-12-12T15:28:15Z",
+      "url": "https://github.com/JonSpircoff7/BuiltRight/issues/12",
+      "number": 12,
+      "assignees": {
+        "nodes": [
+          {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/111467879?u=20634e897b35a7bc017b67da23d7714802d265cc&v=4",
+            "name": "Stephen Bullocks",
+            "url": "https://github.com/sbullocks"
+          }
+        ]
+      },
+      "repository": {
+        "name": "BuiltRight",
+        "url": "https://github.com/JonSpircoff7/BuiltRight",
+        "owner": {
+          "login": "JonSpircoff7",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/111098928?u=1738b2bf2ff68182b206f0f7d32fda2ffdfab31a&v=4",
+          "url": "https://github.com/JonSpircoff7"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOIlmlS85Y8E1_",
+      "closed": true,
+      "title": "Repository is cleaned up",
+      "createdAt": "2022-12-12T15:27:53Z",
+      "url": "https://github.com/JonSpircoff7/BuiltRight/issues/11",
+      "number": 11,
+      "assignees": {
+        "nodes": [
+          {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/111467879?u=20634e897b35a7bc017b67da23d7714802d265cc&v=4",
+            "name": "Stephen Bullocks",
+            "url": "https://github.com/sbullocks"
+          }
+        ]
+      },
+      "repository": {
+        "name": "BuiltRight",
+        "url": "https://github.com/JonSpircoff7/BuiltRight",
+        "owner": {
+          "login": "JonSpircoff7",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/111098928?u=1738b2bf2ff68182b206f0f7d32fda2ffdfab31a&v=4",
+          "url": "https://github.com/JonSpircoff7"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOIlmlS85Y8Efd",
+      "closed": true,
+      "title": "Privacy/Security",
+      "createdAt": "2022-12-12T15:27:12Z",
+      "url": "https://github.com/JonSpircoff7/BuiltRight/issues/10",
+      "number": 10,
+      "assignees": {
+        "nodes": [
+          {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/67667801?u=6b74320b184a865445fd3e4e971dc9f8ed35ccea&v=4",
+            "name": "Jose Plasencia",
+            "url": "https://github.com/Josejpd3"
+          },
+          {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/111467879?u=20634e897b35a7bc017b67da23d7714802d265cc&v=4",
+            "name": "Stephen Bullocks",
+            "url": "https://github.com/sbullocks"
+          }
+        ]
+      },
+      "repository": {
+        "name": "BuiltRight",
+        "url": "https://github.com/JonSpircoff7/BuiltRight",
+        "owner": {
+          "login": "JonSpircoff7",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/111098928?u=1738b2bf2ff68182b206f0f7d32fda2ffdfab31a&v=4",
+          "url": "https://github.com/JonSpircoff7"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOIlmlS85Y8EK6",
+      "closed": true,
+      "title": "Login/ JWTAuth",
+      "createdAt": "2022-12-12T15:26:37Z",
+      "url": "https://github.com/JonSpircoff7/BuiltRight/issues/9",
+      "number": 9,
+      "assignees": {
+        "nodes": [
+          {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/111467879?u=20634e897b35a7bc017b67da23d7714802d265cc&v=4",
+            "name": "Stephen Bullocks",
+            "url": "https://github.com/sbullocks"
+          }
+        ]
+      },
+      "repository": {
+        "name": "BuiltRight",
+        "url": "https://github.com/JonSpircoff7/BuiltRight",
+        "owner": {
+          "login": "JonSpircoff7",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/111098928?u=1738b2bf2ff68182b206f0f7d32fda2ffdfab31a&v=4",
+          "url": "https://github.com/JonSpircoff7"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOIlmlS85Y8DcO",
+      "closed": true,
+      "title": "Interactive",
+      "createdAt": "2022-12-12T15:25:18Z",
+      "url": "https://github.com/JonSpircoff7/BuiltRight/issues/8",
+      "number": 8,
+      "assignees": {
+        "nodes": [
+          {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/67667801?u=6b74320b184a865445fd3e4e971dc9f8ed35ccea&v=4",
+            "name": "Jose Plasencia",
+            "url": "https://github.com/Josejpd3"
+          },
+          {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/111098928?u=1738b2bf2ff68182b206f0f7d32fda2ffdfab31a&v=4",
+            "name": "Jonathan",
+            "url": "https://github.com/JonSpircoff7"
+          },
+          {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/111467879?u=20634e897b35a7bc017b67da23d7714802d265cc&v=4",
+            "name": "Stephen Bullocks",
+            "url": "https://github.com/sbullocks"
+          }
+        ]
+      },
+      "repository": {
+        "name": "BuiltRight",
+        "url": "https://github.com/JonSpircoff7/BuiltRight",
+        "owner": {
+          "login": "JonSpircoff7",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/111098928?u=1738b2bf2ff68182b206f0f7d32fda2ffdfab31a&v=4",
+          "url": "https://github.com/JonSpircoff7"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOIlmlS85Y8C1E",
+      "closed": true,
+      "title": "Responsiveness",
+      "createdAt": "2022-12-12T15:24:13Z",
+      "url": "https://github.com/JonSpircoff7/BuiltRight/issues/7",
+      "number": 7,
+      "assignees": {
+        "nodes": [
+          {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/67667801?u=6b74320b184a865445fd3e4e971dc9f8ed35ccea&v=4",
+            "name": "Jose Plasencia",
+            "url": "https://github.com/Josejpd3"
+          },
+          {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/96126247?v=4",
+            "name": null,
+            "url": "https://github.com/chrisy272"
+          },
+          {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/111098928?u=1738b2bf2ff68182b206f0f7d32fda2ffdfab31a&v=4",
+            "name": "Jonathan",
+            "url": "https://github.com/JonSpircoff7"
+          },
+          {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/111467879?u=20634e897b35a7bc017b67da23d7714802d265cc&v=4",
+            "name": "Stephen Bullocks",
+            "url": "https://github.com/sbullocks"
+          }
+        ]
+      },
+      "repository": {
+        "name": "BuiltRight",
+        "url": "https://github.com/JonSpircoff7/BuiltRight",
+        "owner": {
+          "login": "JonSpircoff7",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/111098928?u=1738b2bf2ff68182b206f0f7d32fda2ffdfab31a&v=4",
+          "url": "https://github.com/JonSpircoff7"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOIlmlS85Y8CWj",
+      "closed": true,
+      "title": "Polished UI",
+      "createdAt": "2022-12-12T15:23:20Z",
+      "url": "https://github.com/JonSpircoff7/BuiltRight/issues/6",
+      "number": 6,
+      "assignees": {
+        "nodes": [
+          {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/67667801?u=6b74320b184a865445fd3e4e971dc9f8ed35ccea&v=4",
+            "name": "Jose Plasencia",
+            "url": "https://github.com/Josejpd3"
+          },
+          {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/96126247?v=4",
+            "name": null,
+            "url": "https://github.com/chrisy272"
+          },
+          {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/111098928?u=1738b2bf2ff68182b206f0f7d32fda2ffdfab31a&v=4",
+            "name": "Jonathan",
+            "url": "https://github.com/JonSpircoff7"
+          },
+          {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/111467879?u=20634e897b35a7bc017b67da23d7714802d265cc&v=4",
+            "name": "Stephen Bullocks",
+            "url": "https://github.com/sbullocks"
+          }
+        ]
+      },
+      "repository": {
+        "name": "BuiltRight",
+        "url": "https://github.com/JonSpircoff7/BuiltRight",
+        "owner": {
+          "login": "JonSpircoff7",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/111098928?u=1738b2bf2ff68182b206f0f7d32fda2ffdfab31a&v=4",
+          "url": "https://github.com/JonSpircoff7"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOIlmlS85Y8BBx",
+      "closed": false,
+      "title": "Heroku Deployment",
+      "createdAt": "2022-12-12T15:20:54Z",
+      "url": "https://github.com/JonSpircoff7/BuiltRight/issues/5",
+      "number": 5,
+      "assignees": {
+        "nodes": [
+          {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/111467879?u=20634e897b35a7bc017b67da23d7714802d265cc&v=4",
+            "name": "Stephen Bullocks",
+            "url": "https://github.com/sbullocks"
+          }
+        ]
+      },
+      "repository": {
+        "name": "BuiltRight",
+        "url": "https://github.com/JonSpircoff7/BuiltRight",
+        "owner": {
+          "login": "JonSpircoff7",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/111098928?u=1738b2bf2ff68182b206f0f7d32fda2ffdfab31a&v=4",
+          "url": "https://github.com/JonSpircoff7"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOIlmlS85Y8As2",
+      "closed": false,
+      "title": "CRUD",
+      "createdAt": "2022-12-12T15:20:18Z",
+      "url": "https://github.com/JonSpircoff7/BuiltRight/issues/4",
+      "number": 4,
+      "assignees": {
+        "nodes": [
+          {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/67667801?u=6b74320b184a865445fd3e4e971dc9f8ed35ccea&v=4",
+            "name": "Jose Plasencia",
+            "url": "https://github.com/Josejpd3"
+          },
+          {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/111467879?u=20634e897b35a7bc017b67da23d7714802d265cc&v=4",
+            "name": "Stephen Bullocks",
+            "url": "https://github.com/sbullocks"
+          }
+        ]
+      },
+      "repository": {
+        "name": "BuiltRight",
+        "url": "https://github.com/JonSpircoff7/BuiltRight",
+        "owner": {
+          "login": "JonSpircoff7",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/111098928?u=1738b2bf2ff68182b206f0f7d32fda2ffdfab31a&v=4",
+          "url": "https://github.com/JonSpircoff7"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOIlmlS85Y7-ZT",
+      "closed": true,
+      "title": "Mongodb and mongoose setup",
+      "createdAt": "2022-12-12T15:15:58Z",
+      "url": "https://github.com/JonSpircoff7/BuiltRight/issues/3",
+      "number": 3,
+      "assignees": {
+        "nodes": [
+          {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/67667801?u=6b74320b184a865445fd3e4e971dc9f8ed35ccea&v=4",
+            "name": "Jose Plasencia",
+            "url": "https://github.com/Josejpd3"
+          },
+          {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/111098928?u=1738b2bf2ff68182b206f0f7d32fda2ffdfab31a&v=4",
+            "name": "Jonathan",
+            "url": "https://github.com/JonSpircoff7"
+          },
+          {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/111467879?u=20634e897b35a7bc017b67da23d7714802d265cc&v=4",
+            "name": "Stephen Bullocks",
+            "url": "https://github.com/sbullocks"
+          }
+        ]
+      },
+      "repository": {
+        "name": "BuiltRight",
+        "url": "https://github.com/JonSpircoff7/BuiltRight",
+        "owner": {
+          "login": "JonSpircoff7",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/111098928?u=1738b2bf2ff68182b206f0f7d32fda2ffdfab31a&v=4",
+          "url": "https://github.com/JonSpircoff7"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOIlmlS85Y796l",
+      "closed": true,
+      "title": "GraphQL",
+      "createdAt": "2022-12-12T15:15:04Z",
+      "url": "https://github.com/JonSpircoff7/BuiltRight/issues/2",
+      "number": 2,
+      "assignees": {
+        "nodes": [
+          {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/67667801?u=6b74320b184a865445fd3e4e971dc9f8ed35ccea&v=4",
+            "name": "Jose Plasencia",
+            "url": "https://github.com/Josejpd3"
+          },
+          {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/96126247?v=4",
+            "name": null,
+            "url": "https://github.com/chrisy272"
+          },
+          {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/111098928?u=1738b2bf2ff68182b206f0f7d32fda2ffdfab31a&v=4",
+            "name": "Jonathan",
+            "url": "https://github.com/JonSpircoff7"
+          },
+          {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/111467879?u=20634e897b35a7bc017b67da23d7714802d265cc&v=4",
+            "name": "Stephen Bullocks",
+            "url": "https://github.com/sbullocks"
+          }
+        ]
+      },
+      "repository": {
+        "name": "BuiltRight",
+        "url": "https://github.com/JonSpircoff7/BuiltRight",
+        "owner": {
+          "login": "JonSpircoff7",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/111098928?u=1738b2bf2ff68182b206f0f7d32fda2ffdfab31a&v=4",
+          "url": "https://github.com/JonSpircoff7"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOIlmlS85Y79Jk",
+      "closed": true,
+      "title": "React.js",
+      "createdAt": "2022-12-12T15:13:42Z",
+      "url": "https://github.com/JonSpircoff7/BuiltRight/issues/1",
+      "number": 1,
+      "assignees": {
+        "nodes": [
+          {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/67667801?u=6b74320b184a865445fd3e4e971dc9f8ed35ccea&v=4",
+            "name": "Jose Plasencia",
+            "url": "https://github.com/Josejpd3"
+          },
+          {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/111098928?u=1738b2bf2ff68182b206f0f7d32fda2ffdfab31a&v=4",
+            "name": "Jonathan",
+            "url": "https://github.com/JonSpircoff7"
+          },
+          {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/111467879?u=20634e897b35a7bc017b67da23d7714802d265cc&v=4",
+            "name": "Stephen Bullocks",
+            "url": "https://github.com/sbullocks"
+          }
+        ]
+      },
+      "repository": {
+        "name": "BuiltRight",
+        "url": "https://github.com/JonSpircoff7/BuiltRight",
+        "owner": {
+          "login": "JonSpircoff7",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/111098928?u=1738b2bf2ff68182b206f0f7d32fda2ffdfab31a&v=4",
+          "url": "https://github.com/JonSpircoff7"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOIaOZvs5WF5oq",
+      "closed": true,
+      "title": "locate dataset",
+      "createdAt": "2022-11-10T18:37:35Z",
+      "url": "https://github.com/JonSpircoff7/Project-spot/issues/28",
+      "number": 28,
+      "assignees": {
+        "nodes": [
+          {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/111098928?u=1738b2bf2ff68182b206f0f7d32fda2ffdfab31a&v=4",
+            "name": "Jonathan",
+            "url": "https://github.com/JonSpircoff7"
+          },
+          {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/111467879?u=20634e897b35a7bc017b67da23d7714802d265cc&v=4",
+            "name": "Stephen Bullocks",
+            "url": "https://github.com/sbullocks"
+          }
+        ]
+      },
+      "repository": {
+        "name": "Project-spot",
+        "url": "https://github.com/JonSpircoff7/Project-spot",
+        "owner": {
+          "login": "JonSpircoff7",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/111098928?u=1738b2bf2ff68182b206f0f7d32fda2ffdfab31a&v=4",
+          "url": "https://github.com/JonSpircoff7"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOIaOZvs5WFnKl",
+      "closed": true,
+      "title": "Restructure CSS layout.",
+      "createdAt": "2022-11-10T17:41:44Z",
+      "url": "https://github.com/JonSpircoff7/Project-spot/issues/27",
+      "number": 27,
+      "assignees": {
+        "nodes": [
+          {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/111098928?u=1738b2bf2ff68182b206f0f7d32fda2ffdfab31a&v=4",
+            "name": "Jonathan",
+            "url": "https://github.com/JonSpircoff7"
+          }
+        ]
+      },
+      "repository": {
+        "name": "Project-spot",
+        "url": "https://github.com/JonSpircoff7/Project-spot",
+        "owner": {
+          "login": "JonSpircoff7",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/111098928?u=1738b2bf2ff68182b206f0f7d32fda2ffdfab31a&v=4",
+          "url": "https://github.com/JonSpircoff7"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOIaOZvs5WFnJW",
+      "closed": true,
+      "title": "Restructure HTML layout.",
+      "createdAt": "2022-11-10T17:41:40Z",
+      "url": "https://github.com/JonSpircoff7/Project-spot/issues/26",
+      "number": 26,
+      "assignees": {
+        "nodes": [
+          {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/111098928?u=1738b2bf2ff68182b206f0f7d32fda2ffdfab31a&v=4",
+            "name": "Jonathan",
+            "url": "https://github.com/JonSpircoff7"
+          }
+        ]
+      },
+      "repository": {
+        "name": "Project-spot",
+        "url": "https://github.com/JonSpircoff7/Project-spot",
+        "owner": {
+          "login": "JonSpircoff7",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/111098928?u=1738b2bf2ff68182b206f0f7d32fda2ffdfab31a&v=4",
+          "url": "https://github.com/JonSpircoff7"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOIaOZvs5WFb0M",
+      "closed": false,
+      "title": "Have a quality README (with unique name, description, technologies used, screenshot, and link to deployed application).",
+      "createdAt": "2022-11-10T17:08:35Z",
+      "url": "https://github.com/JonSpircoff7/Project-spot/issues/24",
+      "number": 24,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "Project-spot",
+        "url": "https://github.com/JonSpircoff7/Project-spot",
+        "owner": {
+          "login": "JonSpircoff7",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/111098928?u=1738b2bf2ff68182b206f0f7d32fda2ffdfab31a&v=4",
+          "url": "https://github.com/JonSpircoff7"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOIaOZvs5WFbmn",
+      "closed": false,
+      "title": "Add your project to the portfolio that you created in Module 2.",
+      "createdAt": "2022-11-10T17:07:55Z",
+      "url": "https://github.com/JonSpircoff7/Project-spot/issues/23",
+      "number": 23,
+      "assignees": {
+        "nodes": [
+          {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/110499007?v=4",
+            "name": null,
+            "url": "https://github.com/Zechariahmn"
+          },
+          {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/111098928?u=1738b2bf2ff68182b206f0f7d32fda2ffdfab31a&v=4",
+            "name": "Jonathan",
+            "url": "https://github.com/JonSpircoff7"
+          },
+          {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/111467879?u=20634e897b35a7bc017b67da23d7714802d265cc&v=4",
+            "name": "Stephen Bullocks",
+            "url": "https://github.com/sbullocks"
+          }
+        ]
+      },
+      "repository": {
+        "name": "Project-spot",
+        "url": "https://github.com/JonSpircoff7/Project-spot",
+        "owner": {
+          "login": "JonSpircoff7",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/111098928?u=1738b2bf2ff68182b206f0f7d32fda2ffdfab31a&v=4",
+          "url": "https://github.com/JonSpircoff7"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOIaOZvs5WFbet",
+      "closed": true,
+      "title": "Project Presentation",
+      "createdAt": "2022-11-10T17:07:31Z",
+      "url": "https://github.com/JonSpircoff7/Project-spot/issues/22",
+      "number": 22,
+      "assignees": {
+        "nodes": [
+          {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/111467879?u=20634e897b35a7bc017b67da23d7714802d265cc&v=4",
+            "name": "Stephen Bullocks",
+            "url": "https://github.com/sbullocks"
+          },
+          {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/113011464?v=4",
+            "name": "Curran Duke",
+            "url": "https://github.com/StyngerBee"
+          }
+        ]
+      },
+      "repository": {
+        "name": "Project-spot",
+        "url": "https://github.com/JonSpircoff7/Project-spot",
+        "owner": {
+          "login": "JonSpircoff7",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/111098928?u=1738b2bf2ff68182b206f0f7d32fda2ffdfab31a&v=4",
+          "url": "https://github.com/JonSpircoff7"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOIaOZvs5WFbJJ",
+      "closed": true,
+      "title": "Have a clean repository that meets quality coding standards (file structure, naming conventions, follows best practices for class/id naming conventions, indentation, quality comments, etc.).",
+      "createdAt": "2022-11-10T17:06:28Z",
+      "url": "https://github.com/JonSpircoff7/Project-spot/issues/21",
+      "number": 21,
+      "assignees": {
+        "nodes": [
+          {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/110499007?v=4",
+            "name": null,
+            "url": "https://github.com/Zechariahmn"
+          },
+          {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/111098928?u=1738b2bf2ff68182b206f0f7d32fda2ffdfab31a&v=4",
+            "name": "Jonathan",
+            "url": "https://github.com/JonSpircoff7"
+          },
+          {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/111467879?u=20634e897b35a7bc017b67da23d7714802d265cc&v=4",
+            "name": "Stephen Bullocks",
+            "url": "https://github.com/sbullocks"
+          },
+          {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/113011464?v=4",
+            "name": "Curran Duke",
+            "url": "https://github.com/StyngerBee"
+          }
+        ]
+      },
+      "repository": {
+        "name": "Project-spot",
+        "url": "https://github.com/JonSpircoff7/Project-spot",
+        "owner": {
+          "login": "JonSpircoff7",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/111098928?u=1738b2bf2ff68182b206f0f7d32fda2ffdfab31a&v=4",
+          "url": "https://github.com/JonSpircoff7"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOIaOZvs5WFa8T",
+      "closed": true,
+      "title": "Protect API keys and sensitive information with environment variables.",
+      "createdAt": "2022-11-10T17:05:48Z",
+      "url": "https://github.com/JonSpircoff7/Project-spot/issues/20",
+      "number": 20,
+      "assignees": {
+        "nodes": [
+          {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/111467879?u=20634e897b35a7bc017b67da23d7714802d265cc&v=4",
+            "name": "Stephen Bullocks",
+            "url": "https://github.com/sbullocks"
+          }
+        ]
+      },
+      "repository": {
+        "name": "Project-spot",
+        "url": "https://github.com/JonSpircoff7/Project-spot",
+        "owner": {
+          "login": "JonSpircoff7",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/111098928?u=1738b2bf2ff68182b206f0f7d32fda2ffdfab31a&v=4",
+          "url": "https://github.com/JonSpircoff7"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOIaOZvs5WFa3S",
+      "closed": true,
+      "title": "Include authentication (express-session and cookies).",
+      "createdAt": "2022-11-10T17:05:32Z",
+      "url": "https://github.com/JonSpircoff7/Project-spot/issues/19",
+      "number": 19,
+      "assignees": {
+        "nodes": [
+          {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/110499007?v=4",
+            "name": null,
+            "url": "https://github.com/Zechariahmn"
+          },
+          {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/111098928?u=1738b2bf2ff68182b206f0f7d32fda2ffdfab31a&v=4",
+            "name": "Jonathan",
+            "url": "https://github.com/JonSpircoff7"
+          },
+          {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/111467879?u=20634e897b35a7bc017b67da23d7714802d265cc&v=4",
+            "name": "Stephen Bullocks",
+            "url": "https://github.com/sbullocks"
+          },
+          {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/113011464?v=4",
+            "name": "Curran Duke",
+            "url": "https://github.com/StyngerBee"
+          }
+        ]
+      },
+      "repository": {
+        "name": "Project-spot",
+        "url": "https://github.com/JonSpircoff7/Project-spot",
+        "owner": {
+          "login": "JonSpircoff7",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/111098928?u=1738b2bf2ff68182b206f0f7d32fda2ffdfab31a&v=4",
+          "url": "https://github.com/JonSpircoff7"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOIaOZvs5WFaxr",
+      "closed": true,
+      "title": "Have a folder structure that meets the MVC paradigm.",
+      "createdAt": "2022-11-10T17:05:15Z",
+      "url": "https://github.com/JonSpircoff7/Project-spot/issues/18",
+      "number": 18,
+      "assignees": {
+        "nodes": [
+          {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/111098928?u=1738b2bf2ff68182b206f0f7d32fda2ffdfab31a&v=4",
+            "name": "Jonathan",
+            "url": "https://github.com/JonSpircoff7"
+          },
+          {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/111467879?u=20634e897b35a7bc017b67da23d7714802d265cc&v=4",
+            "name": "Stephen Bullocks",
+            "url": "https://github.com/sbullocks"
+          },
+          {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/113011464?v=4",
+            "name": "Curran Duke",
+            "url": "https://github.com/StyngerBee"
+          }
+        ]
+      },
+      "repository": {
+        "name": "Project-spot",
+        "url": "https://github.com/JonSpircoff7/Project-spot",
+        "owner": {
+          "login": "JonSpircoff7",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/111098928?u=1738b2bf2ff68182b206f0f7d32fda2ffdfab31a&v=4",
+          "url": "https://github.com/JonSpircoff7"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOIaOZvs5WFatX",
+      "closed": true,
+      "title": "Be interactive (i.e., accept and respond to user input).",
+      "createdAt": "2022-11-10T17:05:02Z",
+      "url": "https://github.com/JonSpircoff7/Project-spot/issues/17",
+      "number": 17,
+      "assignees": {
+        "nodes": [
+          {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/111467879?u=20634e897b35a7bc017b67da23d7714802d265cc&v=4",
+            "name": "Stephen Bullocks",
+            "url": "https://github.com/sbullocks"
+          }
+        ]
+      },
+      "repository": {
+        "name": "Project-spot",
+        "url": "https://github.com/JonSpircoff7/Project-spot",
+        "owner": {
+          "login": "JonSpircoff7",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/111098928?u=1738b2bf2ff68182b206f0f7d32fda2ffdfab31a&v=4",
+          "url": "https://github.com/JonSpircoff7"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOIaOZvs5WFasU",
+      "closed": true,
+      "title": "Be responsive.",
+      "createdAt": "2022-11-10T17:04:58Z",
+      "url": "https://github.com/JonSpircoff7/Project-spot/issues/16",
+      "number": 16,
+      "assignees": {
+        "nodes": [
+          {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/111467879?u=20634e897b35a7bc017b67da23d7714802d265cc&v=4",
+            "name": "Stephen Bullocks",
+            "url": "https://github.com/sbullocks"
+          }
+        ]
+      },
+      "repository": {
+        "name": "Project-spot",
+        "url": "https://github.com/JonSpircoff7/Project-spot",
+        "owner": {
+          "login": "JonSpircoff7",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/111098928?u=1738b2bf2ff68182b206f0f7d32fda2ffdfab31a&v=4",
+          "url": "https://github.com/JonSpircoff7"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOIaOZvs5WFaON",
+      "closed": true,
+      "title": "Have a polished UI.",
+      "createdAt": "2022-11-10T17:03:30Z",
+      "url": "https://github.com/JonSpircoff7/Project-spot/issues/15",
+      "number": 15,
+      "assignees": {
+        "nodes": [
+          {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/111467879?u=20634e897b35a7bc017b67da23d7714802d265cc&v=4",
+            "name": "Stephen Bullocks",
+            "url": "https://github.com/sbullocks"
+          }
+        ]
+      },
+      "repository": {
+        "name": "Project-spot",
+        "url": "https://github.com/JonSpircoff7/Project-spot",
+        "owner": {
+          "login": "JonSpircoff7",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/111098928?u=1738b2bf2ff68182b206f0f7d32fda2ffdfab31a&v=4",
+          "url": "https://github.com/JonSpircoff7"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOIaOZvs5WFaIK",
+      "closed": true,
+      "title": "Use at least one new library, package, or technology that we haven’t discussed.",
+      "createdAt": "2022-11-10T17:03:13Z",
+      "url": "https://github.com/JonSpircoff7/Project-spot/issues/14",
+      "number": 14,
+      "assignees": {
+        "nodes": [
+          {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/113011464?v=4",
+            "name": "Curran Duke",
+            "url": "https://github.com/StyngerBee"
+          }
+        ]
+      },
+      "repository": {
+        "name": "Project-spot",
+        "url": "https://github.com/JonSpircoff7/Project-spot",
+        "owner": {
+          "login": "JonSpircoff7",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/111098928?u=1738b2bf2ff68182b206f0f7d32fda2ffdfab31a&v=4",
+          "url": "https://github.com/JonSpircoff7"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOIaOZvs5WFZuT",
+      "closed": true,
+      "title": "Use MySQL and the Sequelize ORM for the database.",
+      "createdAt": "2022-11-10T17:02:00Z",
+      "url": "https://github.com/JonSpircoff7/Project-spot/issues/13",
+      "number": 13,
+      "assignees": {
+        "nodes": [
+          {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/111467879?u=20634e897b35a7bc017b67da23d7714802d265cc&v=4",
+            "name": "Stephen Bullocks",
+            "url": "https://github.com/sbullocks"
+          },
+          {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/113011464?v=4",
+            "name": "Curran Duke",
+            "url": "https://github.com/StyngerBee"
+          }
+        ]
+      },
+      "repository": {
+        "name": "Project-spot",
+        "url": "https://github.com/JonSpircoff7/Project-spot",
+        "owner": {
+          "login": "JonSpircoff7",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/111098928?u=1738b2bf2ff68182b206f0f7d32fda2ffdfab31a&v=4",
+          "url": "https://github.com/JonSpircoff7"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOIaOZvs5WFZs-",
+      "closed": true,
+      "title": "Use Handlebars.js as the templating engine.",
+      "createdAt": "2022-11-10T17:01:57Z",
+      "url": "https://github.com/JonSpircoff7/Project-spot/issues/12",
+      "number": 12,
+      "assignees": {
+        "nodes": [
+          {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/110499007?v=4",
+            "name": null,
+            "url": "https://github.com/Zechariahmn"
+          },
+          {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/111098928?u=1738b2bf2ff68182b206f0f7d32fda2ffdfab31a&v=4",
+            "name": "Jonathan",
+            "url": "https://github.com/JonSpircoff7"
+          },
+          {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/111467879?u=20634e897b35a7bc017b67da23d7714802d265cc&v=4",
+            "name": "Stephen Bullocks",
+            "url": "https://github.com/sbullocks"
+          },
+          {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/113011464?v=4",
+            "name": "Curran Duke",
+            "url": "https://github.com/StyngerBee"
+          }
+        ]
+      },
+      "repository": {
+        "name": "Project-spot",
+        "url": "https://github.com/JonSpircoff7/Project-spot",
+        "owner": {
+          "login": "JonSpircoff7",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/111098928?u=1738b2bf2ff68182b206f0f7d32fda2ffdfab31a&v=4",
+          "url": "https://github.com/JonSpircoff7"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOIaOZvs5WFTLu",
+      "closed": true,
+      "title": "How many days left goal?",
+      "createdAt": "2022-11-10T16:44:43Z",
+      "url": "https://github.com/JonSpircoff7/Project-spot/issues/10",
+      "number": 10,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "Project-spot",
+        "url": "https://github.com/JonSpircoff7/Project-spot",
+        "owner": {
+          "login": "JonSpircoff7",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/111098928?u=1738b2bf2ff68182b206f0f7d32fda2ffdfab31a&v=4",
+          "url": "https://github.com/JonSpircoff7"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOIaOZvs5WFSvo",
+      "closed": true,
+      "title": "Get Specific Data and SEED into DB",
+      "createdAt": "2022-11-10T16:43:26Z",
+      "url": "https://github.com/JonSpircoff7/Project-spot/issues/8",
+      "number": 8,
+      "assignees": {
+        "nodes": [
+          {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/111098928?u=1738b2bf2ff68182b206f0f7d32fda2ffdfab31a&v=4",
+            "name": "Jonathan",
+            "url": "https://github.com/JonSpircoff7"
+          },
+          {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/111467879?u=20634e897b35a7bc017b67da23d7714802d265cc&v=4",
+            "name": "Stephen Bullocks",
+            "url": "https://github.com/sbullocks"
+          },
+          {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/113011464?v=4",
+            "name": "Curran Duke",
+            "url": "https://github.com/StyngerBee"
+          }
+        ]
+      },
+      "repository": {
+        "name": "Project-spot",
+        "url": "https://github.com/JonSpircoff7/Project-spot",
+        "owner": {
+          "login": "JonSpircoff7",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/111098928?u=1738b2bf2ff68182b206f0f7d32fda2ffdfab31a&v=4",
+          "url": "https://github.com/JonSpircoff7"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOIaOZvs5WFSuI",
+      "closed": true,
+      "title": "Find Project management Data",
+      "createdAt": "2022-11-10T16:43:21Z",
+      "url": "https://github.com/JonSpircoff7/Project-spot/issues/7",
+      "number": 7,
+      "assignees": {
+        "nodes": [
+          {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/111098928?u=1738b2bf2ff68182b206f0f7d32fda2ffdfab31a&v=4",
+            "name": "Jonathan",
+            "url": "https://github.com/JonSpircoff7"
+          },
+          {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/111467879?u=20634e897b35a7bc017b67da23d7714802d265cc&v=4",
+            "name": "Stephen Bullocks",
+            "url": "https://github.com/sbullocks"
+          },
+          {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/113011464?v=4",
+            "name": "Curran Duke",
+            "url": "https://github.com/StyngerBee"
+          }
+        ]
+      },
+      "repository": {
+        "name": "Project-spot",
+        "url": "https://github.com/JonSpircoff7/Project-spot",
+        "owner": {
+          "login": "JonSpircoff7",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/111098928?u=1738b2bf2ff68182b206f0f7d32fda2ffdfab31a&v=4",
+          "url": "https://github.com/JonSpircoff7"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOIaOZvs5WFSsn",
+      "closed": false,
+      "title": "Deploy to Heroku",
+      "createdAt": "2022-11-10T16:43:17Z",
+      "url": "https://github.com/JonSpircoff7/Project-spot/issues/6",
+      "number": 6,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "Project-spot",
+        "url": "https://github.com/JonSpircoff7/Project-spot",
+        "owner": {
+          "login": "JonSpircoff7",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/111098928?u=1738b2bf2ff68182b206f0f7d32fda2ffdfab31a&v=4",
+          "url": "https://github.com/JonSpircoff7"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOIaOZvs5WFSpt",
+      "closed": true,
+      "title": "Add functionality to the funding button",
+      "createdAt": "2022-11-10T16:43:09Z",
+      "url": "https://github.com/JonSpircoff7/Project-spot/issues/5",
+      "number": 5,
+      "assignees": {
+        "nodes": [
+          {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/113011464?v=4",
+            "name": "Curran Duke",
+            "url": "https://github.com/StyngerBee"
+          }
+        ]
+      },
+      "repository": {
+        "name": "Project-spot",
+        "url": "https://github.com/JonSpircoff7/Project-spot",
+        "owner": {
+          "login": "JonSpircoff7",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/111098928?u=1738b2bf2ff68182b206f0f7d32fda2ffdfab31a&v=4",
+          "url": "https://github.com/JonSpircoff7"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOIaOZvs5WFRIq",
+      "closed": true,
+      "title": "README File with Links and Picture",
+      "createdAt": "2022-11-10T16:38:39Z",
+      "url": "https://github.com/JonSpircoff7/Project-spot/issues/4",
+      "number": 4,
+      "assignees": {
+        "nodes": [
+          {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/111467879?u=20634e897b35a7bc017b67da23d7714802d265cc&v=4",
+            "name": "Stephen Bullocks",
+            "url": "https://github.com/sbullocks"
+          },
+          {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/113011464?v=4",
+            "name": "Curran Duke",
+            "url": "https://github.com/StyngerBee"
+          }
+        ]
+      },
+      "repository": {
+        "name": "Project-spot",
+        "url": "https://github.com/JonSpircoff7/Project-spot",
+        "owner": {
+          "login": "JonSpircoff7",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/111098928?u=1738b2bf2ff68182b206f0f7d32fda2ffdfab31a&v=4",
+          "url": "https://github.com/JonSpircoff7"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOIaOZvs5WFQgW",
+      "closed": true,
+      "title": "Add GET, POST and DELETE api routes",
+      "createdAt": "2022-11-10T16:36:51Z",
+      "url": "https://github.com/JonSpircoff7/Project-spot/issues/3",
+      "number": 3,
+      "assignees": {
+        "nodes": [
+          {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/111467879?u=20634e897b35a7bc017b67da23d7714802d265cc&v=4",
+            "name": "Stephen Bullocks",
+            "url": "https://github.com/sbullocks"
+          }
+        ]
+      },
+      "repository": {
+        "name": "Project-spot",
+        "url": "https://github.com/JonSpircoff7/Project-spot",
+        "owner": {
+          "login": "JonSpircoff7",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/111098928?u=1738b2bf2ff68182b206f0f7d32fda2ffdfab31a&v=4",
+          "url": "https://github.com/JonSpircoff7"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOIaOZvs5WFP-e",
+      "closed": true,
+      "title": "Testing the mini project for functionality",
+      "createdAt": "2022-11-10T16:35:21Z",
+      "url": "https://github.com/JonSpircoff7/Project-spot/issues/2",
+      "number": 2,
+      "assignees": {
+        "nodes": [
+          {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/111467879?u=20634e897b35a7bc017b67da23d7714802d265cc&v=4",
+            "name": "Stephen Bullocks",
+            "url": "https://github.com/sbullocks"
+          },
+          {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/113011464?v=4",
+            "name": "Curran Duke",
+            "url": "https://github.com/StyngerBee"
+          }
+        ]
+      },
+      "repository": {
+        "name": "Project-spot",
+        "url": "https://github.com/JonSpircoff7/Project-spot",
+        "owner": {
+          "login": "JonSpircoff7",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/111098928?u=1738b2bf2ff68182b206f0f7d32fda2ffdfab31a&v=4",
+          "url": "https://github.com/JonSpircoff7"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOINaUzM5UcPSq",
+      "closed": true,
+      "title": "slide show presentation",
+      "createdAt": "2022-10-20T14:03:05Z",
+      "url": "https://github.com/sbullocks/Game-Hub/issues/56",
+      "number": 56,
+      "assignees": {
+        "nodes": [
+          {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/108139839?u=8562f719d4db6cc12a004c04db4f513cffdeafa0&v=4",
+            "name": "Dylan Crowley",
+            "url": "https://github.com/dcrowdev"
+          },
+          {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/111467879?u=20634e897b35a7bc017b67da23d7714802d265cc&v=4",
+            "name": "Stephen Bullocks",
+            "url": "https://github.com/sbullocks"
+          },
+          {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/113463903?u=6193e8821ddd8f6c1b2e3d39e8abe1234c760762&v=4",
+            "name": "Antoine Griffin",
+            "url": "https://github.com/AntoineCanCode"
+          },
+          {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/113915609?u=dc2106985e242bc1d25740d8dc87bf6ecfdf848d&v=4",
+            "name": "Jordan Colubiale",
+            "url": "https://github.com/Jordancolubiale"
+          }
+        ]
+      },
+      "repository": {
+        "name": "Game-Hub",
+        "url": "https://github.com/sbullocks/Game-Hub",
+        "owner": {
+          "login": "sbullocks",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/111467879?u=20634e897b35a7bc017b67da23d7714802d265cc&v=4",
+          "url": "https://github.com/sbullocks"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOINaUzM5UcPPN",
+      "closed": true,
+      "title": "slide show update",
+      "createdAt": "2022-10-20T14:02:56Z",
+      "url": "https://github.com/sbullocks/Game-Hub/issues/55",
+      "number": 55,
+      "assignees": {
+        "nodes": [
+          {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/113463903?u=6193e8821ddd8f6c1b2e3d39e8abe1234c760762&v=4",
+            "name": "Antoine Griffin",
+            "url": "https://github.com/AntoineCanCode"
+          }
+        ]
+      },
+      "repository": {
+        "name": "Game-Hub",
+        "url": "https://github.com/sbullocks/Game-Hub",
+        "owner": {
+          "login": "sbullocks",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/111467879?u=20634e897b35a7bc017b67da23d7714802d265cc&v=4",
+          "url": "https://github.com/sbullocks"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOINaUzM5UP8OE",
+      "closed": true,
+      "title": "fix hover on h3s.",
+      "createdAt": "2022-10-18T15:50:35Z",
+      "url": "https://github.com/sbullocks/Game-Hub/issues/49",
+      "number": 49,
+      "assignees": {
+        "nodes": [
+          {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/108139839?u=8562f719d4db6cc12a004c04db4f513cffdeafa0&v=4",
+            "name": "Dylan Crowley",
+            "url": "https://github.com/dcrowdev"
+          }
+        ]
+      },
+      "repository": {
+        "name": "Game-Hub",
+        "url": "https://github.com/sbullocks/Game-Hub",
+        "owner": {
+          "login": "sbullocks",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/111467879?u=20634e897b35a7bc017b67da23d7714802d265cc&v=4",
+          "url": "https://github.com/sbullocks"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOINaUzM5UPj4E",
+      "closed": true,
+      "title": "slide show",
+      "createdAt": "2022-10-18T14:49:49Z",
+      "url": "https://github.com/sbullocks/Game-Hub/issues/45",
+      "number": 45,
+      "assignees": {
+        "nodes": [
+          {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/111467879?u=20634e897b35a7bc017b67da23d7714802d265cc&v=4",
+            "name": "Stephen Bullocks",
+            "url": "https://github.com/sbullocks"
+          }
+        ]
+      },
+      "repository": {
+        "name": "Game-Hub",
+        "url": "https://github.com/sbullocks/Game-Hub",
+        "owner": {
+          "login": "sbullocks",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/111467879?u=20634e897b35a7bc017b67da23d7714802d265cc&v=4",
+          "url": "https://github.com/sbullocks"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOINaUzM5UPjbS",
+      "closed": true,
+      "title": "amazon api",
+      "createdAt": "2022-10-18T14:48:42Z",
+      "url": "https://github.com/sbullocks/Game-Hub/issues/44",
+      "number": 44,
+      "assignees": {
+        "nodes": [
+          {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/108139839?u=8562f719d4db6cc12a004c04db4f513cffdeafa0&v=4",
+            "name": "Dylan Crowley",
+            "url": "https://github.com/dcrowdev"
+          },
+          {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/111467879?u=20634e897b35a7bc017b67da23d7714802d265cc&v=4",
+            "name": "Stephen Bullocks",
+            "url": "https://github.com/sbullocks"
+          },
+          {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/113463903?u=6193e8821ddd8f6c1b2e3d39e8abe1234c760762&v=4",
+            "name": "Antoine Griffin",
+            "url": "https://github.com/AntoineCanCode"
+          },
+          {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/113915609?u=dc2106985e242bc1d25740d8dc87bf6ecfdf848d&v=4",
+            "name": "Jordan Colubiale",
+            "url": "https://github.com/Jordancolubiale"
+          }
+        ]
+      },
+      "repository": {
+        "name": "Game-Hub",
+        "url": "https://github.com/sbullocks/Game-Hub",
+        "owner": {
+          "login": "sbullocks",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/111467879?u=20634e897b35a7bc017b67da23d7714802d265cc&v=4",
+          "url": "https://github.com/sbullocks"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOINaUzM5ULNcL",
+      "closed": true,
+      "title": "auto-complete",
+      "createdAt": "2022-10-17T21:05:35Z",
+      "url": "https://github.com/sbullocks/Game-Hub/issues/41",
+      "number": 41,
+      "assignees": {
+        "nodes": [
+          {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/111467879?u=20634e897b35a7bc017b67da23d7714802d265cc&v=4",
+            "name": "Stephen Bullocks",
+            "url": "https://github.com/sbullocks"
+          }
+        ]
+      },
+      "repository": {
+        "name": "Game-Hub",
+        "url": "https://github.com/sbullocks/Game-Hub",
+        "owner": {
+          "login": "sbullocks",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/111467879?u=20634e897b35a7bc017b67da23d7714802d265cc&v=4",
+          "url": "https://github.com/sbullocks"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOINaUzM5UKDI9",
+      "closed": true,
+      "title": "responsiveness",
+      "createdAt": "2022-10-17T17:08:50Z",
+      "url": "https://github.com/sbullocks/Game-Hub/issues/36",
+      "number": 36,
+      "assignees": {
+        "nodes": [
+          {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/108139839?u=8562f719d4db6cc12a004c04db4f513cffdeafa0&v=4",
+            "name": "Dylan Crowley",
+            "url": "https://github.com/dcrowdev"
+          },
+          {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/113915609?u=dc2106985e242bc1d25740d8dc87bf6ecfdf848d&v=4",
+            "name": "Jordan Colubiale",
+            "url": "https://github.com/Jordancolubiale"
+          }
+        ]
+      },
+      "repository": {
+        "name": "Game-Hub",
+        "url": "https://github.com/sbullocks/Game-Hub",
+        "owner": {
+          "login": "sbullocks",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/111467879?u=20634e897b35a7bc017b67da23d7714802d265cc&v=4",
+          "url": "https://github.com/sbullocks"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOINaUzM5UKDIM",
+      "closed": true,
+      "title": "test application.",
+      "createdAt": "2022-10-17T17:08:48Z",
+      "url": "https://github.com/sbullocks/Game-Hub/issues/35",
+      "number": 35,
+      "assignees": {
+        "nodes": [
+          {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/108139839?u=8562f719d4db6cc12a004c04db4f513cffdeafa0&v=4",
+            "name": "Dylan Crowley",
+            "url": "https://github.com/dcrowdev"
+          },
+          {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/111467879?u=20634e897b35a7bc017b67da23d7714802d265cc&v=4",
+            "name": "Stephen Bullocks",
+            "url": "https://github.com/sbullocks"
+          },
+          {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/113463903?u=6193e8821ddd8f6c1b2e3d39e8abe1234c760762&v=4",
+            "name": "Antoine Griffin",
+            "url": "https://github.com/AntoineCanCode"
+          },
+          {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/113915609?u=dc2106985e242bc1d25740d8dc87bf6ecfdf848d&v=4",
+            "name": "Jordan Colubiale",
+            "url": "https://github.com/Jordancolubiale"
+          }
+        ]
+      },
+      "repository": {
+        "name": "Game-Hub",
+        "url": "https://github.com/sbullocks/Game-Hub",
+        "owner": {
+          "login": "sbullocks",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/111467879?u=20634e897b35a7bc017b67da23d7714802d265cc&v=4",
+          "url": "https://github.com/sbullocks"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOINaUzM5UKDHP",
+      "closed": true,
+      "title": "project name",
+      "createdAt": "2022-10-17T17:08:45Z",
+      "url": "https://github.com/sbullocks/Game-Hub/issues/34",
+      "number": 34,
+      "assignees": {
+        "nodes": [
+          {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/108139839?u=8562f719d4db6cc12a004c04db4f513cffdeafa0&v=4",
+            "name": "Dylan Crowley",
+            "url": "https://github.com/dcrowdev"
+          },
+          {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/111467879?u=20634e897b35a7bc017b67da23d7714802d265cc&v=4",
+            "name": "Stephen Bullocks",
+            "url": "https://github.com/sbullocks"
+          },
+          {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/113463903?u=6193e8821ddd8f6c1b2e3d39e8abe1234c760762&v=4",
+            "name": "Antoine Griffin",
+            "url": "https://github.com/AntoineCanCode"
+          },
+          {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/113915609?u=dc2106985e242bc1d25740d8dc87bf6ecfdf848d&v=4",
+            "name": "Jordan Colubiale",
+            "url": "https://github.com/Jordancolubiale"
+          }
+        ]
+      },
+      "repository": {
+        "name": "Game-Hub",
+        "url": "https://github.com/sbullocks/Game-Hub",
+        "owner": {
+          "login": "sbullocks",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/111467879?u=20634e897b35a7bc017b67da23d7714802d265cc&v=4",
+          "url": "https://github.com/sbullocks"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOINaUzM5UKDCJ",
+      "closed": true,
+      "title": "add carousel",
+      "createdAt": "2022-10-17T17:08:29Z",
+      "url": "https://github.com/sbullocks/Game-Hub/issues/33",
+      "number": 33,
+      "assignees": {
+        "nodes": [
+          {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/108139839?u=8562f719d4db6cc12a004c04db4f513cffdeafa0&v=4",
+            "name": "Dylan Crowley",
+            "url": "https://github.com/dcrowdev"
+          }
+        ]
+      },
+      "repository": {
+        "name": "Game-Hub",
+        "url": "https://github.com/sbullocks/Game-Hub",
+        "owner": {
+          "login": "sbullocks",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/111467879?u=20634e897b35a7bc017b67da23d7714802d265cc&v=4",
+          "url": "https://github.com/sbullocks"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOINaUzM5UKDBL",
+      "closed": true,
+      "title": "fix platform links hover",
+      "createdAt": "2022-10-17T17:08:25Z",
+      "url": "https://github.com/sbullocks/Game-Hub/issues/32",
+      "number": 32,
+      "assignees": {
+        "nodes": [
+          {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/108139839?u=8562f719d4db6cc12a004c04db4f513cffdeafa0&v=4",
+            "name": "Dylan Crowley",
+            "url": "https://github.com/dcrowdev"
+          },
+          {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/113915609?u=dc2106985e242bc1d25740d8dc87bf6ecfdf848d&v=4",
+            "name": "Jordan Colubiale",
+            "url": "https://github.com/Jordancolubiale"
+          }
+        ]
+      },
+      "repository": {
+        "name": "Game-Hub",
+        "url": "https://github.com/sbullocks/Game-Hub",
+        "owner": {
+          "login": "sbullocks",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/111467879?u=20634e897b35a7bc017b67da23d7714802d265cc&v=4",
+          "url": "https://github.com/sbullocks"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOINaUzM5UKDAF",
+      "closed": true,
+      "title": "html dropdown menu",
+      "createdAt": "2022-10-17T17:08:22Z",
+      "url": "https://github.com/sbullocks/Game-Hub/issues/31",
+      "number": 31,
+      "assignees": {
+        "nodes": [
+          {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/111467879?u=20634e897b35a7bc017b67da23d7714802d265cc&v=4",
+            "name": "Stephen Bullocks",
+            "url": "https://github.com/sbullocks"
+          }
+        ]
+      },
+      "repository": {
+        "name": "Game-Hub",
+        "url": "https://github.com/sbullocks/Game-Hub",
+        "owner": {
+          "login": "sbullocks",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/111467879?u=20634e897b35a7bc017b67da23d7714802d265cc&v=4",
+          "url": "https://github.com/sbullocks"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOINaUzM5UKC4H",
+      "closed": true,
+      "title": "styling for games page",
+      "createdAt": "2022-10-17T17:07:57Z",
+      "url": "https://github.com/sbullocks/Game-Hub/issues/30",
+      "number": 30,
+      "assignees": {
+        "nodes": [
+          {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/111467879?u=20634e897b35a7bc017b67da23d7714802d265cc&v=4",
+            "name": "Stephen Bullocks",
+            "url": "https://github.com/sbullocks"
+          },
+          {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/113463903?u=6193e8821ddd8f6c1b2e3d39e8abe1234c760762&v=4",
+            "name": "Antoine Griffin",
+            "url": "https://github.com/AntoineCanCode"
+          }
+        ]
+      },
+      "repository": {
+        "name": "Game-Hub",
+        "url": "https://github.com/sbullocks/Game-Hub",
+        "owner": {
+          "login": "sbullocks",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/111467879?u=20634e897b35a7bc017b67da23d7714802d265cc&v=4",
+          "url": "https://github.com/sbullocks"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOINaUzM5UKC2h",
+      "closed": true,
+      "title": "styling for console page",
+      "createdAt": "2022-10-17T17:07:53Z",
+      "url": "https://github.com/sbullocks/Game-Hub/issues/29",
+      "number": 29,
+      "assignees": {
+        "nodes": [
+          {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/108139839?u=8562f719d4db6cc12a004c04db4f513cffdeafa0&v=4",
+            "name": "Dylan Crowley",
+            "url": "https://github.com/dcrowdev"
+          },
+          {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/113915609?u=dc2106985e242bc1d25740d8dc87bf6ecfdf848d&v=4",
+            "name": "Jordan Colubiale",
+            "url": "https://github.com/Jordancolubiale"
+          }
+        ]
+      },
+      "repository": {
+        "name": "Game-Hub",
+        "url": "https://github.com/sbullocks/Game-Hub",
+        "owner": {
+          "login": "sbullocks",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/111467879?u=20634e897b35a7bc017b67da23d7714802d265cc&v=4",
+          "url": "https://github.com/sbullocks"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOINaUzM5UKCdN",
+      "closed": true,
+      "title": "categories need fixed",
+      "createdAt": "2022-10-17T17:06:35Z",
+      "url": "https://github.com/sbullocks/Game-Hub/issues/28",
+      "number": 28,
+      "assignees": {
+        "nodes": [
+          {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/111467879?u=20634e897b35a7bc017b67da23d7714802d265cc&v=4",
+            "name": "Stephen Bullocks",
+            "url": "https://github.com/sbullocks"
+          }
+        ]
+      },
+      "repository": {
+        "name": "Game-Hub",
+        "url": "https://github.com/sbullocks/Game-Hub",
+        "owner": {
+          "login": "sbullocks",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/111467879?u=20634e897b35a7bc017b67da23d7714802d265cc&v=4",
+          "url": "https://github.com/sbullocks"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOINaUzM5UKCcL",
+      "closed": true,
+      "title": "top games needs clickable for each section.",
+      "createdAt": "2022-10-17T17:06:32Z",
+      "url": "https://github.com/sbullocks/Game-Hub/issues/27",
+      "number": 27,
+      "assignees": {
+        "nodes": [
+          {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/108139839?u=8562f719d4db6cc12a004c04db4f513cffdeafa0&v=4",
+            "name": "Dylan Crowley",
+            "url": "https://github.com/dcrowdev"
+          },
+          {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/113915609?u=dc2106985e242bc1d25740d8dc87bf6ecfdf848d&v=4",
+            "name": "Jordan Colubiale",
+            "url": "https://github.com/Jordancolubiale"
+          }
+        ]
+      },
+      "repository": {
+        "name": "Game-Hub",
+        "url": "https://github.com/sbullocks/Game-Hub",
+        "owner": {
+          "login": "sbullocks",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/111467879?u=20634e897b35a7bc017b67da23d7714802d265cc&v=4",
+          "url": "https://github.com/sbullocks"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOINaUzM5UKCbY",
+      "closed": true,
+      "title": "navbar links",
+      "createdAt": "2022-10-17T17:06:29Z",
+      "url": "https://github.com/sbullocks/Game-Hub/issues/26",
+      "number": 26,
+      "assignees": {
+        "nodes": [
+          {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/111467879?u=20634e897b35a7bc017b67da23d7714802d265cc&v=4",
+            "name": "Stephen Bullocks",
+            "url": "https://github.com/sbullocks"
+          }
+        ]
+      },
+      "repository": {
+        "name": "Game-Hub",
+        "url": "https://github.com/sbullocks/Game-Hub",
+        "owner": {
+          "login": "sbullocks",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/111467879?u=20634e897b35a7bc017b67da23d7714802d265cc&v=4",
+          "url": "https://github.com/sbullocks"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOINaUzM5UKCaW",
+      "closed": true,
+      "title": "init function to append data on homepage",
+      "createdAt": "2022-10-17T17:06:25Z",
+      "url": "https://github.com/sbullocks/Game-Hub/issues/25",
+      "number": 25,
+      "assignees": {
+        "nodes": [
+          {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/108139839?u=8562f719d4db6cc12a004c04db4f513cffdeafa0&v=4",
+            "name": "Dylan Crowley",
+            "url": "https://github.com/dcrowdev"
+          },
+          {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/113915609?u=dc2106985e242bc1d25740d8dc87bf6ecfdf848d&v=4",
+            "name": "Jordan Colubiale",
+            "url": "https://github.com/Jordancolubiale"
+          }
+        ]
+      },
+      "repository": {
+        "name": "Game-Hub",
+        "url": "https://github.com/sbullocks/Game-Hub",
+        "owner": {
+          "login": "sbullocks",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/111467879?u=20634e897b35a7bc017b67da23d7714802d265cc&v=4",
+          "url": "https://github.com/sbullocks"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOINaUzM5UKCZG",
+      "closed": true,
+      "title": "top 5 games - JS",
+      "createdAt": "2022-10-17T17:06:21Z",
+      "url": "https://github.com/sbullocks/Game-Hub/issues/24",
+      "number": 24,
+      "assignees": {
+        "nodes": [
+          {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/108139839?u=8562f719d4db6cc12a004c04db4f513cffdeafa0&v=4",
+            "name": "Dylan Crowley",
+            "url": "https://github.com/dcrowdev"
+          },
+          {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/113915609?u=dc2106985e242bc1d25740d8dc87bf6ecfdf848d&v=4",
+            "name": "Jordan Colubiale",
+            "url": "https://github.com/Jordancolubiale"
+          }
+        ]
+      },
+      "repository": {
+        "name": "Game-Hub",
+        "url": "https://github.com/sbullocks/Game-Hub",
+        "owner": {
+          "login": "sbullocks",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/111467879?u=20634e897b35a7bc017b67da23d7714802d265cc&v=4",
+          "url": "https://github.com/sbullocks"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOINaUzM5UKCXS",
+      "closed": true,
+      "title": "JS fetches",
+      "createdAt": "2022-10-17T17:06:16Z",
+      "url": "https://github.com/sbullocks/Game-Hub/issues/23",
+      "number": 23,
+      "assignees": {
+        "nodes": [
+          {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/108139839?u=8562f719d4db6cc12a004c04db4f513cffdeafa0&v=4",
+            "name": "Dylan Crowley",
+            "url": "https://github.com/dcrowdev"
+          },
+          {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/113915609?u=dc2106985e242bc1d25740d8dc87bf6ecfdf848d&v=4",
+            "name": "Jordan Colubiale",
+            "url": "https://github.com/Jordancolubiale"
+          }
+        ]
+      },
+      "repository": {
+        "name": "Game-Hub",
+        "url": "https://github.com/sbullocks/Game-Hub",
+        "owner": {
+          "login": "sbullocks",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/111467879?u=20634e897b35a7bc017b67da23d7714802d265cc&v=4",
+          "url": "https://github.com/sbullocks"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOINaUzM5UKCV1",
+      "closed": true,
+      "title": "add appended data to second/third html",
+      "createdAt": "2022-10-17T17:06:11Z",
+      "url": "https://github.com/sbullocks/Game-Hub/issues/22",
+      "number": 22,
+      "assignees": {
+        "nodes": [
+          {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/108139839?u=8562f719d4db6cc12a004c04db4f513cffdeafa0&v=4",
+            "name": "Dylan Crowley",
+            "url": "https://github.com/dcrowdev"
+          }
+        ]
+      },
+      "repository": {
+        "name": "Game-Hub",
+        "url": "https://github.com/sbullocks/Game-Hub",
+        "owner": {
+          "login": "sbullocks",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/111467879?u=20634e897b35a7bc017b67da23d7714802d265cc&v=4",
+          "url": "https://github.com/sbullocks"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOINaUzM5UKCUA",
+      "closed": true,
+      "title": "YouTube APIs",
+      "createdAt": "2022-10-17T17:06:06Z",
+      "url": "https://github.com/sbullocks/Game-Hub/issues/21",
+      "number": 21,
+      "assignees": {
+        "nodes": [
+          {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/111467879?u=20634e897b35a7bc017b67da23d7714802d265cc&v=4",
+            "name": "Stephen Bullocks",
+            "url": "https://github.com/sbullocks"
+          },
+          {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/113463903?u=6193e8821ddd8f6c1b2e3d39e8abe1234c760762&v=4",
+            "name": "Antoine Griffin",
+            "url": "https://github.com/AntoineCanCode"
+          }
+        ]
+      },
+      "repository": {
+        "name": "Game-Hub",
+        "url": "https://github.com/sbullocks/Game-Hub",
+        "owner": {
+          "login": "sbullocks",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/111467879?u=20634e897b35a7bc017b67da23d7714802d265cc&v=4",
+          "url": "https://github.com/sbullocks"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOINaUzM5T7EDC",
+      "closed": true,
+      "title": "structure base html",
+      "createdAt": "2022-10-13T15:16:43Z",
+      "url": "https://github.com/sbullocks/Game-Hub/issues/1",
+      "number": 1,
+      "assignees": {
+        "nodes": [
+          {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/111467879?u=20634e897b35a7bc017b67da23d7714802d265cc&v=4",
+            "name": "Stephen Bullocks",
+            "url": "https://github.com/sbullocks"
+          },
+          {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/113915609?u=dc2106985e242bc1d25740d8dc87bf6ecfdf848d&v=4",
+            "name": "Jordan Colubiale",
+            "url": "https://github.com/Jordancolubiale"
+          }
+        ]
+      },
+      "repository": {
+        "name": "Game-Hub",
+        "url": "https://github.com/sbullocks/Game-Hub",
+        "owner": {
+          "login": "sbullocks",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/111467879?u=20634e897b35a7bc017b67da23d7714802d265cc&v=4",
+          "url": "https://github.com/sbullocks"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOH46RXs5Qoq-W",
+      "closed": true,
+      "title": "Deployment",
+      "createdAt": "2022-08-27T00:10:06Z",
+      "url": "https://github.com/sbullocks/prework-study-guide/issues/5",
+      "number": 5,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "prework-study-guide",
+        "url": "https://github.com/sbullocks/prework-study-guide",
+        "owner": {
+          "login": "sbullocks",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/111467879?u=20634e897b35a7bc017b67da23d7714802d265cc&v=4",
+          "url": "https://github.com/sbullocks"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOH46RXs5Qoq8z",
+      "closed": true,
+      "title": "README",
+      "createdAt": "2022-08-27T00:09:54Z",
+      "url": "https://github.com/sbullocks/prework-study-guide/issues/4",
+      "number": 4,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "prework-study-guide",
+        "url": "https://github.com/sbullocks/prework-study-guide",
+        "owner": {
+          "login": "sbullocks",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/111467879?u=20634e897b35a7bc017b67da23d7714802d265cc&v=4",
+          "url": "https://github.com/sbullocks"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOH46RXs5Qoq7b",
+      "closed": true,
+      "title": "JavaScript",
+      "createdAt": "2022-08-27T00:09:43Z",
+      "url": "https://github.com/sbullocks/prework-study-guide/issues/3",
+      "number": 3,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "prework-study-guide",
+        "url": "https://github.com/sbullocks/prework-study-guide",
+        "owner": {
+          "login": "sbullocks",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/111467879?u=20634e897b35a7bc017b67da23d7714802d265cc&v=4",
+          "url": "https://github.com/sbullocks"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOH46RXs5Qoq5m",
+      "closed": true,
+      "title": "CSS",
+      "createdAt": "2022-08-27T00:09:29Z",
+      "url": "https://github.com/sbullocks/prework-study-guide/issues/2",
+      "number": 2,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "prework-study-guide",
+        "url": "https://github.com/sbullocks/prework-study-guide",
+        "owner": {
+          "login": "sbullocks",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/111467879?u=20634e897b35a7bc017b67da23d7714802d265cc&v=4",
+          "url": "https://github.com/sbullocks"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOH46RXs5Qoq4y",
+      "closed": true,
+      "title": "HTML",
+      "createdAt": "2022-08-27T00:09:22Z",
+      "url": "https://github.com/sbullocks/prework-study-guide/issues/1",
+      "number": 1,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "prework-study-guide",
+        "url": "https://github.com/sbullocks/prework-study-guide",
+        "owner": {
+          "login": "sbullocks",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/111467879?u=20634e897b35a7bc017b67da23d7714802d265cc&v=4",
+          "url": "https://github.com/sbullocks"
+        }
+      }
+    }
+  ],
+  "open": 13,
+  "totalCount": 74
+}

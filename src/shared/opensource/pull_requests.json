@@ -1,0 +1,854 @@
+{
+  "closed": 1,
+  "data": [
+    {
+      "id": "PR_kwDOIlmlS85Fkb95",
+      "title": "updated mutations.",
+      "url": "https://github.com/JonSpircoff7/BuiltRight/pull/41",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/67667801?u=6b74320b184a865445fd3e4e971dc9f8ed35ccea&v=4",
+        "url": "https://github.com/Josejpd3",
+        "login": "Josejpd3"
+      },
+      "createdAt": "2022-12-15T18:05:03Z",
+      "number": 41,
+      "changedFiles": 5,
+      "additions": 32,
+      "deletions": 31,
+      "baseRepository": {
+        "name": "BuiltRight",
+        "url": "https://github.com/JonSpircoff7/BuiltRight",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/111098928?u=1738b2bf2ff68182b206f0f7d32fda2ffdfab31a&v=4",
+          "login": "JonSpircoff7",
+          "url": "https://github.com/JonSpircoff7"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOIlmlS85FkHr8",
+      "title": "updated files from quantity to weight.",
+      "url": "https://github.com/JonSpircoff7/BuiltRight/pull/40",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/67667801?u=6b74320b184a865445fd3e4e971dc9f8ed35ccea&v=4",
+        "url": "https://github.com/Josejpd3",
+        "login": "Josejpd3"
+      },
+      "createdAt": "2022-12-15T16:56:02Z",
+      "number": 40,
+      "changedFiles": 13,
+      "additions": 35,
+      "deletions": 33,
+      "baseRepository": {
+        "name": "BuiltRight",
+        "url": "https://github.com/JonSpircoff7/BuiltRight",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/111098928?u=1738b2bf2ff68182b206f0f7d32fda2ffdfab31a&v=4",
+          "login": "JonSpircoff7",
+          "url": "https://github.com/JonSpircoff7"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOIlmlS85FkEWg",
+      "title": "updated price to instruction.",
+      "url": "https://github.com/JonSpircoff7/BuiltRight/pull/38",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/67667801?u=6b74320b184a865445fd3e4e971dc9f8ed35ccea&v=4",
+        "url": "https://github.com/Josejpd3",
+        "login": "Josejpd3"
+      },
+      "createdAt": "2022-12-15T16:44:41Z",
+      "number": 38,
+      "changedFiles": 8,
+      "additions": 12,
+      "deletions": 12,
+      "baseRepository": {
+        "name": "BuiltRight",
+        "url": "https://github.com/JonSpircoff7/BuiltRight",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/111098928?u=1738b2bf2ff68182b206f0f7d32fda2ffdfab31a&v=4",
+          "login": "JonSpircoff7",
+          "url": "https://github.com/JonSpircoff7"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOIlmlS85Fj385",
+      "title": "Models feature",
+      "url": "https://github.com/JonSpircoff7/BuiltRight/pull/37",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/67667801?u=6b74320b184a865445fd3e4e971dc9f8ed35ccea&v=4",
+        "url": "https://github.com/Josejpd3",
+        "login": "Josejpd3"
+      },
+      "createdAt": "2022-12-15T16:10:35Z",
+      "number": 37,
+      "changedFiles": 10,
+      "additions": 135,
+      "deletions": 69,
+      "baseRepository": {
+        "name": "BuiltRight",
+        "url": "https://github.com/JonSpircoff7/BuiltRight",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/111098928?u=1738b2bf2ff68182b206f0f7d32fda2ffdfab31a&v=4",
+          "login": "JonSpircoff7",
+          "url": "https://github.com/JonSpircoff7"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOIlmlS85FeKM7",
+      "title": "Exercise model",
+      "url": "https://github.com/JonSpircoff7/BuiltRight/pull/35",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/111098928?u=1738b2bf2ff68182b206f0f7d32fda2ffdfab31a&v=4",
+        "url": "https://github.com/JonSpircoff7",
+        "login": "JonSpircoff7"
+      },
+      "createdAt": "2022-12-14T16:51:30Z",
+      "number": 35,
+      "changedFiles": 23,
+      "additions": 195,
+      "deletions": 195,
+      "baseRepository": {
+        "name": "BuiltRight",
+        "url": "https://github.com/JonSpircoff7/BuiltRight",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/111098928?u=1738b2bf2ff68182b206f0f7d32fda2ffdfab31a&v=4",
+          "login": "JonSpircoff7",
+          "url": "https://github.com/JonSpircoff7"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOIlmlS85FXmqm",
+      "title": "updated app title and image",
+      "url": "https://github.com/JonSpircoff7/BuiltRight/pull/33",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/67667801?u=6b74320b184a865445fd3e4e971dc9f8ed35ccea&v=4",
+        "url": "https://github.com/Josejpd3",
+        "login": "Josejpd3"
+      },
+      "createdAt": "2022-12-13T20:59:34Z",
+      "number": 33,
+      "changedFiles": 3,
+      "additions": 4,
+      "deletions": 4,
+      "baseRepository": {
+        "name": "BuiltRight",
+        "url": "https://github.com/JonSpircoff7/BuiltRight",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/111098928?u=1738b2bf2ff68182b206f0f7d32fda2ffdfab31a&v=4",
+          "login": "JonSpircoff7",
+          "url": "https://github.com/JonSpircoff7"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOIlmlS85FXg-4",
+      "title": "updated exercise categories",
+      "url": "https://github.com/JonSpircoff7/BuiltRight/pull/32",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/67667801?u=6b74320b184a865445fd3e4e971dc9f8ed35ccea&v=4",
+        "url": "https://github.com/Josejpd3",
+        "login": "Josejpd3"
+      },
+      "createdAt": "2022-12-13T20:40:41Z",
+      "number": 32,
+      "changedFiles": 19,
+      "additions": 38822,
+      "deletions": 919,
+      "baseRepository": {
+        "name": "BuiltRight",
+        "url": "https://github.com/JonSpircoff7/BuiltRight",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/111098928?u=1738b2bf2ff68182b206f0f7d32fda2ffdfab31a&v=4",
+          "login": "JonSpircoff7",
+          "url": "https://github.com/JonSpircoff7"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOIlmlS85FWuSA",
+      "title": "npm installed bootstrap axios.",
+      "url": "https://github.com/JonSpircoff7/BuiltRight/pull/31",
+      "state": "CLOSED",
+      "mergedBy": null,
+      "createdAt": "2022-12-13T18:12:47Z",
+      "number": 31,
+      "changedFiles": 2,
+      "additions": 33582,
+      "deletions": 730,
+      "baseRepository": {
+        "name": "BuiltRight",
+        "url": "https://github.com/JonSpircoff7/BuiltRight",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/111098928?u=1738b2bf2ff68182b206f0f7d32fda2ffdfab31a&v=4",
+          "login": "JonSpircoff7",
+          "url": "https://github.com/JonSpircoff7"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOIlmlS85FVcsG",
+      "title": "updated readme file.",
+      "url": "https://github.com/JonSpircoff7/BuiltRight/pull/28",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/67667801?u=6b74320b184a865445fd3e4e971dc9f8ed35ccea&v=4",
+        "url": "https://github.com/Josejpd3",
+        "login": "Josejpd3"
+      },
+      "createdAt": "2022-12-13T15:45:17Z",
+      "number": 28,
+      "changedFiles": 1,
+      "additions": 26,
+      "deletions": 60,
+      "baseRepository": {
+        "name": "BuiltRight",
+        "url": "https://github.com/JonSpircoff7/BuiltRight",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/111098928?u=1738b2bf2ff68182b206f0f7d32fda2ffdfab31a&v=4",
+          "login": "JonSpircoff7",
+          "url": "https://github.com/JonSpircoff7"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOIlmlS85FVUj5",
+      "title": "updated react versions.",
+      "url": "https://github.com/JonSpircoff7/BuiltRight/pull/27",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/67667801?u=6b74320b184a865445fd3e4e971dc9f8ed35ccea&v=4",
+        "url": "https://github.com/Josejpd3",
+        "login": "Josejpd3"
+      },
+      "createdAt": "2022-12-13T15:27:30Z",
+      "number": 27,
+      "changedFiles": 1,
+      "additions": 3,
+      "deletions": 3,
+      "baseRepository": {
+        "name": "BuiltRight",
+        "url": "https://github.com/JonSpircoff7/BuiltRight",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/111098928?u=1738b2bf2ff68182b206f0f7d32fda2ffdfab31a&v=4",
+          "login": "JonSpircoff7",
+          "url": "https://github.com/JonSpircoff7"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOIaOZvs5DCa7T",
+      "title": "added put method to project route.",
+      "url": "https://github.com/JonSpircoff7/Project-spot/pull/31",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/111467879?u=20634e897b35a7bc017b67da23d7714802d265cc&v=4",
+        "url": "https://github.com/sbullocks",
+        "login": "sbullocks"
+      },
+      "createdAt": "2022-11-16T15:53:33Z",
+      "number": 31,
+      "changedFiles": 2,
+      "additions": 25,
+      "deletions": 1,
+      "baseRepository": {
+        "name": "Project-spot",
+        "url": "https://github.com/JonSpircoff7/Project-spot",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/111098928?u=1738b2bf2ff68182b206f0f7d32fda2ffdfab31a&v=4",
+          "login": "JonSpircoff7",
+          "url": "https://github.com/JonSpircoff7"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOIaOZvs5C9EOO",
+      "title": "Project.js models feature",
+      "url": "https://github.com/JonSpircoff7/Project-spot/pull/30",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/113011464?v=4",
+        "url": "https://github.com/StyngerBee",
+        "login": "StyngerBee"
+      },
+      "createdAt": "2022-11-15T19:19:53Z",
+      "number": 30,
+      "changedFiles": 4,
+      "additions": 32,
+      "deletions": 7,
+      "baseRepository": {
+        "name": "Project-spot",
+        "url": "https://github.com/JonSpircoff7/Project-spot",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/111098928?u=1738b2bf2ff68182b206f0f7d32fda2ffdfab31a&v=4",
+          "login": "JonSpircoff7",
+          "url": "https://github.com/JonSpircoff7"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOIaOZvs5CogYm",
+      "title": "updated env file and ensure git ignore has env.",
+      "url": "https://github.com/JonSpircoff7/Project-spot/pull/1",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/111467879?u=20634e897b35a7bc017b67da23d7714802d265cc&v=4",
+        "url": "https://github.com/sbullocks",
+        "login": "sbullocks"
+      },
+      "createdAt": "2022-11-10T15:40:39Z",
+      "number": 1,
+      "changedFiles": 1,
+      "additions": 0,
+      "deletions": 3,
+      "baseRepository": {
+        "name": "Project-spot",
+        "url": "https://github.com/JonSpircoff7/Project-spot",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/111098928?u=1738b2bf2ff68182b206f0f7d32fda2ffdfab31a&v=4",
+          "login": "JonSpircoff7",
+          "url": "https://github.com/JonSpircoff7"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOINaUzM5BBmKH",
+      "title": "Readme updates",
+      "url": "https://github.com/sbullocks/Game-Hub/pull/46",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/113915609?u=dc2106985e242bc1d25740d8dc87bf6ecfdf848d&v=4",
+        "url": "https://github.com/Jordancolubiale",
+        "login": "Jordancolubiale"
+      },
+      "createdAt": "2022-10-18T14:58:41Z",
+      "number": 46,
+      "changedFiles": 2,
+      "additions": 4,
+      "deletions": 8,
+      "baseRepository": {
+        "name": "Game-Hub",
+        "url": "https://github.com/sbullocks/Game-Hub",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/111467879?u=20634e897b35a7bc017b67da23d7714802d265cc&v=4",
+          "login": "sbullocks",
+          "url": "https://github.com/sbullocks"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOINaUzM5A-Mqx",
+      "title": "added the auto complete feature to search bar",
+      "url": "https://github.com/sbullocks/Game-Hub/pull/42",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/113463903?u=6193e8821ddd8f6c1b2e3d39e8abe1234c760762&v=4",
+        "url": "https://github.com/AntoineCanCode",
+        "login": "AntoineCanCode"
+      },
+      "createdAt": "2022-10-17T23:27:47Z",
+      "number": 42,
+      "changedFiles": 4,
+      "additions": 33,
+      "deletions": 4,
+      "baseRepository": {
+        "name": "Game-Hub",
+        "url": "https://github.com/sbullocks/Game-Hub",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/111467879?u=20634e897b35a7bc017b67da23d7714802d265cc&v=4",
+          "login": "sbullocks",
+          "url": "https://github.com/sbullocks"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOINaUzM5A9oUp",
+      "title": "updated readme file",
+      "url": "https://github.com/sbullocks/Game-Hub/pull/40",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/113915609?u=dc2106985e242bc1d25740d8dc87bf6ecfdf848d&v=4",
+        "url": "https://github.com/Jordancolubiale",
+        "login": "Jordancolubiale"
+      },
+      "createdAt": "2022-10-17T20:41:46Z",
+      "number": 40,
+      "changedFiles": 8,
+      "additions": 87,
+      "deletions": 4,
+      "baseRepository": {
+        "name": "Game-Hub",
+        "url": "https://github.com/sbullocks/Game-Hub",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/111467879?u=20634e897b35a7bc017b67da23d7714802d265cc&v=4",
+          "login": "sbullocks",
+          "url": "https://github.com/sbullocks"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOINaUzM5A1fky",
+      "title": "updated nav bar links and dropdown bar.",
+      "url": "https://github.com/sbullocks/Game-Hub/pull/17",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/108139839?u=8562f719d4db6cc12a004c04db4f513cffdeafa0&v=4",
+        "url": "https://github.com/dcrowdev",
+        "login": "dcrowdev"
+      },
+      "createdAt": "2022-10-14T18:28:13Z",
+      "number": 17,
+      "changedFiles": 2,
+      "additions": 38,
+      "deletions": 40,
+      "baseRepository": {
+        "name": "Game-Hub",
+        "url": "https://github.com/sbullocks/Game-Hub",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/111467879?u=20634e897b35a7bc017b67da23d7714802d265cc&v=4",
+          "login": "sbullocks",
+          "url": "https://github.com/sbullocks"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOINaUzM5Axiq1",
+      "title": "working on nav bar",
+      "url": "https://github.com/sbullocks/Game-Hub/pull/8",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/108139839?u=8562f719d4db6cc12a004c04db4f513cffdeafa0&v=4",
+        "url": "https://github.com/dcrowdev",
+        "login": "dcrowdev"
+      },
+      "createdAt": "2022-10-13T23:04:50Z",
+      "number": 8,
+      "changedFiles": 1,
+      "additions": 159,
+      "deletions": 61,
+      "baseRepository": {
+        "name": "Game-Hub",
+        "url": "https://github.com/sbullocks/Game-Hub",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/111467879?u=20634e897b35a7bc017b67da23d7714802d265cc&v=4",
+          "login": "sbullocks",
+          "url": "https://github.com/sbullocks"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOINaUzM5Aw0RN",
+      "title": "added game search bar to html home page.",
+      "url": "https://github.com/sbullocks/Game-Hub/pull/6",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/113915609?u=dc2106985e242bc1d25740d8dc87bf6ecfdf848d&v=4",
+        "url": "https://github.com/Jordancolubiale",
+        "login": "Jordancolubiale"
+      },
+      "createdAt": "2022-10-13T19:16:43Z",
+      "number": 6,
+      "changedFiles": 1,
+      "additions": 24,
+      "deletions": 12,
+      "baseRepository": {
+        "name": "Game-Hub",
+        "url": "https://github.com/sbullocks/Game-Hub",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/111467879?u=20634e897b35a7bc017b67da23d7714802d265cc&v=4",
+          "login": "sbullocks",
+          "url": "https://github.com/sbullocks"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOINaUzM5Awu92",
+      "title": "added nav bar to main html.",
+      "url": "https://github.com/sbullocks/Game-Hub/pull/4",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/108139839?u=8562f719d4db6cc12a004c04db4f513cffdeafa0&v=4",
+        "url": "https://github.com/dcrowdev",
+        "login": "dcrowdev"
+      },
+      "createdAt": "2022-10-13T18:57:01Z",
+      "number": 4,
+      "changedFiles": 1,
+      "additions": 83,
+      "deletions": 0,
+      "baseRepository": {
+        "name": "Game-Hub",
+        "url": "https://github.com/sbullocks/Game-Hub",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/111467879?u=20634e897b35a7bc017b67da23d7714802d265cc&v=4",
+          "login": "sbullocks",
+          "url": "https://github.com/sbullocks"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOINaUzM5AwbDI",
+      "title": "added file structure.",
+      "url": "https://github.com/sbullocks/Game-Hub/pull/3",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/108139839?u=8562f719d4db6cc12a004c04db4f513cffdeafa0&v=4",
+        "url": "https://github.com/dcrowdev",
+        "login": "dcrowdev"
+      },
+      "createdAt": "2022-10-13T17:39:32Z",
+      "number": 3,
+      "changedFiles": 5,
+      "additions": 3,
+      "deletions": 0,
+      "baseRepository": {
+        "name": "Game-Hub",
+        "url": "https://github.com/sbullocks/Game-Hub",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/111467879?u=20634e897b35a7bc017b67da23d7714802d265cc&v=4",
+          "login": "sbullocks",
+          "url": "https://github.com/sbullocks"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOIM50ss5ArQrK",
+      "title": "test",
+      "url": "https://github.com/sbullocks/project-1/pull/3",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/108139839?u=8562f719d4db6cc12a004c04db4f513cffdeafa0&v=4",
+        "url": "https://github.com/dcrowdev",
+        "login": "dcrowdev"
+      },
+      "createdAt": "2022-10-12T18:49:23Z",
+      "number": 3,
+      "changedFiles": 1,
+      "additions": 3,
+      "deletions": 1,
+      "baseRepository": {
+        "name": "project-1",
+        "url": "https://github.com/sbullocks/project-1",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/111467879?u=20634e897b35a7bc017b67da23d7714802d265cc&v=4",
+          "login": "sbullocks",
+          "url": "https://github.com/sbullocks"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOIM50ss5ArKur",
+      "title": "Readme feature",
+      "url": "https://github.com/sbullocks/project-1/pull/1",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/108139839?u=8562f719d4db6cc12a004c04db4f513cffdeafa0&v=4",
+        "url": "https://github.com/dcrowdev",
+        "login": "dcrowdev"
+      },
+      "createdAt": "2022-10-12T18:24:28Z",
+      "number": 1,
+      "changedFiles": 1,
+      "additions": 2,
+      "deletions": 0,
+      "baseRepository": {
+        "name": "project-1",
+        "url": "https://github.com/sbullocks/project-1",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/111467879?u=20634e897b35a7bc017b67da23d7714802d265cc&v=4",
+          "login": "sbullocks",
+          "url": "https://github.com/sbullocks"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOH46RXs4-StKA",
+      "title": "fixed error on script.js",
+      "url": "https://github.com/sbullocks/prework-study-guide/pull/16",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/111467879?u=20634e897b35a7bc017b67da23d7714802d265cc&v=4",
+        "url": "https://github.com/sbullocks",
+        "login": "sbullocks"
+      },
+      "createdAt": "2022-09-02T16:18:09Z",
+      "number": 16,
+      "changedFiles": 1,
+      "additions": 0,
+      "deletions": 15,
+      "baseRepository": {
+        "name": "prework-study-guide",
+        "url": "https://github.com/sbullocks/prework-study-guide",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/111467879?u=20634e897b35a7bc017b67da23d7714802d265cc&v=4",
+          "login": "sbullocks",
+          "url": "https://github.com/sbullocks"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOH46RXs4-QEYA",
+      "title": "Feature/project readme",
+      "url": "https://github.com/sbullocks/prework-study-guide/pull/15",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/111467879?u=20634e897b35a7bc017b67da23d7714802d265cc&v=4",
+        "url": "https://github.com/sbullocks",
+        "login": "sbullocks"
+      },
+      "createdAt": "2022-09-02T01:26:51Z",
+      "number": 15,
+      "changedFiles": 1,
+      "additions": 1,
+      "deletions": 1,
+      "baseRepository": {
+        "name": "prework-study-guide",
+        "url": "https://github.com/sbullocks/prework-study-guide",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/111467879?u=20634e897b35a7bc017b67da23d7714802d265cc&v=4",
+          "login": "sbullocks",
+          "url": "https://github.com/sbullocks"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOH46RXs4-QEFu",
+      "title": "Feature/project readme",
+      "url": "https://github.com/sbullocks/prework-study-guide/pull/14",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/111467879?u=20634e897b35a7bc017b67da23d7714802d265cc&v=4",
+        "url": "https://github.com/sbullocks",
+        "login": "sbullocks"
+      },
+      "createdAt": "2022-09-02T01:23:59Z",
+      "number": 14,
+      "changedFiles": 1,
+      "additions": 3,
+      "deletions": 3,
+      "baseRepository": {
+        "name": "prework-study-guide",
+        "url": "https://github.com/sbullocks/prework-study-guide",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/111467879?u=20634e897b35a7bc017b67da23d7714802d265cc&v=4",
+          "login": "sbullocks",
+          "url": "https://github.com/sbullocks"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOH46RXs4-QAi-",
+      "title": "Feature/Project README",
+      "url": "https://github.com/sbullocks/prework-study-guide/pull/13",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/111467879?u=20634e897b35a7bc017b67da23d7714802d265cc&v=4",
+        "url": "https://github.com/sbullocks",
+        "login": "sbullocks"
+      },
+      "createdAt": "2022-09-02T00:44:45Z",
+      "number": 13,
+      "changedFiles": 3,
+      "additions": 59,
+      "deletions": 2,
+      "baseRepository": {
+        "name": "prework-study-guide",
+        "url": "https://github.com/sbullocks/prework-study-guide",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/111467879?u=20634e897b35a7bc017b67da23d7714802d265cc&v=4",
+          "login": "sbullocks",
+          "url": "https://github.com/sbullocks"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOH46RXs4-P9QB",
+      "title": "Learned how to Call a Function",
+      "url": "https://github.com/sbullocks/prework-study-guide/pull/12",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/111467879?u=20634e897b35a7bc017b67da23d7714802d265cc&v=4",
+        "url": "https://github.com/sbullocks",
+        "login": "sbullocks"
+      },
+      "createdAt": "2022-09-02T00:10:08Z",
+      "number": 12,
+      "changedFiles": 2,
+      "additions": 29,
+      "deletions": 0,
+      "baseRepository": {
+        "name": "prework-study-guide",
+        "url": "https://github.com/sbullocks/prework-study-guide",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/111467879?u=20634e897b35a7bc017b67da23d7714802d265cc&v=4",
+          "login": "sbullocks",
+          "url": "https://github.com/sbullocks"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOH46RXs4-Dy6i",
+      "title": "Added CSS to project",
+      "url": "https://github.com/sbullocks/prework-study-guide/pull/11",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/111467879?u=20634e897b35a7bc017b67da23d7714802d265cc&v=4",
+        "url": "https://github.com/sbullocks",
+        "login": "sbullocks"
+      },
+      "createdAt": "2022-08-30T15:57:15Z",
+      "number": 11,
+      "changedFiles": 2,
+      "additions": 39,
+      "deletions": 0,
+      "baseRepository": {
+        "name": "prework-study-guide",
+        "url": "https://github.com/sbullocks/prework-study-guide",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/111467879?u=20634e897b35a7bc017b67da23d7714802d265cc&v=4",
+          "login": "sbullocks",
+          "url": "https://github.com/sbullocks"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOH46RXs4-AGPs",
+      "title": "Added HTML code to application",
+      "url": "https://github.com/sbullocks/prework-study-guide/pull/10",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/111467879?u=20634e897b35a7bc017b67da23d7714802d265cc&v=4",
+        "url": "https://github.com/sbullocks",
+        "login": "sbullocks"
+      },
+      "createdAt": "2022-08-29T21:22:05Z",
+      "number": 10,
+      "changedFiles": 1,
+      "additions": 33,
+      "deletions": 2,
+      "baseRepository": {
+        "name": "prework-study-guide",
+        "url": "https://github.com/sbullocks/prework-study-guide",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/111467879?u=20634e897b35a7bc017b67da23d7714802d265cc&v=4",
+          "login": "sbullocks",
+          "url": "https://github.com/sbullocks"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOH46RXs495kP6",
+      "title": "add starter code",
+      "url": "https://github.com/sbullocks/prework-study-guide/pull/9",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/111467879?u=20634e897b35a7bc017b67da23d7714802d265cc&v=4",
+        "url": "https://github.com/sbullocks",
+        "login": "sbullocks"
+      },
+      "createdAt": "2022-08-27T00:50:17Z",
+      "number": 9,
+      "changedFiles": 3,
+      "additions": 22,
+      "deletions": 0,
+      "baseRepository": {
+        "name": "prework-study-guide",
+        "url": "https://github.com/sbullocks/prework-study-guide",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/111467879?u=20634e897b35a7bc017b67da23d7714802d265cc&v=4",
+          "login": "sbullocks",
+          "url": "https://github.com/sbullocks"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOH46RXs495hZJ",
+      "title": "Feature/starter code",
+      "url": "https://github.com/sbullocks/prework-study-guide/pull/8",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/111467879?u=20634e897b35a7bc017b67da23d7714802d265cc&v=4",
+        "url": "https://github.com/sbullocks",
+        "login": "sbullocks"
+      },
+      "createdAt": "2022-08-27T00:39:31Z",
+      "number": 8,
+      "changedFiles": 0,
+      "additions": 0,
+      "deletions": 0,
+      "baseRepository": {
+        "name": "prework-study-guide",
+        "url": "https://github.com/sbullocks/prework-study-guide",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/111467879?u=20634e897b35a7bc017b67da23d7714802d265cc&v=4",
+          "login": "sbullocks",
+          "url": "https://github.com/sbullocks"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOH46RXs495gGO",
+      "title": "Add starter code for Prework project",
+      "url": "https://github.com/sbullocks/prework-study-guide/pull/7",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/111467879?u=20634e897b35a7bc017b67da23d7714802d265cc&v=4",
+        "url": "https://github.com/sbullocks",
+        "login": "sbullocks"
+      },
+      "createdAt": "2022-08-27T00:35:42Z",
+      "number": 7,
+      "changedFiles": 3,
+      "additions": 0,
+      "deletions": 22,
+      "baseRepository": {
+        "name": "prework-study-guide",
+        "url": "https://github.com/sbullocks/prework-study-guide",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/111467879?u=20634e897b35a7bc017b67da23d7714802d265cc&v=4",
+          "login": "sbullocks",
+          "url": "https://github.com/sbullocks"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOH46RXs495evO",
+      "title": "Add starter code for Prework project",
+      "url": "https://github.com/sbullocks/prework-study-guide/pull/6",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/111467879?u=20634e897b35a7bc017b67da23d7714802d265cc&v=4",
+        "url": "https://github.com/sbullocks",
+        "login": "sbullocks"
+      },
+      "createdAt": "2022-08-27T00:29:50Z",
+      "number": 6,
+      "changedFiles": 3,
+      "additions": 22,
+      "deletions": 0,
+      "baseRepository": {
+        "name": "prework-study-guide",
+        "url": "https://github.com/sbullocks/prework-study-guide",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/111467879?u=20634e897b35a7bc017b67da23d7714802d265cc&v=4",
+          "login": "sbullocks",
+          "url": "https://github.com/sbullocks"
+        }
+      }
+    }
+  ],
+  "merged": 33,
+  "open": 0,
+  "totalCount": 34
+}
