@@ -66,24 +66,24 @@ const socialMediaLinks = [
     fontAwesomeIcon: "fa-google", // Reference https://fontawesome.com/icons/google?style=brands
     backgroundColor: "#D14836", // Reference https://simpleicons.org/?q=gmail
   },
-  {
-    name: "Twitter",
-    link: "https://placeholder.com/",
-    fontAwesomeIcon: "fa-twitter", // Reference https://fontawesome.com/icons/twitter?style=brands
-    backgroundColor: "#1DA1F2", // Reference https://simpleicons.org/?q=twitter
-  },
-  {
-    name: "Facebook",
-    link: "https://placeholder.com/",
-    fontAwesomeIcon: "fa-facebook-f", // Reference https://fontawesome.com/icons/facebook-f?style=brands
-    backgroundColor: "#1877F2", // Reference https://simpleicons.org/?q=facebook
-  },
-  {
-    name: "Instagram",
-    link: "https://placeholder.com/",
-    fontAwesomeIcon: "fa-instagram", // Reference https://fontawesome.com/icons/instagram?style=brands
-    backgroundColor: "#E4405F", // Reference https://simpleicons.org/?q=instagram
-  },
+  // {
+  //   name: "Twitter",
+  //   link: "https://placeholder.com/",
+  //   fontAwesomeIcon: "fa-twitter", // Reference https://fontawesome.com/icons/twitter?style=brands
+  //   backgroundColor: "#1DA1F2", // Reference https://simpleicons.org/?q=twitter
+  // },
+  // {
+  //   name: "Facebook",
+  //   link: "https://placeholder.com/",
+  //   fontAwesomeIcon: "fa-facebook-f", // Reference https://fontawesome.com/icons/facebook-f?style=brands
+  //   backgroundColor: "#1877F2", // Reference https://simpleicons.org/?q=facebook
+  // },
+  // {
+  //   name: "Instagram",
+  //   link: "https://placeholder.com/",
+  //   fontAwesomeIcon: "fa-instagram", // Reference https://fontawesome.com/icons/instagram?style=brands
+  //   backgroundColor: "#E4405F", // Reference https://simpleicons.org/?q=instagram
+  // },
 ];
 
 const skills = {
@@ -737,11 +737,11 @@ const contactPageData = {
       "I am available via LinkedIn as I do not have social media. You can message me, I will reply within 24-48 hours.",
   },
   blogSection: {
-    title: "Under Construction",
+    title: "*Lifelong Learning Journey*",
     subtitle:
-      "We apologize for the inconvenience, but this part of the page is currently under construction. Stephen is working hard to bring you the latest and greatest features, and we appreciate your patience as we work to improve your experience. Please check back soon for updates. Thank you for your understanding!",
-    link: "https://blogs.ashutoshhathidara.com/",
-    avatar_image_path: "blogs_image.svg",
+      "Welcome to my portfolio page! As a Web Developer, I am passionate about creative problem solving and continuous innovations. I am constantly seeking new knowledge and skills, and I firmly believe that learning is a lifelong journey. On this portfolio, you will find a selection of my work that showcases my current level of expertise. But please note that I am actively learning and growing every day, and I will continue to update my projects as I progress. I am dedicated to staying up-to-date with the latest advancements in my field, attending workshops, networking with peers, and taking new courses that help me stay ahead of the curve. This approach allows me to offer my clients the most effective and innovative solutions. Thank you for taking the time to visit my portfolio. If you have any questions or would like to learn more about my work, please don't hesitate to reach out.",
+    // link: "https://blogs.ashutoshhathidara.com/",
+    // avatar_image_path: "blogs_image.svg",
   },
   addressSection: {
     title: "Address",
