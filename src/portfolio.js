@@ -1,7 +1,5 @@
 /* Change this file to get your personal Porfolio */
 
-// import { UniqueInputFieldNamesRule } from "graphql";
-
 // Website related settings
 const settings = {
   isSplash: true, // Change this to false if you don't want Splash screen.
@@ -11,7 +9,7 @@ const settings = {
 const seo = {
   title: "Stephen's Portfolio",
   description:
-    "Hello, my name is Stephen Bullocks, and I recently graduated from the University of Central Florida with a degree in Full-Stack Web Development. As a web developer, I am passionate about creating innovative and user-friendly websites that meet the needs of both clients and end-users. I am dedicated to continuing my education and learning new technologies daily to improve my skills and stay up-to-date with the latest trends in web development.",
+    "Frontend Engineer building production React and JavaScript applications. AI Native Builder using AI as a force multiplier to ship faster and think bigger. 10+ years of leadership and operations experience that brings genuine product instinct to engineering.",
   og: {
     title: "Stephen Bullocks Portfolio",
     type: "website",
@@ -25,7 +23,7 @@ const greeting = {
   logo_name: "StephenBullocks",
   nickname: "STEE-vən",
   subTitle:
-    "Hello, my name is Stephen Bullocks, and I recently graduated from the University of Central Florida with a degree in Full-Stack Web Development. As a web developer, I am passionate about creating innovative and user-friendly websites that meet the needs of both clients and end-users. I am dedicated to continuing my education and learning new technologies daily to improve my skills and stay up-to-date with the latest trends in web development.",
+    "I build production React and JavaScript applications — and I use AI as a force multiplier to ship faster, learn deeper, and think bigger than my role on paper. At ALTR, a cloud-native data security company, I spent 2+ years building frontend features and expanding across the stack — working with AWS Lambda, Step Functions, and CloudWatch. My most recent personal project, Cluster, is a real-time friend presence PWA built with React, Supabase Realtime, Edge Functions, Web Push notifications, and deployed on Vercel. I bring 10+ years of leadership, operations, and client-facing experience that gives me genuine product instinct — I naturally think in user outcomes, communicate across functions, and care about why something is built, not just how.",
   resumeLink:
     "https://docs.google.com/document/d/1zolUC_D2Ztx3mGRTMWeSAmEpu-fiFNYj/edit",
   portfolio_repository: "https://github.com/sbullocks/professionalPortfolio",
@@ -33,15 +31,6 @@ const greeting = {
 };
 
 const socialMediaLinks = [
-  /* Your Social Media Link */
-  // github: "https://github.com/sbullocks",
-  // linkedin: "https://www.linkedin.com/in/stephen-bullocks-899559141/",
-  // gmail: "sbullocks@gmail.com",
-  // gitlab: "https://gitlab.com/sbullocks",
-  // facebook: "https://placeholder.com/",
-  // twitter: "https://placeholder.com/",
-  // instagram: "https://placeholder.com/"
-
   {
     name: "Github",
     link: "https://github.com/sbullocks",
@@ -55,103 +44,32 @@ const socialMediaLinks = [
     backgroundColor: "#0077B5", // Reference https://simpleicons.org/?q=linkedin
   },
   {
-    name: "Twitch",
-    link: "https://www.twitch.tv/paid4hire",
-    fontAwesomeIcon: "fa-twitch", // Reference https://fontawesome.com/icons/twitch?style=brands
-    backgroundColor: "#6441A4", // Reference https://simpleicons.org/?q=twitch
-  },
-  {
     name: "Gmail",
     link: "mailto:sbullocks@gmail.com",
     fontAwesomeIcon: "fa-google", // Reference https://fontawesome.com/icons/google?style=brands
     backgroundColor: "#D14836", // Reference https://simpleicons.org/?q=gmail
   },
-  // {
-  //   name: "Twitter",
-  //   link: "https://placeholder.com/",
-  //   fontAwesomeIcon: "fa-twitter", // Reference https://fontawesome.com/icons/twitter?style=brands
-  //   backgroundColor: "#1DA1F2", // Reference https://simpleicons.org/?q=twitter
-  // },
-  // {
-  //   name: "Facebook",
-  //   link: "https://placeholder.com/",
-  //   fontAwesomeIcon: "fa-facebook-f", // Reference https://fontawesome.com/icons/facebook-f?style=brands
-  //   backgroundColor: "#1877F2", // Reference https://simpleicons.org/?q=facebook
-  // },
-  // {
-  //   name: "Instagram",
-  //   link: "https://placeholder.com/",
-  //   fontAwesomeIcon: "fa-instagram", // Reference https://fontawesome.com/icons/instagram?style=brands
-  //   backgroundColor: "#E4405F", // Reference https://simpleicons.org/?q=instagram
-  // },
 ];
 
 const skills = {
   data: [
-    // {
-    //   title: "Data Science & AI",
-    //   fileName: "DataScienceImg",
-    //   skills: [
-    //     "⚡ Developing highly scalable production ready models for various deeplearning and statistical use cases",
-    //     "⚡ Experience of working with Computer Vision and NLP projects",
-    //     "⚡ Complex quantitative modelling for dynamic forecasting and time series analysis",
-    //   ],
-    //   softwareSkills: [
-    //     {
-    //       skillName: "Tensorflow",
-    //       fontAwesomeClassname: "logos-tensorflow",
-    //       style: {
-    //         backgroundColor: "transparent",
-    //       },
-    //     },
-    //     {
-    //       skillName: "Keras",
-    //       fontAwesomeClassname: "simple-icons:keras",
-    //       style: {
-    //         backgroundColor: "white",
-    //         color: "#D00000",
-    //       },
-    //     },
-    //     {
-    //       skillName: "PyTorch",
-    //       fontAwesomeClassname: "logos-pytorch",
-    //       style: {
-    //         backgroundColor: "transparent",
-    //       },
-    //     },
-    //     {
-    //       skillName: "Python",
-    //       fontAwesomeClassname: "ion-logo-python",
-    //       style: {
-    //         backgroundColor: "transparent",
-    //         color: "#3776AB",
-    //       },
-    //     },
-    //   ],
-    // },
     {
-      title: "Full Stack Development",
+      title: "Frontend Engineering",
       fileName: "FullStackImg",
       skills: [
-        "⚡ Server-side frameworks for example Node.js and Express.js",
-        "⚡ Experience with SQL or NoSQL databases such as MySQL and MongoDB",
-        "⚡ Experience with version control systems including Git and GitHub",
-        "⚡ Testing & Debugging - Experience with writing automated tests and debugging issues in web applications such as Jest.",
-        "⚡ Development & Server Management - Experience deploying web applications to production environments and managing servers.",
+        "⚡ Building production React applications with component architecture and state management (Redux, RTK)",
+        "⚡ Responsive web design and UI development with Material-UI and custom CSS",
+        "⚡ JavaScript and TypeScript for scalable, maintainable front-end codebases",
+        "⚡ Progressive Web Applications (PWA) with offline support and web push notifications",
+        "⚡ Testing and debugging with Jest and browser DevTools",
+        "⚡ Git-based workflows with GitHub for version control and collaboration",
       ],
       softwareSkills: [
         {
-          skillName: "HTML5",
-          fontAwesomeClassname: "simple-icons:html5",
+          skillName: "React",
+          fontAwesomeClassname: "simple-icons:react",
           style: {
-            color: "#E34F26",
-          },
-        },
-        {
-          skillName: "CSS",
-          fontAwesomeClassname: "simple-icons:css3",
-          style: {
-            color: "#1572B6",
+            color: "#61DAFB",
           },
         },
         {
@@ -163,12 +81,68 @@ const skills = {
           },
         },
         {
-          skillName: "ReactJS",
-          fontAwesomeClassname: "simple-icons:react",
+          skillName: "TypeScript",
+          fontAwesomeClassname: "simple-icons:typescript",
           style: {
-            color: "#61DAFB",
+            color: "#3178C6",
           },
         },
+        {
+          skillName: "Redux",
+          fontAwesomeClassname: "simple-icons:redux",
+          style: {
+            color: "#764ABC",
+          },
+        },
+        {
+          skillName: "Material-UI",
+          fontAwesomeClassname: "simple-icons:materialui",
+          style: {
+            color: "#0081CB",
+          },
+        },
+        {
+          skillName: "HTML5",
+          fontAwesomeClassname: "simple-icons:html5",
+          style: {
+            color: "#E34F26",
+          },
+        },
+        {
+          skillName: "CSS3",
+          fontAwesomeClassname: "simple-icons:css3",
+          style: {
+            color: "#1572B6",
+          },
+        },
+        {
+          skillName: "PWA",
+          fontAwesomeClassname: "simple-icons:pwa",
+          style: {
+            color: "#5A0FC8",
+          },
+        },
+        {
+          skillName: "GitHub",
+          fontAwesomeClassname: "simple-icons:github",
+          style: {
+            color: "#181717",
+          },
+        },
+      ],
+    },
+    {
+      title: "Full Stack & Cloud",
+      fileName: "CloudInfraImg",
+      skills: [
+        "⚡ Node.js and Express.js for server-side application and API development",
+        "⚡ AWS services including Lambda, Step Functions, and CloudWatch",
+        "⚡ Supabase for real-time data, Realtime channels, Edge Functions, and authentication",
+        "⚡ Python and FastAPI for backend APIs and data engineering",
+        "⚡ MongoDB and MySQL for NoSQL and relational database management",
+        "⚡ Vercel for frontend deployment, edge functions, and CI/CD pipelines",
+      ],
+      softwareSkills: [
         {
           skillName: "NodeJS",
           fontAwesomeClassname: "simple-icons:node-dot-js",
@@ -177,45 +151,39 @@ const skills = {
           },
         },
         {
-          skillName: "NPM",
-          fontAwesomeClassname: "simple-icons:npm",
+          skillName: "Express",
+          fontAwesomeClassname: "simple-icons:express",
           style: {
-            color: "#CB3837",
+            color: "#000000",
           },
         },
         {
-          skillName: "Yarn",
-          fontAwesomeClassname: "simple-icons:yarn",
+          skillName: "AWS",
+          fontAwesomeClassname: "simple-icons:amazonaws",
           style: {
-            color: "#2C8EBB",
+            color: "#FF9900",
           },
         },
         {
-          skillName: "Visual Studio Code",
-          fontAwesomeClassname: "simple-icons:visualstudiocode",
+          skillName: "Supabase",
+          fontAwesomeClassname: "simple-icons:supabase",
           style: {
-            color: "#007ACC",
+            color: "#3ECF8E",
           },
         },
         {
-          skillName: "jQuery",
-          fontAwesomeClassname: "simple-icons:jquery",
+          skillName: "Python",
+          fontAwesomeClassname: "ion-logo-python",
           style: {
-            color: "#0769AD",
+            backgroundColor: "transparent",
+            color: "#3776AB",
           },
         },
         {
-          skillName: "PWA",
-          fontAwesomeClassname: "simple-icons:pwa",
+          skillName: "FastAPI",
+          fontAwesomeClassname: "simple-icons:fastapi",
           style: {
-            color: "#5A0FC8",
-          },
-        },
-        {
-          skillName: "BootStrap",
-          fontAwesomeClassname: "simple-icons:bootstrap",
-          style: {
-            color: "#7952B3",
+            color: "#009688",
           },
         },
         {
@@ -233,165 +201,44 @@ const skills = {
           },
         },
         {
-          skillName: "Github",
-          fontAwesomeClassname: "simple-icons:github",
+          skillName: "Vercel",
+          fontAwesomeClassname: "simple-icons:vercel",
           style: {
-            color: "#181717",
-          },
-        },
-        {
-          skillName: "Heroku",
-          fontAwesomeClassname: "simple-icons:heroku",
-          style: {
-            color: "#430098",
+            color: "#000000",
           },
         },
       ],
     },
     {
-      title: "edX TA/Grader",
+      title: "AI Native Development",
       fileName: "DesignImg",
       skills: [
-        "⚡ Deliver a faster turnaround for homework grades and consistently high-quality feedback.",
-        "⚡ Prepare and stay up to date with specific curriculum expectations and core concepts.",
-        "⚡ Grade student homework submissions within 24-48 hours of submission.",
-        "⚡ Articulate clear and thorough feedback that supports the specific grade assigned.",
-        "⚡ Identify student errors and communicate explicitly for visibility to local instructional team.",
-        "⚡ Check submissions for plagiarism prior to grading and notify the team as needed.",
-        "⚡ Encourage students' progression of learning according to our pedagogy.",
-        "⚡ Communicate to the student in a way that also keeps the instructional staff in mind.",
+        "⚡ Using AI as a force multiplier — from vague feature idea to production-ready, rendered code",
+        "⚡ Integrating Anthropic Claude into development workflows for faster iteration and deeper learning",
+        "⚡ Building AI-augmented applications with visible decision trails and documented judgment calls",
+        "⚡ Compressing multi-week team efforts into days through intelligent AI collaboration",
+        "⚡ Prompt engineering and AI tool evaluation for real-world production use cases",
       ],
-
       softwareSkills: [
         {
-          skillName: "Visual Studio Code",
-          fontAwesomeClassname: "simple-icons:visualstudiocode",
+          skillName: "Anthropic Claude",
+          fontAwesomeClassname: "simple-icons:anthropic",
           style: {
-            color: "#007ACC",
+            color: "#CC785C",
           },
         },
         {
-          skillName: "HTML5",
-          fontAwesomeClassname: "simple-icons:html5",
+          skillName: "Vercel V0",
+          fontAwesomeClassname: "simple-icons:vercel",
           style: {
-            color: "#E34F26",
+            color: "#000000",
           },
         },
         {
-          skillName: "CSS",
-          fontAwesomeClassname: "simple-icons:css3",
-          style: {
-            color: "#1572B6",
-          },
-        },
-        {
-          skillName: "JavaScript",
-          fontAwesomeClassname: "simple-icons:javascript",
-          style: {
-            backgroundColor: "#000000",
-            color: "#F7DF1E",
-          },
-        },
-        {
-          skillName: "jQuery",
-          fontAwesomeClassname: "simple-icons:jquery",
-          style: {
-            color: "#0769AD",
-          },
-        },
-        {
-          skillName: "PWA",
-          fontAwesomeClassname: "simple-icons:pwa",
-          style: {
-            color: "#5A0FC8",
-          },
-        },
-        {
-          skillName: "BootStrap",
-          fontAwesomeClassname: "simple-icons:bootstrap",
-          style: {
-            color: "#7952B3",
-          },
-        },
-        // {
-        //   skillName: "Handlebars.js",
-        //   fontAwesomeClassname: "simple-icons:handlebars",
-        //   style: {
-        //     color: "#7952B3",
-        //   },
-        // },
-        {
-          skillName: "React.js",
-          fontAwesomeClassname: "simple-icons:react",
-          style: {
-            color: "#61DAFB",
-          },
-        },
-        {
-          skillName: "MongoDB",
-          fontAwesomeClassname: "simple-icons:mongodb",
-          style: {
-            color: "#47A248",
-          },
-        },
-        {
-          skillName: "MySQL",
-          fontAwesomeClassname: "simple-icons:mysql",
-          style: {
-            color: "#4479A1",
-          },
-        },
-        {
-          skillName: "Github",
+          skillName: "GitHub Copilot",
           fontAwesomeClassname: "simple-icons:github",
           style: {
             color: "#181717",
-          },
-        },
-        {
-          skillName: "Heroku",
-          fontAwesomeClassname: "simple-icons:heroku",
-          style: {
-            color: "#430098",
-          },
-        },
-      ],
-    },
-    {
-      title: "Contact Center Manager",
-      fileName: "CloudInfraImg",
-      skills: [
-        "⚡ Manage and supervise CSRs to ensure excellent customer service delivery.",
-        "⚡ Develop and sustain a culture of training, professional development, and employee engagement to prepare, grow, and retain employees.",
-        "⚡ Monitor operational performance to meet KPIs and Service Level Agreements and implement solutions to improve business performance.",
-        "⚡ Analyze reports and statistical data to identify root causes for underperforming areas.",
-        "⚡ Use critical thinking to develop solutions to improve business performance and partner success.",
-        "⚡ Motivate teams through relationship building, coaching, and incentive programs to achieve desired outcomes.",
-        "⚡ Collaborate with other departments within the organization to resolve issues.",
-        "⚡ Gain expert-level knowledge on all partner products and promotions.",
-        "⚡ Demonstrate a positive work ethic and commitment to achieving the best possible outcomes.",
-        "⚡ Act as a role model and exemplify the company's cultural values.",
-      ],
-      softwareSkills: [
-        {
-          skillName: "WorkSpace",
-          fontAwesomeClassname: "simple-icons:privateinternetaccess",
-          style: {
-            color: "#4BB749",
-          },
-        },
-        {
-          skillName: "Slack",
-          fontAwesomeClassname: "simple-icons:slack",
-          style: {
-            color: "#4A154B",
-          },
-        },
-        {
-          skillName: "Zoom",
-          fontAwesomeClassname: "simple-icons:zoom",
-          style: {
-            color: "#2D8CFF",
           },
         },
       ],
@@ -410,46 +257,6 @@ const competitiveSites = {
       },
       profileLink: "https://www.linkedin.com/in/stephen-bullocks-899559141/",
     },
-    // {
-    //   siteName: "HackerRank",
-    //   iconifyClassname: "simple-icons:hackerrank",
-    //   style: {
-    //     color: "#2EC866",
-    //   },
-    //   profileLink: "https://www.hackerrank.com/layman_brother",
-    // },
-    // {
-    //   siteName: "Codechef",
-    //   iconifyClassname: "simple-icons:codechef",
-    //   style: {
-    //     color: "#5B4638",
-    //   },
-    //   profileLink: "https://www.codechef.com/users/ashutosh_1919",
-    // },
-    // {
-    //   siteName: "Codeforces",
-    //   iconifyClassname: "simple-icons:codeforces",
-    //   style: {
-    //     color: "#1F8ACB",
-    //   },
-    //   profileLink: "http://codeforces.com/profile/layman_brother",
-    // },
-    // {
-    //   siteName: "Hackerearth",
-    //   iconifyClassname: "simple-icons:hackerearth",
-    //   style: {
-    //     color: "#323754",
-    //   },
-    //   profileLink: "https://www.hackerearth.com/@ashutosh391",
-    // },
-    // {
-    //   siteName: "Kaggle",
-    //   iconifyClassname: "simple-icons:kaggle",
-    //   style: {
-    //     color: "#20BEFF",
-    //   },
-    //   profileLink: "https://www.kaggle.com/laymanbrother",
-    // },
   ],
 };
 
@@ -462,30 +269,16 @@ const degrees = {
       alt_name: "UCF Logo",
       duration: "OCT 2022 - DEC 2022",
       descriptions: [
-        "⚡ Studied the fundamental skills needed to become proficient in web development.",
-        "⚡ Experience in a wide range of topics, including HTML, CSS, JavaScript, Node.js, React, and more.",
-        "⚡ HTML/CSS: Learned how to create static web pages using HTML (Hypertext Markup Language) and CSS (Cascading Style Sheets). Also learned how to create and structure web pages, apply styles and layouts, and use multimedia elements like images and videos.",
-        "⚡ JavaScript: Learned the basics of JavaScript, a programming language used to create dynamic and interactive web pages. Including how to manipulate the Document Object Model (DOM), handle events, create functions, and work with data types and structures.",
-        "⚡ Node.js: Experience with how to use Node.js, a JavaScript runtime environment that allows them to build server-side applications using JavaScript. Practiced how to use Node.js to handle requests, interact with databases, and create APIs (Application Programming Interfaces).",
-        "⚡ React: Studied how to use React, a JavaScript library for building user interfaces. Also learn how to create reusable components, handle state and props, and use JSX (a syntax extension for JavaScript) to create dynamic and responsive UIs.",
-        "⚡ Databases: Practiced how to work with databases, including SQL (Structured Query Language) and NoSQL databases like MongoDB. Learned how to create and manipulate tables, perform CRUD (Create, Read, Update, Delete) operations, and use ORMs (Object-Relational Mappers) to interact with databases.",
-        "⚡ Other tools and technologies: I also gained experience with other tools and technologies used in web development, such as Git (a version control system), APIs, JSON (JavaScript Object Notation), AJAX (Asynchronous JavaScript and XML), and more.",
+        "⚡ Completed an intensive full-stack web development bootcamp covering both front-end and back-end technologies.",
+        "⚡ HTML/CSS: Built static and responsive web pages using HTML and CSS, including layouts, styles, and multimedia elements.",
+        "⚡ JavaScript: Mastered core JavaScript concepts including DOM manipulation, event handling, functions, and data structures.",
+        "⚡ Node.js: Built server-side applications using Node.js, handling requests, interacting with databases, and creating RESTful APIs.",
+        "⚡ React: Developed dynamic UIs using React, including reusable components, state management, props, and JSX.",
+        "⚡ Databases: Worked with both SQL (MySQL) and NoSQL (MongoDB) — including CRUD operations, schema design, and ORM usage.",
+        "⚡ Additional tools: Git, APIs, JSON, AJAX, Agile development methodology, testing and debugging techniques.",
       ],
       website_link: "https://bootcamp.ce.ucf.edu/coding/",
     },
-    // {
-    //   title: "Indiana University Bloomington",
-    //   subtitle: "M.S. in Computer Science",
-    //   logo_path: "iu_logo.png",
-    //   alt_name: "Indiana University Bloomington",
-    //   duration: "2021 - 2023",
-    //   descriptions: [
-    //     "⚡ I have taken varity of courses related to Artificial Intelligence which correspond to Explainable AI, Graph Machine Learning, Computer Vision etc.",
-    //     "⚡ Apart from this, I have also done research assistantship. As part of it, I have worked on creating new algorithms in Graph ML and Network Science.",
-    //     "⚡ During my time at university, I was also associated with multimedia department. As part of it, I have worked on some documentry films and interviews.",
-    //   ],
-    //   website_link: "https://www.indiana.edu/",
-    // },
   ],
 };
 
@@ -497,41 +290,44 @@ const certifications = {
       logo_path: "fullstack_logo.png",
       certificate_link:
         "https://drive.google.com/drive/u/0/folders/1yYPF4AmYCP3GfCZB2GqaaE7cGvpT8RuM",
-      alt_name: "Coursera",
+      alt_name: "UCF Bootcamp",
       color_code: "#2A73CC",
     },
-    // {
-    //   title: "Kuberenetes on GCP",
-    //   subtitle: "- Qwiklabs",
-    //   logo_path: "gcp_logo.png",
-    //   certificate_link:
-    //     "https://google.qwiklabs.com/public_profiles/e4d5a92b-faf6-4679-a70b-a9047c0cd750",
-    //   alt_name: "GCP",
-    //   color_code: "#4285F499",
-    // },
   ],
 };
 
 // Experience Page
 const experience = {
   title: "Experience",
-  subtitle: "My Work History",
+  subtitle: "Work History",
   description:
-    "Background in managing teams and overseeing operations in various industries, including plumbing, maintenance, and customer service. I have also provided technical support, coached and trained employees, and built and maintained client relationships. I recently graduated from Full Stack Web Development and I am excited about this new career path and eager to learn and grow in the field.",
+    "Frontend Engineer with 2+ years of professional experience building production React and JavaScript applications at ALTR. I bring 10+ years of leadership, operations, and client-facing expertise that gives me genuine product instinct. Currently upskilling, building personal projects with modern AI tools, and exploring new opportunities in frontend and full stack engineering.",
   header_image_path: "experience.svg",
   sections: [
     {
-      title: "Intouch CX",
+      title: "ALTR",
       experiences: [
         {
-          title: "Team Leader",
-          company: "L'Oreal",
-          company_url: "https://legatohealthtech.com/",
-          logo_path: "intouchcx_logo.png",
-          duration: "March 2023 - Present",
-          location: "Remote",
+          title: "Frontend Engineer",
+          company: "Cloud-Native Data Security",
+          company_url: "https://www.altr.com/",
+          // TODO: Add altr_logo.png to src/assests/images/ — download from https://www.altr.com
+          logo_path: "github_logo.png",
+          duration: "Aug 2023 - Feb 2026",
+          location: "Melbourne, Florida · Remote",
           description:
-            "As a customer service supervisor, I oversee a team of CSRs to ensure the delivery of excellent customer service. I have developed and sustained a culture of training, professional development, and employee engagement to prepare, grow, and retain employees. To ensure that we meet KPIs and Service Level Agreements, I monitor operational performance and implement solutions to improve business performance. This involves analyzing reports and statistical data to identify root causes for underperforming areas and using critical thinking to develop solutions. I motivate teams through relationship building, coaching, and incentive programs to achieve desired outcomes while collaborating with other departments within the organization to resolve issues. I have gained expert-level knowledge on all partner products and promotions and demonstrate a positive work ethic and commitment to achieving the best possible outcomes. As a role model, I exemplify the company's cultural values.",
+            "Built and maintained production frontend features at ALTR, a cloud-native data security company. Worked primarily in React and JavaScript while expanding across the stack to include AWS Lambda, Step Functions, and CloudWatch. Collaborated closely with cross-functional teams to deliver features that help enterprises govern and protect sensitive data in the cloud.",
+          color: "#0879bf",
+        },
+        {
+          title: "Data Engineer Intern",
+          company: "Cloud-Native Data Security",
+          company_url: "https://www.altr.com/",
+          logo_path: "github_logo.png",
+          duration: "May 2023 - Sep 2023",
+          location: "Melbourne, Florida · Hybrid",
+          description:
+            "Interned on the data engineering team at ALTR, gaining hands-on experience with cloud infrastructure and data pipelines. Worked alongside senior engineers to support the company's data access control and security platform.",
           color: "#0879bf",
         },
       ],
@@ -540,14 +336,30 @@ const experience = {
       title: "edX",
       experiences: [
         {
-          title: "Teaching Assistance & Grader",
+          title: "Teaching Assistant",
           company: "Online Education",
-          company_url: "https://legatohealthtech.com/",
+          company_url: "https://www.edx.org/",
           logo_path: "edx_logo.png",
-          duration: "March 2023 - Present",
+          duration: "Feb 2023 - Jun 2024",
           location: "Remote",
           description:
-            "As an educator, I am committed to delivering fast and high-quality feedback to my students. This involves preparing and staying up to date with curriculum expectations and core concepts, grading student homework submissions within 24-48 hours of submission, and providing clear and thorough feedback that supports the assigned grade. I take care to identify student errors and communicate them explicitly to the local instructional team while checking submissions for plagiarism prior to grading and notifying the team as needed. Additionally, I encourage students' learning progression according to our pedagogy and communicate with them in a way that also keeps the instructional staff in mind.",
+            "Assisted students with fundamental working knowledge of HTML, CSS, JavaScript, third-party APIs, Progressive Web Applications, MySQL, API design, and the MERN stack (MongoDB, Express.js, React.js, Node.js). Helped students work with diverse teams on demanding timelines to build fully functional web applications from start to finish. Guided students to develop the skills necessary to learn new technologies and resolve issues independently.",
+          color: "#0879bf",
+        },
+      ],
+    },
+    {
+      title: "IntouchCX",
+      experiences: [
+        {
+          title: "Team Leader",
+          company: "L'Oreal",
+          company_url: "https://www.intouchcx.com/",
+          logo_path: "intouchcx_logo.png",
+          duration: "Mar 2023 - Jun 2023",
+          location: "Remote",
+          description:
+            "Supervised a team of customer service representatives for the L'Oreal account, ensuring excellent service delivery and strong KPI performance. Coached team members through relationship building and incentive programs while monitoring SLAs and implementing solutions to improve business performance.",
           color: "#0879bf",
         },
       ],
@@ -556,14 +368,14 @@ const experience = {
       title: "Service Side Mechanical",
       experiences: [
         {
-          title: "Florida Office Manager",
+          title: "Office Manager",
           company: "HVAC",
-          company_url: "https://legatohealthtech.com/",
+          company_url: "https://www.linkedin.com/company/service-side-mechanical/",
           logo_path: "ssm_logo.png",
-          duration: "May 2021 - July 2022",
+          duration: "May 2021 - Jul 2022",
           location: "Orlando, Florida",
           description:
-            "Led and managed a team of technicians across Florida and Georgia to ensure exceptional customer service and satisfaction. Provided technical support in the field and resolved escalated customer complaints while ensuring compliance with company values. Coached and trained technicians on customer service, sales, technical and mechanical knowledge, and company products and services to improve overall performance and productivity. Developed and managed new client onboarding procedures and documents to streamline processes and increase efficiency. Provided consistent feedback, encouragement, and professional development opportunities to service technicians to enhance their skills and knowledge.",
+            "Led and managed a team of technicians across Florida and Georgia to ensure exceptional customer service and satisfaction. Provided technical support in the field and resolved escalated customer complaints. Coached and trained technicians on customer service, sales, technical and mechanical knowledge, and company products and services. Developed and managed new client onboarding procedures and documentation to streamline processes and increase efficiency.",
           color: "#0879bf",
         },
       ],
@@ -573,13 +385,13 @@ const experience = {
       experiences: [
         {
           title: "Plumbing Contractor",
-          company: "Plumber",
-          company_url: "https://www.tiktok.com/en/",
+          company: "Plumbing",
+          company_url: "https://www.linkedin.com/company/advanced-plumbing-technology/",
           logo_path: "apt_logo.png",
-          duration: "Nov 2020 - May 2021",
+          duration: "Oct 2020 - May 2021",
           location: "Casselberry, Florida",
           description:
-            "Specialized in cast iron pipe replacement and utilized advanced equipment to diagnose and address pipe issues while offering affordable solutions to homeowners. Provided end-to-end plumbing services, including initial inspection, assessment, consultation, mitigation/replacement, system testing, and clean-up.",
+            "Cast iron pipe replacement specialist. Used advanced equipment to show homeowners the current state of their pipes, assessed damage in a non-destructive manner, and provided affordable modern plumbing solutions. Managed end-to-end service: initial inspection → assessment → consultation → mitigation/replacement → system test → clean-up.",
           color: "#000000",
         },
       ],
@@ -588,14 +400,14 @@ const experience = {
       title: "CD Maintenance Company",
       experiences: [
         {
-          title: "Senior Team Leader",
+          title: "Senior Support Specialist",
           company: "Maintenance",
-          company_url: "https://about.google/",
+          company_url: "https://www.linkedin.com/company/cd-maintenance-company/",
           logo_path: "cdmc_logo.png",
-          duration: "Aug 2018 - Oct 2021",
+          duration: "Aug 2018 - Oct 2020",
           location: "Lake Mary, Florida",
           description:
-            "Managed vendor relationships and ensured that all work orders were completed efficiently and effectively while adhering to company policies and procedures. Coached and developed team members to maximize their growth and productivity, resulting in increased overall team performance. Created and managed quotes to complete work orders and maintained client relationships by communicating regularly and resolving issues in a timely manner. Recruited new vendors in underrepresented areas and established long-term relationships to ensure smooth operations and customer satisfaction.",
+            "Managed vendor relationships and ensured all work orders were completed efficiently while adhering to company policies. Coached and developed team members to maximize growth and productivity. Created and managed quotes for work orders and maintained long-term client relationships through regular communication and timely issue resolution. Recruited new vendors in underrepresented areas and built relationships to ensure smooth operations and client satisfaction.",
           color: "#4285F4",
         },
       ],
@@ -604,63 +416,41 @@ const experience = {
       title: "24-7 Intouch",
       experiences: [
         {
-          title: "Operations Manager in Training",
+          title: "Senior Team Leader",
           company: "Credit Karma",
-          company_url: "https://www.tiktok.com/en/",
+          company_url: "https://www.intouchcx.com/",
           logo_path: "247_logo.png",
-          duration: "Nov 2016 - Apr 2018",
-          location: "Altamonnte Springs, Florida",
+          duration: "May 2016 - Apr 2018",
+          location: "Altamonte Springs, Florida",
           description:
-            "Directed and managed all operational activities during shift and away from work. Contributed to the site’s overall strategic direction. Directly managed Team Managers, Team Leaders, and Customer Service Representatives.",
+            "Directed and managed all operational activities during shift. Contributed to the site's overall strategic direction. Directly managed Team Managers, Team Leaders, and Customer Service Representatives. Ensured production objectives and performance standards were met, managed scheduling per volume forecasts, and maintained headcount ratios per contractual agreements.",
           color: "#000000",
         },
         {
-          title: "Team Leader",
+          title: "Senior Team Lead",
           company: "SHOWTIME",
-          company_url: "https://www.tiktok.com/en/",
+          company_url: "https://www.intouchcx.com/",
           logo_path: "247_logo.png",
           duration: "May 2016 - Nov 2016",
-          location: "Altamonnte Springs, Florida",
+          location: "Altamonte Springs, Florida",
           description:
-            "Providing guidance and support to customer service representatives, ensuring high-quality service is delivered to customers. Representing clients and maintaining knowledge of their brand and products. Coaching and advocating for team members, and administering performance evaluations and training programs to promote professional and personal development.",
+            "Provided front-line direction to CSRs and ensured quality service in every customer interaction. Represented the client brand and maintained knowledge of products, promotions, and processes. Coached and advocated for team members while administering performance evaluations, training programs, and career development opportunities.",
           color: "#000000",
         },
       ],
     },
     {
-      title: "Concentrix",
+      title: "Convergys",
       experiences: [
         {
-          title: "Team Leader",
+          title: "Team Lead Manager",
           company: "AT&T",
-          company_url: "https://www.tiktok.com/en/",
+          company_url: "https://www.concentrix.com/",
           logo_path: "concentrix_logo.png",
-          duration: "Nov 2014 - May 2016",
-          location: "Heathrow, Florida",
+          duration: "2011 - May 2016",
+          location: "Lake Mary, Florida",
           description:
-            "Effectively interact with team members from diverse backgrounds and personalities. Demonstrate genuine interest in team members and maintain open lines of communication. Advocate for team members and coach them on performance. Write and deliver bi-annual performance appraisals and provide positive and negative feedback. Develop adaptive coaching strategies to help team members achieve their goals. Build relationships with team members to ensure metrics are achieved. Take end-to-end ownership of projects and meet or exceed deadlines for reporting. Create action plans to address issues and improve team performance. Support other leaders in achieving their goals. Attend calibration sessions, conference calls, and other meetings as required. Monitor attendance and provide input for training and development opportunities.",
-          color: "#000000",
-        },
-        {
-          title: "Team Support Specialist",
-          company: "AT&T",
-          company_url: "https://www.tiktok.com/en/",
-          logo_path: "concentrix_logo.png",
-          duration: "Feb 2014 - May 2014",
-          location: "Heathrow, Florida",
-          description:
-            "Customer service and sales experience with a focus on group interactions. Skilled in goal setting, problem-solving, and building stronger relationships with customers. Ability to acquire new customers and provide fast, efficient support. Experienced in multitasking and using chat and other technical support tools. Provide floor support through walking and chat to assist team members with customer issues. Live call listening and coaching to improve customer interactions and sales outcomes. Able to handle escalation calls and record and document customer interactions. Enforce company policies and procedures to ensure high-quality service and compliance. Up-train agents on best practices for customer service and sales. Skilled in managing phone time effectively while maintaining high customer satisfaction.",
-          color: "#000000",
-        },
-        {
-          title: "Technical Support Sales Rep II",
-          company: "AT&T",
-          company_url: "https://www.tiktok.com/en/",
-          logo_path: "concentrix_logo.png",
-          duration: "Dec 2013 - Feb 2014",
-          location: "Heathrow, Florida",
-          description:
-            "Experienced in customer service, sales, and group interactions. Skilled in goal setting, problem-solving, and building stronger relationships with customers. Proven ability to acquire new customers and provide fast, efficient support. Experienced in multitasking and using chat and other technical support tools.",
+            "Led diverse teams in a high-volume customer service environment. Maintained open communication, advocated for team members, delivered bi-annual performance appraisals, and developed adaptive coaching strategies. Managed attendance, created action plans to address performance gaps, and drove team metrics to consistently meet or exceed targets.",
           color: "#000000",
         },
       ],
@@ -672,7 +462,7 @@ const experience = {
 const projectsHeader = {
   title: "Projects",
   description:
-    "My projects makes use of vast variety of latest technology tools. I am learning to code everyday!",
+    "I build projects to learn, explore new technologies, and demonstrate real-world skills. Recent work includes a real-time friend presence PWA (Cluster), an AI-augmented workflow demo (Multiplier), and a full-stack Twitch analytics dashboard with Python and FastAPI. Check out my GitHub for the latest.",
   avatar_image_path: "projects_image.svg",
 };
 
@@ -684,48 +474,7 @@ const publicationsHeader = {
 };
 
 const publications = {
-  data: [
-    // {
-    //   id: "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzQ=",
-    //   name: "Artificial Intelligence Paper",
-    //   createdAt: "2020-03-06T16:26:54Z",
-    //   description: "Paper Written on Artificial Intelligence published in xyz ",
-    //   url:
-    //     "https://www.andrewng.org/publications/building-high-level-features-using-large-scale-unsupervised-learning/",
-    // },
-    // {
-    //   id: "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzi=",
-    //   name: "Artificial Intelligence Paper",
-    //   createdAt: "2020-03-06T16:26:54Z",
-    //   description: "Paper Written on Artificial Intelligence published in xyz ",
-    //   url:
-    //     "https://www.andrewng.org/publications/building-high-level-features-using-large-scale-unsupervised-learning/",
-    // },
-    // {
-    //   id: "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNze=",
-    //   name: "Artificial Intelligence Paper",
-    //   createdAt: "2020-03-06T16:26:54Z",
-    //   description: "Paper Written on Artificial Intelligence published in xyz ",
-    //   url:
-    //     "https://www.andrewng.org/publications/building-high-level-features-using-large-scale-unsupervised-learning/",
-    // },
-    // {
-    //   id: "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzt=",
-    //   name: "Artificial Intelligence Paper",
-    //   createdAt: "2020-03-06T16:26:54Z",
-    //   description: "Paper Written on Artificial Intelligence published in xyz ",
-    //   url:
-    //     "https://www.andrewng.org/publications/building-high-level-features-using-large-scale-unsupervised-learning/",
-    // },
-    // {
-    //   id: "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzb=",
-    //   name: "Artificial Intelligence Paper",
-    //   createdAt: "2020-03-06T16:26:54Z",
-    //   description: "Paper Written on Artificial Intelligence published in xyz ",
-    //   url:
-    //     "https://www.andrewng.org/publications/building-high-level-features-using-large-scale-unsupervised-learning/",
-    // },
-  ],
+  data: [],
 };
 
 // Contact Page
@@ -734,21 +483,19 @@ const contactPageData = {
     title: "Contact Me",
     profile_image_path: "selfie.png",
     description:
-      "I am available via LinkedIn as I do not have social media. You can message me, I will reply within 24-48 hours.",
+      "I'm available via LinkedIn and email. Feel free to reach out — I typically reply within 24-48 hours.",
   },
   blogSection: {
     title: "*Lifelong Learning Journey*",
     subtitle:
-      "Welcome to my portfolio page! As a Web Developer, I am passionate about creative problem solving and continuous innovations. I am constantly seeking new knowledge and skills, and I firmly believe that learning is a lifelong journey. On this portfolio, you will find a selection of my work that showcases my current level of expertise. But please note that I am actively learning and growing every day, and I will continue to update my projects as I progress. I am dedicated to staying up-to-date with the latest advancements in my field, attending workshops, networking with peers, and taking new courses that help me stay ahead of the curve. This approach allows me to offer my clients the most effective and innovative solutions. Thank you for taking the time to visit my portfolio. If you have any questions or would like to learn more about my work, please don't hesitate to reach out.",
-    // link: "https://blogs.ashutoshhathidara.com/",
-    // avatar_image_path: "blogs_image.svg",
+      "Frontend Engineer in active job search mode — upskilling daily, building real projects, and using AI to accelerate my growth. I'm working at the intersection of engineering and product thinking, building things like Cluster (a real-time PWA with Supabase) and Multiplier (an AI-augmented workflow demo). I care about shipping useful things, thinking like a product engineer, and growing into a role where both the code and the 'why behind it' matter. If you're building something interesting, let's talk.",
   },
   addressSection: {
     title: "Address",
-    subtitle: "Orlando, Florida",
+    subtitle: "Sanford, Florida",
     avatar_image_path: "address_image.svg",
     location_map_link:
-      "https://www.google.com/maps?q=orlando+florida&rlz=1C1WERZ_enUS997US997&um=1&ie=UTF-8&sa=X&ved=2ahUKEwisvv3uuuT9AhVyTDABHS1uCz0Q_AUoAXoECAEQAw",
+      "https://www.google.com/maps/search/sanford+florida",
   },
   phoneSection: {
     title: "",
