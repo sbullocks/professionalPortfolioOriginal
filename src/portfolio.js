@@ -214,14 +214,14 @@ const skills = {
       fileName: "DesignImg",
       skills: [
         "⚡ Using AI as a force multiplier — from vague feature idea to production-ready, rendered code",
-        "⚡ Integrating Anthropic Claude into development workflows for faster iteration and deeper learning",
+        "⚡ Integrating AI into development workflows for faster iteration and deeper learning",
         "⚡ Building AI-augmented applications with visible decision trails and documented judgment calls",
         "⚡ Compressing multi-week team efforts into days through intelligent AI collaboration",
         "⚡ Prompt engineering and AI tool evaluation for real-world production use cases",
       ],
       softwareSkills: [
         {
-          skillName: "Anthropic Claude",
+          skillName: "Claude AI",
           fontAwesomeClassname: "simple-icons:anthropic",
           style: {
             color: "#CC785C",
