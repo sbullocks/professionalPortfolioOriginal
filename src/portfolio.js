@@ -27,7 +27,7 @@ const greeting = {
   subTitle:
     "Hello, my name is Stephen Bullocks, and I recently graduated from the University of Central Florida with a degree in Full-Stack Web Development. As a web developer, I am passionate about creating innovative and user-friendly websites that meet the needs of both clients and end-users. I am dedicated to continuing my education and learning new technologies daily to improve my skills and stay up-to-date with the latest trends in web development.",
   resumeLink:
-    "https://onedrive.live.com/view.aspx?resid=528410233463101B!6654&ithint=file%2cdocx&authkey=!AN9lxkvPlXdGodY",
+    "https://docs.google.com/document/d/1zolUC_D2Ztx3mGRTMWeSAmEpu-fiFNYj/edit",
   portfolio_repository: "https://github.com/sbullocks/professionalPortfolio",
   githubProfile: "https://github.com/sbullocks",
 };
