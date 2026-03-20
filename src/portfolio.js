@@ -23,7 +23,7 @@ const greeting = {
   logo_name: "StephenBullocks",
   nickname: "STEE-vən",
   subTitle:
-    "I build production React and JavaScript applications — and I use AI as a force multiplier to ship faster, learn deeper, and think bigger than my role on paper. At ALTR, a cloud-native data security company, I spent 2+ years building frontend features and expanding across the stack — working with AWS Lambda, Step Functions, and CloudWatch. My most recent personal project, Cluster, is a real-time friend presence PWA built with React, Supabase Realtime, Edge Functions, Web Push notifications, and deployed on Vercel. I bring 10+ years of leadership, operations, and client-facing experience that gives me genuine product instinct — I naturally think in user outcomes, communicate across functions, and care about why something is built, not just how.",
+    "I build production React and JavaScript applications — and I use AI as a force multiplier to ship faster, learn deeper, and think bigger than my role on paper. At ALTR, a cloud-native data security company, I spent 3+ years building frontend features and expanding across the stack — working with AWS Lambda, Step Functions, and CloudWatch. My most recent personal project, Cluster, is a real-time friend presence PWA built with React, Supabase Realtime, Edge Functions, Web Push notifications, and deployed on Vercel. I bring 10+ years of leadership, operations, and client-facing experience that gives me genuine product instinct — I naturally think in user outcomes, communicate across functions, and care about why something is built, not just how.",
   resumeLink:
     "https://docs.google.com/document/d/1zolUC_D2Ztx3mGRTMWeSAmEpu-fiFNYj/edit",
   portfolio_repository: "https://github.com/sbullocks/professionalPortfolio",
@@ -301,7 +301,7 @@ const experience = {
   title: "Experience",
   subtitle: "Work History",
   description:
-    "Frontend Engineer with 2+ years of professional experience building production React and JavaScript applications at ALTR. I bring 10+ years of leadership, operations, and client-facing expertise that gives me genuine product instinct. Currently upskilling, building personal projects with modern AI tools, and exploring new opportunities in frontend and full stack engineering.",
+    "Frontend Engineer with 3+ years of professional experience building production React and JavaScript applications at ALTR. I bring 10+ years of leadership, operations, and client-facing expertise that gives me genuine product instinct. Currently upskilling, building personal projects with modern AI tools, and exploring new opportunities in frontend and full stack engineering.",
   header_image_path: "experience.svg",
   sections: [
     {
@@ -370,7 +370,8 @@ const experience = {
         {
           title: "Office Manager",
           company: "HVAC",
-          company_url: "https://www.linkedin.com/company/service-side-mechanical/",
+          company_url:
+            "https://www.linkedin.com/company/service-side-mechanical/",
           logo_path: "ssm_logo.png",
           duration: "May 2021 - Jul 2022",
           location: "Orlando, Florida",
@@ -386,7 +387,8 @@ const experience = {
         {
           title: "Plumbing Contractor",
           company: "Plumbing",
-          company_url: "https://www.linkedin.com/company/advanced-plumbing-technology/",
+          company_url:
+            "https://www.linkedin.com/company/advanced-plumbing-technology/",
           logo_path: "apt_logo.png",
           duration: "Oct 2020 - May 2021",
           location: "Casselberry, Florida",
@@ -400,9 +402,10 @@ const experience = {
       title: "CD Maintenance Company",
       experiences: [
         {
-          title: "Senior Support Specialist",
+          title: "Senior Support Leader",
           company: "Maintenance",
-          company_url: "https://www.linkedin.com/company/cd-maintenance-company/",
+          company_url:
+            "https://www.linkedin.com/company/cd-maintenance-company/",
           logo_path: "cdmc_logo.png",
           duration: "Aug 2018 - Oct 2020",
           location: "Lake Mary, Florida",
@@ -416,7 +419,7 @@ const experience = {
       title: "24-7 Intouch",
       experiences: [
         {
-          title: "Senior Team Leader",
+          title: "Junior Operations Manager",
           company: "Credit Karma",
           company_url: "https://www.intouchcx.com/",
           logo_path: "247_logo.png",
@@ -440,7 +443,7 @@ const experience = {
       ],
     },
     {
-      title: "Convergys",
+      title: "Concentrix",
       experiences: [
         {
           title: "Team Lead Manager",
@@ -494,8 +497,7 @@ const contactPageData = {
     title: "Address",
     subtitle: "Sanford, Florida",
     avatar_image_path: "address_image.svg",
-    location_map_link:
-      "https://www.google.com/maps/search/sanford+florida",
+    location_map_link: "https://www.google.com/maps/search/sanford+florida",
   },
   phoneSection: {
     title: "",
