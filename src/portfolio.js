@@ -9,7 +9,7 @@ const settings = {
 const seo = {
   title: "Stephen's Portfolio",
   description:
-    "Frontend Engineer building production React and JavaScript applications. AI Native Builder using AI as a force multiplier to ship faster and think bigger. 10+ years of leadership and operations experience that brings genuine product instinct to engineering.",
+    "Full Stack Engineer building React frontends, Python/FastAPI backends, and real-time applications — using AI as a force multiplier to ship faster and think bigger. 10+ years of leadership and operations experience that brings genuine product instinct to engineering.",
   og: {
     title: "Stephen Bullocks Portfolio",
     type: "website",
@@ -23,7 +23,7 @@ const greeting = {
   logo_name: "StephenBullocks",
   nickname: "STEE-vən",
   subTitle:
-    "I build production React and JavaScript applications — and I use AI as a force multiplier to ship faster, learn deeper, and think bigger than my role on paper. At ALTR, a cloud-native data security company, I spent 3+ years building frontend features and expanding across the stack — working with AWS Lambda, Step Functions, and CloudWatch. My most recent personal project, Cluster, is a real-time friend presence PWA built with React, Supabase Realtime, Edge Functions, Web Push notifications, and deployed on Vercel. I bring 10+ years of leadership, operations, and client-facing experience that gives me genuine product instinct — I naturally think in user outcomes, communicate across functions, and care about why something is built, not just how.",
+    "I build full stack applications — React frontends, Python/FastAPI backends, real-time infrastructure, and everything in between — using AI as a force multiplier to ship faster and learn deeper. At ALTR, a cloud-native data security company, I spent 3+ years building production React features and expanding into AWS Lambda, Step Functions, and CloudWatch. Since then I've shipped four personal projects: Cluster (real-time PWA with Supabase Realtime, Edge Functions, and Web Push), Multiplier (an AI-augmented dev workflow demo), Calorie Buddy (friend-linked calorie tracker PWA), and Twitch Dashboard (full-stack analytics with Python, FastAPI, and React). I'm actively deepening my TypeScript skills and pushing further into full stack engineering. I bring 10+ years of leadership and client-facing experience that gives me genuine product instinct — I naturally think in user outcomes and care about why something is built, not just how.",
   resumeLink:
     "https://docs.google.com/document/d/1zolUC_D2Ztx3mGRTMWeSAmEpu-fiFNYj/edit",
   portfolio_repository: "https://github.com/sbullocks/professionalPortfolio",
@@ -491,7 +491,7 @@ const contactPageData = {
   blogSection: {
     title: "*Lifelong Learning Journey*",
     subtitle:
-      "Frontend Engineer in active job search mode — upskilling daily, building real projects, and using AI to accelerate my growth. I'm working at the intersection of engineering and product thinking, building things like Cluster (a real-time PWA with Supabase) and Multiplier (an AI-augmented workflow demo). I care about shipping useful things, thinking like a product engineer, and growing into a role where both the code and the 'why behind it' matter. If you're building something interesting, let's talk.",
+      "Full Stack Engineer in active job search mode — upskilling daily, shipping real projects, and using AI to accelerate my growth. I've built across the full stack: Cluster (real-time PWA with Supabase Realtime and Web Push), Multiplier (AI-augmented dev workflow demo), Calorie Buddy (friend-linked PWA with offline support and chart history), and Twitch Dashboard (Python/FastAPI backend + React frontend pulling live data from the Twitch Helix API). I'm actively learning TypeScript and going deeper into full stack engineering — building toward a role where I own features end to end. I care about shipping useful things, thinking like a product engineer, and growing into a role where both the code and the 'why behind it' matter. If you're building something interesting, let's talk.",
   },
   addressSection: {
     title: "Address",

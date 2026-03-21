@@ -17,7 +17,7 @@
   "scripts": {
     "build": "react-scripts build",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -b gh-pages -d build",
+    "deploy": "gh-pages -b gh-pages -d build --repo https://github.com/sbullocks/sbullocks.github.io.git",
     "eject": "react-scripts eject",
     "start": "react-scripts start",
     "test": "react-scripts test"

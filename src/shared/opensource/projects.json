@@ -1,52 +1,16 @@
 {
   "data": [
     {
-      "id": "R_kgDOISppYw",
-      "name": "professional-readme-generator",
-      "createdAt": "2022-10-23T20:34:22Z",
-      "url": "https://github.com/sbullocks/professional-readme-generator",
-      "description": "Quickly and easily create a README file by using a command-line application to generate one. ",
-      "isFork": true,
-      "languages": [
-        {
-          "name": "JavaScript",
-          "iconifyClass": "logos-javascript"
-        }
-      ]
-    },
-    {
-      "id": "R_kgDOINaUzA",
-      "name": "Game-Hub",
-      "createdAt": "2022-10-13T15:03:15Z",
-      "url": "https://github.com/sbullocks/Game-Hub",
-      "description": "This is Project 1. Combine 2+ APIs to build a responsive web application. Gaming related.",
+      "id": "R_kgDORF7Dmg",
+      "name": "cluster",
+      "createdAt": "2026-03-02T23:28:19Z",
+      "url": "https://github.com/sbullocks/cluster",
+      "description": "Real-time PWA for small friend groups — see live presence across shared spaces and join instantly, with push notifications and group chat.",
       "isFork": false,
       "languages": [
         {
-          "name": "HTML",
-          "iconifyClass": "logos-html-5"
-        },
-        {
-          "name": "CSS",
-          "iconifyClass": "logos-css-3"
-        },
-        {
-          "name": "JavaScript",
-          "iconifyClass": "logos-javascript"
-        }
-      ]
-    },
-    {
-      "id": "R_kgDOIima2Q",
-      "name": "challenge-19-pwa-text-editor",
-      "createdAt": "2022-12-01T20:12:00Z",
-      "url": "https://github.com/sbullocks/challenge-19-pwa-text-editor",
-      "description": "Progressive Web Applications (PWA) Challenge: Text Editor",
-      "isFork": false,
-      "languages": [
-        {
-          "name": "HTML",
-          "iconifyClass": "logos-html-5"
+          "name": "React",
+          "iconifyClass": "logos-react"
         },
         {
           "name": "JavaScript",
@@ -55,6 +19,68 @@
         {
           "name": "CSS",
           "iconifyClass": "logos-css-3"
+        }
+      ]
+    },
+    {
+      "id": "R_kgDORPs3bw",
+      "name": "multiplier",
+      "createdAt": "2026-03-09T20:29:28Z",
+      "url": "https://github.com/sbullocks/multiplier",
+      "description": "Live demo of an AI-augmented dev workflow — from vague idea to rendered working code — with every prompt, AI output, and human judgment call visible.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "React",
+          "iconifyClass": "logos-react"
+        },
+        {
+          "name": "JavaScript",
+          "iconifyClass": "logos-javascript"
+        }
+      ]
+    },
+    {
+      "id": "R_kgDORZQgow",
+      "name": "calorie_tracker",
+      "createdAt": "2026-03-13T03:05:46Z",
+      "url": "https://github.com/sbullocks/calorie_tracker",
+      "description": "Calorie Buddy — a React PWA to track daily intake alongside a friend, with food search, progress charts, and offline support.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "React",
+          "iconifyClass": "logos-react"
+        },
+        {
+          "name": "JavaScript",
+          "iconifyClass": "logos-javascript"
+        },
+        {
+          "name": "CSS",
+          "iconifyClass": "logos-css-3"
+        }
+      ]
+    },
+    {
+      "id": "R_kgDORsEkZw",
+      "name": "twitch-dashboard",
+      "createdAt": "2026-03-20T21:54:48Z",
+      "url": "https://github.com/sbullocks/twitch-dashboard",
+      "description": "Full-stack Twitch analytics dashboard — live stream stats, top clips, and VODs via the Twitch Helix API, with a Python/FastAPI backend and React frontend.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "Python",
+          "iconifyClass": "logos-python"
+        },
+        {
+          "name": "React",
+          "iconifyClass": "logos-react"
+        },
+        {
+          "name": "JavaScript",
+          "iconifyClass": "logos-javascript"
         }
       ]
     }
